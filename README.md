@@ -37,22 +37,26 @@ The format of a summary is a JSON file with the following entries:
 Example: 
 ```json
 {
-  "blog_id": "4d803bc021f579d4aa3b24cec5b994", 
-  "summary": ["Task of translating natural language queries into regular expressions without using domain specific
-               knowledge.", 
-             "Proposes a methodology for collecting a large corpus of regular expressions to natural language pairs.", 
-             "Reports performance gain of 19.6% over state-of-the-art models.", 
-             "Architecture  LSTM based sequence to sequence neural network (with attention)
-              Six layers  One-word embedding layer Two encoder layers  Two decoder layers  
-              One dense output layer.", 
-             "Attention over encoder layer.", 
-             "...."], 
-  "author_id": "shugan", 
-  "pdf_url": "http://arxiv.org/pdf/1608.03000v1", 
+  "blog_id": "4d803bc021f579d4aa3b24cec5b994",
+  "summary": [
+    "Task of translating natural language queries into regular expressions without using domain specific knowledge.",
+    "Proposes a methodology for collecting a large corpus of regular expressions to natural language pairs.",
+    "Reports performance gain of 19.6% over state-of-the-art models.",
+    "Architecture  LSTM based sequence to sequence neural network (with attention) Six layers ...",
+    "Attention over encoder layer.",
+    "...."
+  ],
+  "author_id": "shugan",
+  "pdf_url": "http://arxiv.org/pdf/1608.03000v1",
   "author_full_name": "Shagun Sodhani",
   "source_website": "https://github.com/shagunsodhani/papers-I-read"
 }
 ```
+
+
+
+
+
 
 
 Each papers' summary should be linked the corresponding text of the original paper. Due to copyright will not publish the original papers, here are the suggested steps to fully construct the dataset:
