@@ -109,7 +109,7 @@ We would like to thank the following blog authors who generosity allowed us to s
 
 ## Task Organizers:
 
-* [Michal Shmueli-Scheuer] (https://researcher.watson.ibm.com/researcher/view.php?person=il-SHMUELI)
-* [Guy Feigenblat](https://researcher.watson.ibm.com/researcher/view.php?person=il-GUYF)
+* [Michal Shmueli-Scheuer - IBM Research AI](https://researcher.watson.ibm.com/researcher/view.php?person=il-SHMUELI)
+* [Guy Feigenblat - IBM Research AI](https://researcher.watson.ibm.com/researcher/view.php?person=il-GUYF)
 
 
