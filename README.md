@@ -63,8 +63,8 @@ Each papers' summary should be linked the corresponding text of the original pap
    **_Notice - some of the papers may require a subscription (e.g., ACM). If you do not have the permission the script won't be able to download the paper._**
 
   The script accepts as input 3 parameters `python downloader.py --urls_file=/path/to/input/file/with/mapping --out_folder=/path/to/output/dir/for/PDF --num_processors=3`: 
-    - `urls_file`  - path to the URL_2_summ.txt file
-    - `out_folder` - path to the output directory where you want all the PDFs.
+    - `clusters_dir`  - path to the directory that contains the summaries
+    - `out_folder` - path to the output directory where you want all the PDFs
     - `num_processes` - the script has an option to run in a multiprocess fashion. Default=1, we recommend to use more in order to decrease the downloading time. 
 
 
