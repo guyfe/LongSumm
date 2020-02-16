@@ -1,5 +1,5 @@
 # LongSumm
-A Shared Task at [EMNLP 2020](https://2020.emnlp.org) that focuses on generating long summaries for scientific documents. LongSumm is one of three shared tasks conducted as part of: [1st Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/). 
+A Shared Task at [EMNLP 2020](https://2020.emnlp.org) that focuses on generating long summaries for scientific documents. LongSumm is one of three shared tasks conducted as part of: [1st Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/)
 
 # LongSumm - Motivation
 
