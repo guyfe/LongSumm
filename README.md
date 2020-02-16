@@ -79,10 +79,7 @@ num_processes - the script has an option to run in a multiprocess fashion. Defau
 The output of this scripts is the papers PDFs by their IDs, under the out_folder.
 
 
-* Extract Text of the PDF- given papers in pdf format, we used science-parse to convert them to structured json files. 
-
-
-
+* Extract Text of the PDF- given papers in pdf format, we used [science-parse](https://github.com/allenai/science-parse) to convert them to structured json files. 
 
 At the end of this step, you should have for each summary, a corresponding JSON file of the original text from the paper as extracted by science-parse
 
@@ -99,7 +96,7 @@ The order of the sentences is according to their order in the paper.
 Link to the reference paper.
 
 
-If you wish to create extractive summaries of a paper that is not exists in the dataset, you will need to follow the instructions from: https://github.com/levguy/talksumm
+If you wish to create extractive summaries of a paper that is not exists in the dataset, you will need to follow the instructions from: [https://github.com/levguy/talksumm](https://github.com/levguy/talksumm)
 
 
 
