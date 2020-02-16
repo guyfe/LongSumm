@@ -122,6 +122,8 @@ We would like to thank the following blog authors who generosity allowed us to s
 * Adrian Colye  [https://blog.acolyer.org/about/](https://blog.acolyer.org/about/)
 * Alexander Jung  [https://github.com/aleju/papers](https://github.com/aleju/papers)
 
+## License:
+The dataset is released with license [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## Task Organizers:
 
