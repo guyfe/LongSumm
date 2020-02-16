@@ -21,12 +21,13 @@ The training data is composed of abstractive and extractive summaries.
 ### Abstractive Summaries:
 The abstractive summaries are of different domains of CS including ML, NLP, AI, vision, storage, etc.
 
-The training data contains 700 abstractive summaries that can be found at data/abstractive/cluster. The folder contains clusters of summaries with length varied between 100-1500 words. Each sub-folder clusters into bins of size 100 words.  (i.e., summary of 541 words will appear in the corresponding cluster of 500-600). We used the Python [NLTK](https://www.nltk.org) libaray to count number of words and to segment summary text into sentences.  
+The training data contains 700 abstractive summaries that can be found at data/abstractive/cluster. The folder contains clusters of summaries with length varied between 100-1500 words. Each sub-folder clusters into bins of size 100 words.  (i.e., summary of 541 words will appear in the corresponding cluster of 500-600). We used the Python [NLTK](https://www.nltk.org) library to count number of words and to segment summary text into sentences.  
 
 The format of a summary is a JSON file with the following entries:
 | Entry | Description |
 | --- | --- |
-| blog_id | The id (unique) of the blog |
+| id | Record id (unique) |
+| blog_id | The id of the blog |
 | summary | An array of the sentences of the summary|
 | author_id | The id of the author|
 | pdf_url | The link to the original paper|
@@ -37,6 +38,7 @@ The format of a summary is a JSON file with the following entries:
 Example: 
 ```json
 {
+  "id": "79792577",
   "blog_id": "4d803bc021f579d4aa3b24cec5b994",
   "summary": [
     "Task of translating natural language queries into regular expressions ...",
@@ -54,26 +56,12 @@ Example: 
 ```
 
 
-
-
-
-
-
 Each papers' summary should be linked the corresponding text of the original paper. Due to copyright will not publish the original papers, here are the suggested steps to fully construct the dataset:
 
-
-* Download the file URL_2_summ.txt  (data/URL_2_summ.txt). The file URL_2_summ.txt is a tab delimited file which maps a URL to summary id.
-
-
-Example:
-```
-id1        https://arxiv.org/pdf/1611.09830
-```
-
-* Extract PDF - to get the PDF of the paper, use the script downloader.py. It gets as input 3 parameters:
-urls_file  - path to the URL_2_summ.txt file
-out_folder - path to the output directory where you want all the PDFs.
-num_processes - the script has an option to run in a multiprocess fashion. Default=1, we recommend to use more in order to decrease the downloading time. 
+Extract PDF - to get the PDF of the paper, use the script downloader.py. It accepts as input 3 parameters:
+- `urls_file`  - path to the URL_2_summ.txt file
+- `out_folder` - path to the output directory where you want all the PDFs.
+- `num_processes` - the script has an option to run in a multiprocess fashion. Default=1, we recommend to use more in order to decrease the downloading time. 
 *Notice - some of the papers may require a subscription (e.g., ACM). If you do not have the permission the script won't be able to download the paper.*
 
 
