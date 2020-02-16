@@ -40,7 +40,7 @@ Example: 
   "blog_id": "4d803bc021f579d4aa3b24cec5b994",
   "summary": [
     "Task of translating natural language queries into regular expressions ...",
-    "Proposes a methodology for collecting a large corpus of regular expressions to natural language pairs.",
+    "Proposes a methodology for collecting a large corpus of regular expressions ...",
     "Reports performance gain of 19.6% over state-of-the-art models.",
     "Architecture  LSTM based sequence to sequence neural network (with attention) Six layers ...",
     "Attention over encoder layer.",
