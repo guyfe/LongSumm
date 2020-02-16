@@ -10,7 +10,7 @@ The LongSumm task opted to leverage blogs created by researchers in the NLP and 
 The corpus for this task includes a training set that consists of 1705 extractive summaries, and around 700 abstractive summaries of NLP and Machine Learning scientific papers. These are drawn from papers based on video talks from associated conferences (Lev et al. 2019 TalkSumm) and from blogs created by NLP and ML researchers. In addition, we create a test set of abstractive summaries. Each submission is judged against one reference summary (gold summary) on ROUGE and should not exceed 600 words.
 
 
-# LongSumm Task - data and instructions
+# LongSumm - data and instructions
 
 This repository contains a dataset and explanation for LongSumm task.
 
