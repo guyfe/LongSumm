@@ -78,7 +78,7 @@ Each papers' summary should be linked the corresponding text of the original pap
 
 ### Extractive Summaries:
 
-The extractive summaries are based on the TalkSumm (Lev et al. 2019, https://arxiv.org/abs/1906.01351) dataset. The dataset contains 1705 automatically-generated noisy extractive summaries of scientific papers from the NLP and Machine Learning domain based on video talks from associated conferences (e.g., ACL, NAACL, ICML) 
+The extractive summaries are based on the TalkSumm ([Lev et al. 2019](https://arxiv.org/abs/1906.01351)) dataset. The dataset contains 1705 automatically-generated noisy extractive summaries of scientific papers from the NLP and Machine Learning domain based on video talks from associated conferences (e.g., ACL, NAACL, ICML) 
 Summaries can be found under data/extractive/. Each summary provides the top-30 sentences, which are on average around 990 words. 
 The format of each summary file is as follows:
 Each line contains: sentence index (in original paper), sentence score (i.e. duration), then the sentence itself. The fields are tab-separated.
