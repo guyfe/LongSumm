@@ -21,18 +21,17 @@ The training data is composed of abstractive and extractive summaries.
 ### Abstractive Summaries:
 The abstractive summaries are of different domains of CS including ML, NLP, AI, vision, storage, etc.
 
-
-The training data contains 700 abstractive summaries that can be found at data/abstractive/cluster. The folder contains clusters of summaries with length varied between 100-1500 words. Each sub-folder clusters into bins of size 100 words.  (i.e., summary of 541 words will appear in the corresponding cluster of 500-600). We used the Python [NLTK](https://www.nltk.org) libaray to count nummer of words and to segment summary text into sentences.  
+The training data contains 700 abstractive summaries that can be found at data/abstractive/cluster. The folder contains clusters of summaries with length varied between 100-1500 words. Each sub-folder clusters into bins of size 100 words.  (i.e., summary of 541 words will appear in the corresponding cluster of 500-600). We used the Python [NLTK](https://www.nltk.org) libaray to count number of words and to segment summary text into sentences.  
 
 The format of a summary is a JSON file with the following entries:
 | Entry | Description |
 | --- | --- |
-| `blog_id` | The id (unique) of the blog |
-| `summary` | An array of the sentences of the summary|
-| `author_id` | The id of the author|
-| `pdf_url` | The link to the original paper|
-| `author_full_name` | The author full name|
-| `source_website` | the website in which the original blog appears|
+| blog_id | The id (unique) of the blog |
+| summary | An array of the sentences of the summary|
+| author_id | The id of the author|
+| pdf_url | The link to the original paper|
+| author_full_name | The author full name|
+| source_website | the website in which the original blog appears|
 
 
 Example: 
@@ -91,7 +90,6 @@ At the end of this step, you should have for each summary, a corresponding JSON 
 
 
 ### Extractive Summaries:
-
 
 The extractive summaries are based on the TalkSumm (Lev et al. 2019, https://arxiv.org/abs/1906.01351) dataset. The dataset contains 1705 automatically-generated noisy extractive summaries of scientific papers from the NLP and Machine Learning domain based on video talks from associated conferences (e.g., ACL, NAACL, ICML) 
 Summaries can be found under data/extractive/. Each summary provides the top-30 sentences, which are on average around 990 words. 
