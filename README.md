@@ -65,9 +65,9 @@ Each papers' summary should be linked the corresponding text of the original pap
 
 `python downloader.py --urls_file=/path/to/input/file/with/mapping --out_folder=/path/to/output/dir/for/PDF --num_processors=3`
 
-    The output of this scripts is the papers PDFs by their IDs, under the out_folder.
+   The output of this scripts is the papers PDFs by their IDs, under the out_folder.
 
-    **_Notice - some of the papers may require a subscription (e.g., ACM). If you do not have the permission the script won't be able to download the paper._**
+   **_Notice - some of the papers may require a subscription (e.g., ACM). If you do not have the permission the script won't be able to download the paper._**
 
 
 * Extract Text of the PDF- given papers in pdf format, we used [science-parse](https://github.com/allenai/science-parse) to convert them to structured json files. 
