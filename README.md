@@ -99,16 +99,15 @@ Link to the reference paper.
 If you wish to create extractive summaries of a paper that is not exists in the dataset, you will need to follow the instructions from: [https://github.com/levguy/talksumm](https://github.com/levguy/talksumm)
 
 
-
-
-## Test Data:
-
-
+## Test Data (Blind):
+To be released on July 1, 2020
 
 
 ## Evaluation:
+The intrinsic evaluation will be done by ROUGE, using ROUGE-1, -2, -L and Skipgram metrics. In addition, a randomly selected subset of the summaries will undergo human evaluation.
 
 ## Submission:
+To be announced soon
 
 ## Credits
 We would like to thank the following blog authors who generosity allowed us to share their summaries as part of this dataset.  
