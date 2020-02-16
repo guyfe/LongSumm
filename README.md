@@ -98,7 +98,7 @@ If you wish to create extractive summaries of a paper that is not exists in the 
 ## Submission:
 
 ## Credits
-We would like to thank the following blog authors who generosity let us share their summaries as part of this dataset.  
+We would like to thank the following blog authors who generosity allowed us to share their summaries as part of this dataset.  
 
 * Shagun Sodhani  [https://github.com/shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read)
 * Patrick Emami   [https://pemami4911.github.io/index.html](https://pemami4911.github.io/index.html)
@@ -107,6 +107,9 @@ We would like to thank the following blog authors who generosity let us share th
 * Alexander Jung  [https://github.com/aleju/papers](https://github.com/aleju/papers)
 
 
-## Contact:
+## Task Organizers:
+
+* [Michal Shmueli-Scheuer] (https://researcher.watson.ibm.com/researcher/view.php?person=il-SHMUELI)
+* [Guy Feigenblat](https://researcher.watson.ibm.com/researcher/view.php?person=il-GUYF)
 
 
