@@ -22,14 +22,17 @@ The training data is composed of abstractive and extractive summaries.
 The abstractive summaries are of different domains of CS including ML, NLP, AI, vision, storage, etc.
 
 
-The training data contains 700 abstractive summaries that can be found at data/abstractive/clusters.zip. Under cluster.zip there are abstractive summaries with length varied between 100-1500 words, which are clusters into bins of size 100 (i.e., summary of 541 words will appear in the corresponding cluster of 500-600).
-The format of a summary is a JSON file includes 4 entries:
-"blog_id" - the id of the blog
-"summary" - an array of the sentences of the summary
-"author_id" - the id of the author
-"pdf_url" - the link to the original paper
-"author_full_name" - the author full name
-"source_website" - the website in which the original blog appears
+The training data contains 700 abstractive summaries that can be found at data/abstractive/cluster. The folder contains clusters of summaries with length varied between 100-1500 words. Each sub-folder clusters into bins of size 100 words.  (i.e., summary of 541 words will appear in the corresponding cluster of 500-600). We used the Python [NLTK](https://www.nltk.org) libaray to count nummer of words and to segment summary text into sentences.  
+
+The format of a summary is a JSON file with the following entries:
+| Entry | Description |
+| --- | --- |
+| `blog_id` | The id (unique) of the blog |
+| `summary` | An array of the sentences of the summary|
+| `author_id` | The id of the author|
+| `pdf_url` | The link to the original paper|
+| `author_full_name` | The author full name|
+| `source_website` | the website in which the original blog appears|
 
 
 Example: 
