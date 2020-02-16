@@ -34,7 +34,18 @@ The format of a summary is a JSON file includes 4 entries:
 
 Example: 
 ```json
-{"blog_id": "4d803bc021f579d4aa3b24cec5b994", "summary": ["Task of translating natural language queries into regular expressions without using domain specific knowledge.", "Proposes a methodology for collecting a large corpus of regular expressions to natural language pairs.", "Reports performance gain of 19.6% over state-of-the-art models.", "Link to the paper  Architecture  LSTM based sequence to sequence neural network (with attention)  Six layers  One-word embedding layer  Two encoder layers  Two decoder layers  One dense output layer.", "Attention over encoder layer.", "Dropout with the probability of 0.25.", "20 epochs, minibatch size of 32 and learning rate of 1 (with decay rate of 0.5)  Dataset Generation  Created a public dataset - NL-RX - with 10K pair of (regular expression, natural language)  Two step generate-and-paraphrase approach  Generate step  Use handcrafted grammar to translate regular expressions to natural language.", "Paraphrase step  Crowdsourcing the task of translating the rigid descriptions into more natural expressions.", "Results  Evaluation Metric  Functional equality check (called DFA-Equal) as same regular expression could be written in many ways.", "Proposed architecture outperforms both the baselines - Nearest Neighbor classifier using Bag of Words (BoWNN) and Semantic-Unify"], "author_id": "shugan", "pdf_url": "http://arxiv.org/pdf/1608.03000v1", "author_full_name": "Shagun Sodhani", "source_website": "https://github.com/shagunsodhani/papers-I-read"}
+{
+  "blog_id": "4d803bc021f579d4aa3b24cec5b994", 
+  "summary": ["Task of translating natural language queries into regular expressions without using domain specific knowledge.", "Proposes a methodology for collecting a large corpus of regular expressions to natural language pairs.", 
+          "Reports performance gain of 19.6% over state-of-the-art models.", 
+          "Architecture  LSTM based sequence to sequence neural network (with attention)  Six layers  One-word embedding layer Two encoder layers  Two decoder layers  One dense output layer.", 
+          "Attention over encoder layer.", 
+          "...."], 
+  "author_id": "shugan", 
+  "pdf_url": "http://arxiv.org/pdf/1608.03000v1", 
+  "author_full_name": "Shagun Sodhani",
+  "source_website": "https://github.com/shagunsodhani/papers-I-read"
+}
 ```
 
 
