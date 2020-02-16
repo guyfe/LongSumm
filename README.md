@@ -1,7 +1,7 @@
 # LongSumm
-LongSumm - Scientific Document Summarization Task
+A Shared Task at [EMNLP 2020](https://2020.emnlp.org) that focuses on generating long summaries for scientific documents. LongSumm is one of three shared tasks conducted as part of: [1st Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/). 
 
-# LongSumm - Description
+# LongSumm - Motivation
 
 Most of the work on scientific document summarization focuses on generating relatively short summaries (250 words or less). While such a length constraint can be sufficient for summarizing news articles, it is far from sufficient for summarizing scientific work. In fact, such a short summary resembles more to an abstract than to a summary that aims to cover all the salient information conveyed in a given text. Writing such summaries requires expertise and a deep understanding in a scientific domain, as can be found in some researchers blogs.
 
@@ -38,15 +38,16 @@ Example: 
 ```
 
 
-Each papers' summary should be linked the corresponding text of the original paper. As we are not allowed to publish the original papers, here are the suggested steps to fully construct the dataset:
+Each papers' summary should be linked the corresponding text of the original paper. Due to copyright will not publish the original papers, here are the suggested steps to fully construct the dataset:
 
 
 * Download the file URL_2_summ.txt  (data/URL_2_summ.txt). The file URL_2_summ.txt is a tab delimited file which maps a URL to summary id.
 
 
 Example:
+```
 id1        https://arxiv.org/pdf/1611.09830
-
+```
 
 * Extract PDF - to get the PDF of the paper, use the script downloader.py. It gets as input 3 parameters:
 urls_file  - path to the URL_2_summ.txt file
@@ -95,6 +96,16 @@ If you wish to create extractive summaries of a paper that is not exists in the 
 ## Evaluation:
 
 ## Submission:
+
+## Credits
+We would like to thank the following blog authors who generosity let us share their summaries as part of this dataset.  
+
+* Shagun Sodhani  [https://github.com/shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read)
+* Patrick Emami   [https://pemami4911.github.io/index.html](https://pemami4911.github.io/index.html)
+* Amr Sharaf  [https://medium.com/@sharaf](https://medium.com/@sharaf)
+* Adrian Colye  [https://blog.acolyer.org/about/](https://blog.acolyer.org/about/)
+* Alexander Jung  [https://github.com/aleju/papers](https://github.com/aleju/papers)
+
 
 ## Contact:
 
