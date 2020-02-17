@@ -1,7 +1,7 @@
 # LongSumm
 A Shared Task at [EMNLP 2020](https://2020.emnlp.org) that focuses on generating long summaries for scientific documents. LongSumm is one of three shared tasks conducted as part of: [1st Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/)
 
-# LongSumm - Motivation
+# LongSumm - Overview
 
 Most of the work on scientific document summarization focuses on generating relatively short summaries (250 words or less). While such a length constraint can be sufficient for summarizing news articles, it is far from sufficient for summarizing scientific work. In fact, such a short summary resembles more to an abstract than to a summary that aims to cover all the salient information conveyed in a given text. Writing such summaries requires expertise and a deep understanding in a scientific domain, as can be found in some researchers blogs.
 
@@ -9,10 +9,14 @@ The LongSumm task opted to leverage blogs created by researchers in the NLP and 
 
 The corpus for this task includes a training set that consists of 1705 extractive summaries, and around 700 abstractive summaries of NLP and Machine Learning scientific papers. These are drawn from papers based on video talks from associated conferences (Lev et al. 2019 TalkSumm) and from blogs created by NLP and ML researchers. In addition, we create a test set of abstractive summaries. Each submission is judged against one reference summary (gold summary) on ROUGE and should not exceed 600 words.
 
+The [1st Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/) will include two additional shared tasks: 
+-  [scisumm](https://github.com/WING-NUS/scisumm-corpus) - focuses on automatic paper summarization on a new corpus of research papers in Computational Linguistics (CL) domain
+- LaySumm - focuses on enabling systems to automatically generate lay summaries. A lay summary explains, succinctly and without using technical jargon, what the overall scope, goal and potential impact of a scientific paper is.
+
+
 
 # LongSumm - Data and Instructions
-
-This repository contains a dataset and explanation for LongSumm task.
+You are invited to participate in the LongSumm Shared Task at [SDP@EMNLP 2020](https://2020.emnlp.org). This repository contains a dataset and instructions how to participate in the task.
 
 ## Training Data
 The training data is composed of abstractive and extractive summaries.
