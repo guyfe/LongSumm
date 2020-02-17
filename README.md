@@ -116,7 +116,8 @@ We would like to thank the following blog authors who generosity allowed us to s
 * Alexander Jung  [https://github.com/aleju/papers](https://github.com/aleju/papers)
 
 ## License
-The dataset is released under the CDLA-Sharing license https://cdla.io/sharing-1-0/.
+- The abstractive dataset is released under the CDLA-Sharing license [https://cdla.io/sharing-1-0/](https://cdla.io/sharing-1-0/).
+- The extractive dataset is released under [Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Disclaimer
 The data was copies from the above mentioned blogs as-is. IBM is not responsible for the content of the data, nor for any claim related to the data (including claims related to alleged intellectual property or privacy breach).
