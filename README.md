@@ -83,7 +83,7 @@ Each papers' summary should be linked the corresponding text of the original pap
 
 
 
-### Extractive Summaries:
+### Extractive Summaries
 
 The extractive summaries are based on the TalkSumm ([Lev et al. 2019](https://arxiv.org/abs/1906.01351)) dataset. The dataset contains 1705 automatically-generated noisy extractive summaries of scientific papers from the NLP and Machine Learning domain based on video talks from associated conferences (e.g., ACL, NAACL, ICML) 
 Summaries can be found under data/extractive/. Each summary provides the top-30 sentences, which are on average around 990 words. 
@@ -96,14 +96,14 @@ The format of each summary file is as follows:
 If you wish to create extractive summaries of a paper that doesn't not exist in the dataset, you will need to follow the instructions from: [https://github.com/levguy/talksumm](https://github.com/levguy/talksumm)
 
 
-## Test Data (Blind):
+## Test Data (Blind)
 To be released on July 1, 2020
 
 
-## Evaluation:
+## Evaluation
 The intrinsic evaluation will be done by ROUGE, using ROUGE-1, -2, -L and Skipgram metrics. In addition, a randomly selected subset of the summaries will undergo human evaluation.
 
-## Submission:
+## Submission
 To be announced soon
 
 ## Credits
@@ -115,13 +115,13 @@ We would like to thank the following blog authors who generosity allowed us to s
 * Adrian Colye  [https://blog.acolyer.org/about/](https://blog.acolyer.org/about/)
 * Alexander Jung  [https://github.com/aleju/papers](https://github.com/aleju/papers)
 
-## License:
+## License
 The dataset is released under the CDLA-Sharing license https://cdla.io/sharing-1-0/.
 
-## Disclaimer:
+## Disclaimer
 The data was copies from the above mentioned blogs as-is. IBM is not responsible for the content of the data, nor for any claim related to the data (including claims related to alleged intellectual property or privacy breach).
 
-## Task Organizers:
+## Task Organizers
 
 * [Michal Shmueli-Scheuer - IBM Research AI](https://researcher.watson.ibm.com/researcher/view.php?person=il-SHMUELI)
 * [Guy Feigenblat - IBM Research AI](https://researcher.watson.ibm.com/researcher/view.php?person=il-GUYF)
