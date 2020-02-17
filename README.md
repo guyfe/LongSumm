@@ -120,7 +120,7 @@ We would like to thank the following blog authors who generosity allowed us to s
 - The extractive dataset is released under [Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Disclaimer
-The data was copies from the above mentioned blogs as-is. IBM is not responsible for the content of the data, nor for any claim related to the data (including claims related to alleged intellectual property or privacy breach).
+The data was copied from the above mentioned blogs as-is. IBM is not responsible for the content of the data, nor for any claim related to the data (including claims related to alleged intellectual property or privacy breach).
 
 ## Task Organizers
 
