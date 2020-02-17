@@ -3,7 +3,7 @@ A Shared Task at [EMNLP 2020](https://2020.emnlp.org) that focuses on generating
 
 # LongSumm - Overview
 
-Most of the work on scientific document summarization focuses on generating relatively short summaries (250 words or less). While such a length constraint can be sufficient for summarizing news articles, it is far from sufficient for summarizing scientific work. In fact, such a short summary resembles more to an abstract than to a summary that aims to cover all the salient information conveyed in a given text. Writing such summaries requires expertise and a deep understanding in a scientific domain, as can be found in some researchers blogs.
+Most of the work on scientific document summarization focuses on generating relatively short summaries (abstract like). While such a length constraint can be sufficient for summarizing news articles, it is far from sufficient for summarizing scientific work. In fact, such a short summary resembles more to an abstract than to a summary that aims to cover all the salient information conveyed in a given text. Writing such summaries requires expertise and a deep understanding in a scientific domain, as can be found in some researchers blogs.
 
 The LongSumm task opted to leverage blogs created by researchers in the NLP and Machine learning communities and use these summaries as reference summaries to compare the submissions against.  
 
