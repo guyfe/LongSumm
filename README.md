@@ -111,8 +111,8 @@ We would like to thank the following blog authors who generosity allowed us to s
 
 * Shagun Sodhani  [https://github.com/shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read)
 * Patrick Emami   [https://pemami4911.github.io/index.html](https://pemami4911.github.io/index.html)
-* Amr Sharaf  [https://medium.com/@sharaf](https://medium.com/@sharaf)
-* Adrian Colye  [https://blog.acolyer.org/about/](https://blog.acolyer.org/about/)
+<!-- * Amr Sharaf  [https://medium.com/@sharaf](https://medium.com/@sharaf) -->
+<!-- * Adrian Colye  [https://blog.acolyer.org/about/](https://blog.acolyer.org/about/). -->
 * Alexander Jung  [https://github.com/aleju/papers](https://github.com/aleju/papers)
 
 ## License
