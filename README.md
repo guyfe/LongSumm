@@ -27,6 +27,8 @@ The abstractive summaries are of different domains of CS including ML, NLP, AI, 
 
 The training data contains 700 abstractive summaries that can be found at data/abstractive/cluster. The folder contains clusters of summaries with length varied between 100-1500 words. Each sub-folder clusters into bins of size 100 words.  (i.e., summary of 541 words will appear in the corresponding cluster of 500-600). We used the Python [NLTK](https://www.nltk.org) library to count number of words and to segment summary text into sentences.  
 
+*** We release the data in two cycles, today (Feb 15, 2020) we release the first 249 summaries ***
+
 The format of a summary is a JSON file with the following entries:
 | Entry | Description |
 | --- | --- |
@@ -122,9 +124,11 @@ We would like to thank the following blog authors who generosity allowed us to s
 ## Disclaimer
 The data was copied from the above mentioned blogs as-is. IBM is not responsible for the content of the data, nor for any claim related to the data (including claims related to alleged intellectual property or privacy breach).
 
-## Task Organizers
+## Contacts
+
+For further information about this dataset please contact the organising of this shared task:
 
 * [Michal Shmueli-Scheuer - IBM Research AI](https://researcher.watson.ibm.com/researcher/view.php?person=il-SHMUELI)
 * [Guy Feigenblat - IBM Research AI](https://researcher.watson.ibm.com/researcher/view.php?person=il-GUYF)
 
-
+For any questions 
