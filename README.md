@@ -62,7 +62,7 @@ Example: 
 
 Each papers' summary should be linked the corresponding text of the original paper. Due to copyright will not publish the original papers, here are the suggested steps to fully construct the dataset:
 
-* Extract PDF - to download the PDF of each paper, one can use the following script : [downloader.py](). The output of this scripts is the papers PDFs by their IDs, under the out_folder.
+* Extract PDF - to download the PDF of each paper, one can use the following script : [downloader.py](https://github.com/guyfe/LongSumm/blob/master/scripts/downloader.py). The output of this scripts is the papers PDFs by their IDs, under the out_folder.
    
    **_Notice - some of the papers may require a subscription (e.g., ACM). If you do not have the permission the script won't be able to download the paper._**
 
