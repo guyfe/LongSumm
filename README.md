@@ -66,16 +66,19 @@ Each papers' summary should be linked the corresponding text of the original pap
    
    **_Notice - some of the papers may require a subscription (e.g., ACM). If you do not have the permission the script won't be able to download the paper._**
 
-  The script accepts as input 3 parameters `python downloader.py --urls_file=/path/to/input/file/with/mapping --out_folder=/path/to/output/dir/for/PDF --num_processors=3`: 
+  The script accepts as input 3 parameters : 
     - `clusters_dir`  - path to the directory that contains the summaries
     - `out_folder` - path to the output directory where you want all the PDFs
     - `num_processes` - the script has an option to run in a multiprocess fashion. Default=1, we recommend to use more in order to decrease the downloading time. 
 
+  
+  `python downloader.py --clusters_dir=/path/to/input/dir/with/clusters --out_folder=/path/to/output/dir/for/PDF --num_processors=3`
 
 
-* Extract Text of the PDF- given papers in pdf format, we used [science-parse](https://github.com/allenai/science-parse) to convert them to structured json files. 
 
-  At the end of this step, you should have for each summary, a corresponding JSON file of the original text from the paper as extracted by science-parse
+* Extract Text of the PDF- given papers in pdf format, we recommend to use [science-parse](https://github.com/allenai/science-parse) to convert them to structured json files. 
+
+  At the end of this step, you should have for each summary, a corresponding JSON file of the original text from the paper as extracted by [science-parse](https://github.com/allenai/science-parse).
 
 
 
@@ -85,12 +88,12 @@ Each papers' summary should be linked the corresponding text of the original pap
 The extractive summaries are based on the TalkSumm ([Lev et al. 2019](https://arxiv.org/abs/1906.01351)) dataset. The dataset contains 1705 automatically-generated noisy extractive summaries of scientific papers from the NLP and Machine Learning domain based on video talks from associated conferences (e.g., ACL, NAACL, ICML) 
 Summaries can be found under data/extractive/. Each summary provides the top-30 sentences, which are on average around 990 words. 
 The format of each summary file is as follows:
-Each line contains: sentence index (in original paper), sentence score (i.e. duration), then the sentence itself. The fields are tab-separated.
-The order of the sentences is according to their order in the paper.
-Link to the reference paper.
+- Each line contains: sentence index (in original paper), sentence score (i.e. duration), then the sentence itself. The fields are tab-separated.
+- The order of the sentences is according to their order in the paper.
+- Link to the reference paper.
 
 
-If you wish to create extractive summaries of a paper that is not exists in the dataset, you will need to follow the instructions from: [https://github.com/levguy/talksumm](https://github.com/levguy/talksumm)
+If you wish to create extractive summaries of a paper that doesn't not exist in the dataset, you will need to follow the instructions from: [https://github.com/levguy/talksumm](https://github.com/levguy/talksumm)
 
 
 ## Test Data (Blind):
@@ -114,6 +117,9 @@ We would like to thank the following blog authors who generosity allowed us to s
 
 ## License:
 The dataset is released with license [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+## Disclaimer:
+The data was copies from the above mentioned blogs as-is. IBM is not responsible for the content of the data, nor for any claim related to the data (including claims related to alleged intellectual property or privacy breach).
 
 ## Task Organizers:
 
