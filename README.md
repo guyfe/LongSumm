@@ -1,18 +1,22 @@
 # LongSumm
 A Shared Task at [EMNLP 2020](https://2020.emnlp.org) that focuses on generating long summaries for scientific documents. LongSumm is one of three shared tasks conducted as part of: [1st Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/)
 
-# LongSumm - Motivation
+# LongSumm - Overview
 
-Most of the work on scientific document summarization focuses on generating relatively short summaries (250 words or less). While such a length constraint can be sufficient for summarizing news articles, it is far from sufficient for summarizing scientific work. In fact, such a short summary resembles more to an abstract than to a summary that aims to cover all the salient information conveyed in a given text. Writing such summaries requires expertise and a deep understanding in a scientific domain, as can be found in some researchers blogs.
+Most of the work on scientific document summarization focuses on generating relatively short summaries (abstract like). While such a length constraint can be sufficient for summarizing news articles, it is far from sufficient for summarizing scientific work. In fact, such a short summary resembles more to an abstract than to a summary that aims to cover all the salient information conveyed in a given text. Writing such summaries requires expertise and a deep understanding in a scientific domain, as can be found in some researchers blogs.
 
 The LongSumm task opted to leverage blogs created by researchers in the NLP and Machine learning communities and use these summaries as reference summaries to compare the submissions against.  
 
 The corpus for this task includes a training set that consists of 1705 extractive summaries, and around 700 abstractive summaries of NLP and Machine Learning scientific papers. These are drawn from papers based on video talks from associated conferences (Lev et al. 2019 TalkSumm) and from blogs created by NLP and ML researchers. In addition, we create a test set of abstractive summaries. Each submission is judged against one reference summary (gold summary) on ROUGE and should not exceed 600 words.
 
+The [1st Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/) will include two additional shared tasks: 
+-  [Scisumm](https://github.com/WING-NUS/scisumm-corpus) - focuses on automatic paper summarization on a new corpus of research papers in Computational Linguistics (CL) domain
+- LaySumm - focuses on enabling systems to automatically generate lay summaries. A lay summary explains, succinctly and without using technical jargon, what the overall scope, goal and potential impact of a scientific paper is.
+
+
 
 # LongSumm - Data and Instructions
-
-This repository contains a dataset and explanation for LongSumm task.
+You are invited to participate in the LongSumm Shared Task at [SDP@EMNLP 2020](https://2020.emnlp.org). This repository contains a dataset and instructions how to participate in the task.
 
 ## Training Data
 The training data is composed of abstractive and extractive summaries.
@@ -21,12 +25,13 @@ The training data is composed of abstractive and extractive summaries.
 ### Abstractive Summaries:
 The abstractive summaries are of different domains of CS including ML, NLP, AI, vision, storage, etc.
 
-The training data contains 700 abstractive summaries that can be found at data/abstractive/cluster. The folder contains clusters of summaries with length varied between 100-1500 words. Each sub-folder clusters into bins of size 100 words.  (i.e., summary of 541 words will appear in the corresponding cluster of 500-600). We used the Python [NLTK](https://www.nltk.org) libaray to count number of words and to segment summary text into sentences.  
+The training data contains 700 abstractive summaries that can be found at data/abstractive/cluster. The folder contains clusters of summaries with length varied between 100-1500 words. Each sub-folder clusters into bins of size 100 words.  (i.e., summary of 541 words will appear in the corresponding cluster of 500-600). We used the Python [NLTK](https://www.nltk.org) library to count number of words and to segment summary text into sentences.  
 
 The format of a summary is a JSON file with the following entries:
 | Entry | Description |
 | --- | --- |
-| blog_id | The id (unique) of the blog |
+| id | Record id (unique) |
+| blog_id | The id of the blog |
 | summary | An array of the sentences of the summary|
 | author_id | The id of the author|
 | pdf_url | The link to the original paper|
@@ -37,6 +42,7 @@ The format of a summary is a JSON file with the following entries:
 Example: 
 ```json
 {
+  "id": "79792577",
   "blog_id": "4d803bc021f579d4aa3b24cec5b994",
   "summary": [
     "Task of translating natural language queries into regular expressions ...",
@@ -54,63 +60,50 @@ Example: 
 ```
 
 
-
-
-
-
-
 Each papers' summary should be linked the corresponding text of the original paper. Due to copyright will not publish the original papers, here are the suggested steps to fully construct the dataset:
 
+* Extract PDF - to download the PDF of each paper, one can use the following script : [downloader.py](). The output of this scripts is the papers PDFs by their IDs, under the out_folder.
+   
+   **_Notice - some of the papers may require a subscription (e.g., ACM). If you do not have the permission the script won't be able to download the paper._**
 
-* Download the file URL_2_summ.txt  (data/URL_2_summ.txt). The file URL_2_summ.txt is a tab delimited file which maps a URL to summary id.
+  The script accepts as input 3 parameters : 
+    - `clusters_dir`  - path to the directory that contains the summaries
+    - `out_folder` - path to the output directory where you want all the PDFs
+    - `num_processes` - the script has an option to run in a multiprocess fashion. Default=1, we recommend to use more in order to decrease the downloading time. 
 
-
-Example:
-```
-id1        https://arxiv.org/pdf/1611.09830
-```
-
-* Extract PDF - to get the PDF of the paper, use the script downloader.py. It gets as input 3 parameters:
-urls_file  - path to the URL_2_summ.txt file
-out_folder - path to the output directory where you want all the PDFs.
-num_processes - the script has an option to run in a multiprocess fashion. Default=1, we recommend to use more in order to decrease the downloading time. 
-*Notice - some of the papers may require a subscription (e.g., ACM). If you do not have the permission the script won't be able to download the paper.*
+  
+  `python downloader.py --clusters_dir=/path/to/input/dir/with/clusters --out_folder=/path/to/output/dir/for/PDF --num_processors=3`
 
 
-`python downloader.py --urls_file=/path/to/input/file/with/mapping --out_folder=/path/to/output/dir/for/PDF --num_processors=3`
 
+* Extract Text of the PDF- given papers in pdf format, we recommend to use [science-parse](https://github.com/allenai/science-parse) to convert them to structured json files. 
 
-The output of this scripts is the papers PDFs by their IDs, under the out_folder.
-
-
-* Extract Text of the PDF- given papers in pdf format, we used [science-parse](https://github.com/allenai/science-parse) to convert them to structured json files. 
-
-At the end of this step, you should have for each summary, a corresponding JSON file of the original text from the paper as extracted by science-parse
+  At the end of this step, you should have for each summary, a corresponding JSON file of the original text from the paper as extracted by [science-parse](https://github.com/allenai/science-parse).
 
 
 
 
-### Extractive Summaries:
+### Extractive Summaries
 
-The extractive summaries are based on the TalkSumm (Lev et al. 2019, https://arxiv.org/abs/1906.01351) dataset. The dataset contains 1705 automatically-generated noisy extractive summaries of scientific papers from the NLP and Machine Learning domain based on video talks from associated conferences (e.g., ACL, NAACL, ICML) 
+The extractive summaries are based on the TalkSumm ([Lev et al. 2019](https://arxiv.org/abs/1906.01351)) dataset. The dataset contains 1705 automatically-generated noisy extractive summaries of scientific papers from the NLP and Machine Learning domain based on video talks from associated conferences (e.g., ACL, NAACL, ICML) 
 Summaries can be found under data/extractive/. Each summary provides the top-30 sentences, which are on average around 990 words. 
 The format of each summary file is as follows:
-Each line contains: sentence index (in original paper), sentence score (i.e. duration), then the sentence itself. The fields are tab-separated.
-The order of the sentences is according to their order in the paper.
-Link to the reference paper.
+- Each line contains: sentence index (in original paper), sentence score (i.e. duration), then the sentence itself. The fields are tab-separated.
+- The order of the sentences is according to their order in the paper.
+- Link to the reference paper.
 
 
-If you wish to create extractive summaries of a paper that is not exists in the dataset, you will need to follow the instructions from: [https://github.com/levguy/talksumm](https://github.com/levguy/talksumm)
+If you wish to create extractive summaries of a paper that doesn't not exist in the dataset, you will need to follow the instructions from: [https://github.com/levguy/talksumm](https://github.com/levguy/talksumm)
 
 
-## Test Data (Blind):
+## Test Data (Blind)
 To be released on July 1, 2020
 
 
-## Evaluation:
+## Evaluation
 The intrinsic evaluation will be done by ROUGE, using ROUGE-1, -2, -L and Skipgram metrics. In addition, a randomly selected subset of the summaries will undergo human evaluation.
 
-## Submission:
+## Submission
 To be announced soon
 
 ## Credits
@@ -118,14 +111,18 @@ We would like to thank the following blog authors who generosity allowed us to s
 
 * Shagun Sodhani  [https://github.com/shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read)
 * Patrick Emami   [https://pemami4911.github.io/index.html](https://pemami4911.github.io/index.html)
-* Amr Sharaf  [https://medium.com/@sharaf](https://medium.com/@sharaf)
-* Adrian Colye  [https://blog.acolyer.org/about/](https://blog.acolyer.org/about/)
+<!-- * Amr Sharaf  [https://medium.com/@sharaf](https://medium.com/@sharaf) -->
+<!-- * Adrian Colye  [https://blog.acolyer.org/about/](https://blog.acolyer.org/about/). -->
 * Alexander Jung  [https://github.com/aleju/papers](https://github.com/aleju/papers)
 
-## License:
-The dataset is released with license [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/)
+## License
+- The abstractive dataset is released under the CDLA-Sharing license [https://cdla.io/sharing-1-0/](https://cdla.io/sharing-1-0/).
+- The extractive dataset is released under [Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-## Task Organizers:
+## Disclaimer
+The data was copies from the above mentioned blogs as-is. IBM is not responsible for the content of the data, nor for any claim related to the data (including claims related to alleged intellectual property or privacy breach).
+
+## Task Organizers
 
 * [Michal Shmueli-Scheuer - IBM Research AI](https://researcher.watson.ibm.com/researcher/view.php?person=il-SHMUELI)
 * [Guy Feigenblat - IBM Research AI](https://researcher.watson.ibm.com/researcher/view.php?person=il-GUYF)
