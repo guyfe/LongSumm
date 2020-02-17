@@ -126,9 +126,8 @@ The data was copied from the above mentioned blogs as-is. IBM is not responsible
 
 ## Contacts
 
-For further information about this dataset please contact the organising of this shared task:
+For further information about this dataset please contact the organizers of the shared task:
 
 * [Michal Shmueli-Scheuer - IBM Research AI](https://researcher.watson.ibm.com/researcher/view.php?person=il-SHMUELI)
 * [Guy Feigenblat - IBM Research AI](https://researcher.watson.ibm.com/researcher/view.php?person=il-GUYF)
 
-For any questions 
