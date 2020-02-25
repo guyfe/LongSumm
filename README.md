@@ -122,7 +122,7 @@ We would like to thank the following blog authors who generosity allowed us to s
 
 ## License
 -  Abstractive summaries:
-    - ShortScience summaries are released under [Attribution-NonCommercial-ShareAlike 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+    - [ShortScience.org](https://www.shortscience.org) summaries are released under [Attribution-NonCommercial-ShareAlike 4.0] (https://creativecommons.org/licenses/by-nc-sa/4.0/)
     - all other summaries are released under the CDLA-Sharing license [https://cdla.io/sharing-1-0/](https://cdla.io/sharing-1-0/)
 - Extractive summaries - released under [Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
