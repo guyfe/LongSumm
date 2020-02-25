@@ -109,7 +109,7 @@ The intrinsic evaluation will be done by ROUGE, using ROUGE-1, -2, -L and Skipgr
 To be announced soon
 
 ## Credits
-We would like to thank the following blog authors who generosity allowed us to share their summaries as part of this dataset.  
+We would like to thank the following blog authors and to [ShortScience.org](https://www.shortscience.org) who generosity allowed us to share the content as part of this dataset.  
 
 * Shagun Sodhani  [https://github.com/shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read)
 * Patrick Emami   [https://pemami4911.github.io/index.html](https://pemami4911.github.io/index.html)
@@ -122,7 +122,7 @@ We would like to thank the following blog authors who generosity allowed us to s
 
 ## License
 -  Abstractive summaries:
-    - [ShortScience.org](https://www.shortscience.org) summaries are released under [Attribution-NonCommercial-ShareAlike 4.0] (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+    - [ShortScience.org](https://www.shortscience.org) summaries are released under [Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
     - all other summaries are released under the CDLA-Sharing license [https://cdla.io/sharing-1-0/](https://cdla.io/sharing-1-0/)
 - Extractive summaries - released under [Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
