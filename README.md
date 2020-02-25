@@ -25,9 +25,9 @@ The training data is composed of abstractive and extractive summaries.
 ### Abstractive Summaries:
 The abstractive summaries are of different domains of CS including ML, NLP, AI, vision, storage, etc.
 
-The training data contains 700 abstractive summaries that can be found at data/abstractive/cluster. The folder contains clusters of summaries with length varied between 100-1500 words. Each sub-folder clusters into bins of size 100 words.  (i.e., summary of 541 words will appear in the corresponding cluster of 500-600). We used the Python [NLTK](https://www.nltk.org) library to count number of words and to segment summary text into sentences.  
+The training data contains around 700 abstractive summaries that can be found at data/abstractive/cluster. The folder contains clusters of summaries with length varied between 100-1500 words. Each sub-folder clusters into bins of size 100 words.  (i.e., summary of 541 words will appear in the corresponding cluster of 500-600). We used the Python [NLTK](https://www.nltk.org) library to count number of words and to segment summary text into sentences.  
 
-***We release the data in two cycles, today (Feb 15, 2020) we release the first 249 summaries***
+***We release the data in three cycles, today ~~(Feb 15, 2020)~~ (Feb 25, 2020) we release the first ~~249~~ 516 summaries***
 
 The format of a summary is a JSON file with the following entries:
 | Entry | Description |
