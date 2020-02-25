@@ -113,13 +113,18 @@ We would like to thank the following blog authors who generosity allowed us to s
 
 * Shagun Sodhani  [https://github.com/shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read)
 * Patrick Emami   [https://pemami4911.github.io/index.html](https://pemami4911.github.io/index.html)
-<!-- * Amr Sharaf  [https://medium.com/@sharaf](https://medium.com/@sharaf) -->
-<!-- * Adrian Colye  [https://blog.acolyer.org/about/](https://blog.acolyer.org/about/). -->
+* Adrian Colye  [https://blog.acolyer.org/about/](https://blog.acolyer.org/about/)
 * Alexander Jung  [https://github.com/aleju/papers](https://github.com/aleju/papers)
+* Joseph Paul Cohen  [https://www.shortscience.org/user?name=joecohen](https://www.shortscience.org/user?name=joecohen)
+* Hugo Larochelle [https://www.shortscience.org/user?name=hlarochelle](https://www.shortscience.org/user?name=hlarochelle)
+<!-- * Amr Sharaf  [https://medium.com/@sharaf](https://medium.com/@sharaf) -->
+
 
 ## License
-- The abstractive dataset is released under the CDLA-Sharing license [https://cdla.io/sharing-1-0/](https://cdla.io/sharing-1-0/).
-- The extractive dataset is released under [Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+-  Abstractive summaries:
+    - ShortScience summaries are released under [Attribution-NonCommercial-ShareAlike 4.0 (https://creativecommons.org/licenses/by-nc-sa/4.0/)
+    - all other summaries are released under the CDLA-Sharing license [https://cdla.io/sharing-1-0/](https://cdla.io/sharing-1-0/)
+- Extractive summaries - released under [Attribution-NonCommercial-ShareAlike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Disclaimer
 The data was copied from the above mentioned blogs as-is. IBM is not responsible for the content of the data, nor for any claim related to the data (including claims related to alleged intellectual property or privacy breach).
