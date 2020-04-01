@@ -117,6 +117,7 @@ We would like to thank the following blog authors and to [ShortScience.org](http
 * Alexander Jung  [https://github.com/aleju/papers](https://github.com/aleju/papers)
 * Joseph Paul Cohen  [https://www.shortscience.org/user?name=joecohen](https://www.shortscience.org/user?name=joecohen)
 * Hugo Larochelle [https://www.shortscience.org/user?name=hlarochelle](https://www.shortscience.org/user?name=hlarochelle)
+* Elvis Saravia [https://github.com/dair-ai/nlp_paper_summaries](https://github.com/dair-ai/nlp_paper_summaries)
 <!-- * Amr Sharaf  [https://medium.com/@sharaf](https://medium.com/@sharaf) -->
 
 
