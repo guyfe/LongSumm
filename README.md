@@ -113,7 +113,7 @@ We would like to thank the following blog authors and to [ShortScience.org](http
 
 * Shagun Sodhani  [https://github.com/shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read)
 * Patrick Emami   [https://pemami4911.github.io/index.html](https://pemami4911.github.io/index.html)
-* Adrian Colye  [https://blog.acolyer.org/about/](https://blog.acolyer.org/about/)
+* Adrian Colyer  [https://blog.acolyer.org/about/](https://blog.acolyer.org/about/)
 * Alexander Jung  [https://github.com/aleju/papers](https://github.com/aleju/papers)
 * Joseph Paul Cohen  [https://www.shortscience.org/user?name=joecohen](https://www.shortscience.org/user?name=joecohen)
 * Hugo Larochelle [https://www.shortscience.org/user?name=hlarochelle](https://www.shortscience.org/user?name=hlarochelle)
