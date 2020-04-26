@@ -72,9 +72,8 @@ Each papers' summary should be linked the corresponding text of the original pap
     - `clusters_dir`  - path to the directory that contains the summaries
     - `out_folder` - path to the output directory where you want all the PDFs
     - `num_processes` - the script has an option to run in a multiprocess fashion. Default=1, we recommend to use more in order to decrease the downloading time. 
-
   
-  `python downloader.py --clusters_dir=/path/to/input/dir/with/clusters --out_folder=/path/to/output/dir/for/PDF --num_processors=3`
+  `python downloader.py --clusters_dir=/path/to/input/dir/with/clusters --out_folder=/path/to/output/dir/for/PDF --num_processes=3`
 
 
 
