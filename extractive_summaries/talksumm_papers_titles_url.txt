@@ -1,0 +1,1705 @@
+A Binarized Neural Network Joint Model for Machine Translation	https://doi.org/10.18653/v1/d15-1250
+A Birth-Death Process for Feature Allocation	http://proceedings.mlr.press/v70/palla17a.html
+A Boo(n) for Evaluating Architecture Performance	http://proceedings.mlr.press/v80/bajgar18a.html
+A Closer Look at Memorization in Deep Networks	http://proceedings.mlr.press/v70/arpit17a.html
+A Co-Matching Model for Multi-choice Reading Comprehension	https://www.aclweb.org/anthology/P18-2118/
+A Comparison between Count and Neural Network Models Based on Joint Translation and Reordering Sequences	https://doi.org/10.18653/v1/d15-1165
+A Comparison of Word Similarity Performance Using Explanatory and Non-explanatory Texts	https://doi.org/10.3115/v1/n15-1101
+A Computational Cognitive Model of Novel Word Generalization	https://doi.org/10.18653/v1/d15-1207
+A Convolutional Encoder Model for Neural Machine Translation	https://doi.org/10.18653/v1/P17-1012
+A Corpus of Natural Language for Visual Reasoning	https://doi.org/10.18653/v1/P17-2034
+A Corpus of Sentence-level Revisions in Academic Writing: A Step towards Understanding Statement Strength in Communication	https://doi.org/10.3115/v1/p14-2066
+A Corpus with Multi-Level Annotations of Patients, Interventions and Outcomes to Support Language Processing for Medical Literature	https://www.aclweb.org/anthology/P18-1019/
+A Cross-language Study on Automatic Speech Disfluency Detection	https://www.aclweb.org/anthology/N13-1083/
+A Dataset and Evaluation Metrics for Abstractive Compression of Sentences and Short Paragraphs	https://doi.org/10.18653/v1/d16-1033
+A Dataset for Telling the Stories of Social Media Videos	https://doi.org/10.18653/v1/d18-1117
+A Decomposable Attention Model for Natural Language Inference	https://doi.org/10.18653/v1/d16-1244
+A Deep Generative Model of Vowel Formant Typology	https://doi.org/10.18653/v1/n18-1004
+A Deep Neural Network Sentence Level Classification Method with Context Information	https://doi.org/10.18653/v1/d18-1107
+A Discriminative Graph-Based Parser for the Abstract Meaning Representation	https://doi.org/10.3115/v1/p14-1134
+A Distributional and Orthographic Aggregation Model for English Derivational Morphology	https://www.aclweb.org/anthology/P18-1180/
+A Divergence Bound for Hybrids of MCMC and Variational Inference and an Application to Langevin Dynamics and SGVI	http://proceedings.mlr.press/v70/domke17a.html
+A Dynamic Programming Algorithm for Computing N-gram Posteriors from Lattices	https://doi.org/10.18653/v1/d15-1286
+A Fast and Scalable Joint Estimator for Integrating Additional Knowledge in Learning Multiple Related Sparse Gaussian Graphical Models	http://proceedings.mlr.press/v80/wang18f.html
+A Framework for Representing Language Acquisition in a Population Setting	https://www.aclweb.org/anthology/P18-1106/
+A Framework for Understanding the Role of Morphology in Universal Dependency Parsing	https://doi.org/10.18653/v1/d18-1312
+A Full Non-Monotonic Transition System for Unrestricted Non-Projective Parsing	https://doi.org/10.18653/v1/P17-1027
+A Generative Model of Phonotactics	https://transacl.org/ojs/index.php/tacl/article/view/971
+A Generative Parser with a Discriminative Recognition Algorithm	https://doi.org/10.18653/v1/P17-2019
+A Hierarchical Latent Structure for Variational Conversation Modeling	https://doi.org/10.18653/v1/n18-1162
+A Hybrid Convolutional Variational Autoencoder for Text Generation	https://doi.org/10.18653/v1/d17-1066
+A Joint Dependency Model of Morphological and Syntactic Structure for Statistical Machine Translation	https://doi.org/10.18653/v1/d15-1248
+A Joint Graph Model for Pinyin-to-Chinese Conversion with Typo Correction	https://doi.org/10.3115/v1/p14-1142
+A Just-In-Time Keyword Extraction from Meeting Transcripts	https://doi.org/10.1007/s10844-015-0391-2
+A La Carte Embedding: Cheap but Effective Induction of Semantic Feature Vectors	https://www.aclweb.org/anthology/P18-1002/
+A Laplacian Framework for Option Discovery in Reinforcement Learning	http://proceedings.mlr.press/v70/machado17a.html
+A Local Detection Approach for Named Entity Recognition and Mention Detection	https://doi.org/10.18653/v1/P17-1114
+A Meaning-based Statistical English Math Word Problem Solver	https://doi.org/10.18653/v1/n18-1060
+A Mention-Ranking Model for Abstract Anaphora Resolution	https://doi.org/10.18653/v1/d17-1021
+A Minimal Span-Based Neural Constituency Parser	https://doi.org/10.18653/v1/P17-1076
+A Multi-Axis Annotation Scheme for Event Temporal Relations	https://www.aclweb.org/anthology/P18-1122/
+A Multi-Dimensional Bayesian Approach to Lexical Style	https://www.aclweb.org/anthology/N13-1078/
+A Multi-lingual Multi-task Architecture for Low-resource Sequence Labeling	https://www.aclweb.org/anthology/P18-1074/
+A Multi-sentiment-resource Enhanced Attention Network for Sentiment Classification	https://www.aclweb.org/anthology/P18-2120/
+A Multidimensional Lexicon for Interpersonal Stancetaking	https://doi.org/10.18653/v1/P17-1082
+A Nested Attention Neural Hybrid Model for Grammatical Error Correction	https://doi.org/10.18653/v1/P17-1070
+A Neural Architecture for Automated ICD Coding	https://www.aclweb.org/anthology/P18-1098/
+A Neural Attention Model for Sentence Summarization	https://doi.org/10.18653/v1/d15-1044
+A Neural Layered Model for Nested Named Entity Recognition	https://doi.org/10.18653/v1/n18-1131
+A Neural Local Coherence Model for Text Quality Assessment	https://www.aclweb.org/anthology/D18-1464/
+A Neural Model for User Geolocation and Lexical Dialectology	https://doi.org/10.18653/v1/P17-2033
+A Neural Model of Adaptation in Reading	https://doi.org/10.18653/v1/d18-1499
+A Neural Network Approach to Context-Sensitive Generation of Conversational Responses	https://doi.org/10.3115/v1/n15-1020
+A Neural Network Model for Low-Resource Universal Dependency Parsing	https://doi.org/10.18653/v1/d15-1040
+A Neural Network for Coordination Boundary Prediction	https://doi.org/10.18653/v1/d16-1003
+A Nil-Aware Answer Extraction Framework for Question Answering	https://doi.org/10.18653/v1/d18-1456
+A Novel Approach to Part Name Discovery in Noisy Text	https://doi.org/10.18653/v1/n18-3021
+A Polynomial-Time Dynamic Programming Algorithm for Phrase-Based Decoding with a Fixed Distortion Limit	https://transacl.org/ojs/index.php/tacl/article/view/1020
+A Primal-Dual Analysis of Global Optimality in Nonconvex Low-Rank  Matrix Recovery	http://proceedings.mlr.press/v80/zhang18m.html
+A Principled Framework for Evaluating Summarizers: Comparing Models of Summary Quality against Human Judgments	https://doi.org/10.18653/v1/P17-2005
+A Probabilistic Theory of Supervised Similarity Learning for Pointwise ROC Curve Optimization	http://proceedings.mlr.press/v80/vogel18a.html
+A Question Answering Approach to Emotion Cause Extraction	http://arxiv.org/abs/1708.05482
+A Reductions Approach to Fair Classification	http://proceedings.mlr.press/v80/agarwal18a.html
+A Richer Theory of Convex Constrained Optimization with Reduced Projections and Improved Rates	http://proceedings.mlr.press/v70/yang17f.html
+A Scalable Neural Shortlisting-Reranking Approach for Large-Scale Domain Classification in Natural Language Understanding	https://doi.org/10.18653/v1/n18-3003
+A Semismooth Newton Method for Fast, Generic Convex Programming	http://proceedings.mlr.press/v70/ali17a.html
+A Sense-Based Translation Model for Statistical Machine Translation	https://doi.org/10.3115/v1/p14-1137
+A Simple Multi-Class Boosting Framework  with Theoretical Guarantees and Empirical Proficiency	http://proceedings.mlr.press/v70/appel17a.html
+A Simple Regularization-based Algorithm for Learning Cross-Domain Word Embeddings	http://arxiv.org/abs/1902.00184
+A Simulated Annealing Based Inexact Oracle for Wasserstein Loss Minimization	http://proceedings.mlr.press/v70/ye17b.html
+A Skeleton-Based Model for Promoting Coherence Among Sentences in Narrative Story Generation	https://www.aclweb.org/anthology/D18-1462/
+A Spatial Model for Extracting and Visualizing Latent Discourse Structure in Text	https://www.aclweb.org/anthology/P18-1211/
+A Spectral Approach to Gradient Estimation for Implicit Distributions	http://proceedings.mlr.press/v80/shi18a.html
+A Spline Theory of Deep Networks	http://proceedings.mlr.press/v80/balestriero18b.html
+A Stacking Gated Neural Architecture for Implicit Discourse Relation Classification	https://doi.org/10.18653/v1/d16-1246
+A Step-wise Usage-based Method for Inducing Polysemy-aware Verb Classes	https://doi.org/10.3115/v1/p14-1097
+A Stochastic Decoder for Neural Machine Translation	https://www.aclweb.org/anthology/P18-1115/
+A Structured Learning Approach to Temporal Relation Extraction	http://arxiv.org/abs/1906.04943
+A Structured Syntax-Semantics Interface for English-AMR Alignment	https://doi.org/10.18653/v1/n18-1106
+A Study of Reinforcement Learning for Neural Machine Translation	https://doi.org/10.18653/v1/d18-1397
+A Study of Style in Machine Translation: Controlling the Formality of Machine Translation Output	https://doi.org/10.18653/v1/d17-1299
+A Stylometric Inquiry into Hyperpartisan and Fake News	https://www.aclweb.org/anthology/P18-1022/
+A Syntactic Neural Model for General-Purpose Code Generation	https://doi.org/10.18653/v1/P17-1041
+A Tabular Method for Dynamic Oracles in Transition-Based Parsing	https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/302
+A Theoretical Explanation for Perplexing Behaviors of Backpropagation-based Visualizations	http://proceedings.mlr.press/v80/nie18a.html
+A Transition-Based Directed Acyclic Graph Parser for UCCA	https://doi.org/10.18653/v1/P17-1104
+A Tree-based Decoder for Neural Machine Translation	https://www.aclweb.org/anthology/D18-1509/
+A Two-Stage Parsing Method for Text-Level Discourse Analysis	https://doi.org/10.18653/v1/P17-2029
+A Unified Maximum Likelihood Approach for Estimating Symmetric Properties of Discrete Distributions	http://proceedings.mlr.press/v70/acharya17a.html
+A Unified Syntax-aware Framework for Semantic Role Labeling	https://doi.org/10.18653/v1/d18-1262
+A Unified Variance Reduction-Based Framework for Nonconvex Low-Rank Matrix Recovery	http://proceedings.mlr.press/v70/wang17n.html
+A Unified View of Multi-Label Performance Measures	http://proceedings.mlr.press/v70/wu17a.html
+A Visual Attention Grounding Neural Model for Multimodal Machine Translation	https://doi.org/10.18653/v1/d18-1400
+A Word-Complexity Lexicon and A Neural Readability Ranking Model for Lexical Simplification	https://doi.org/10.18653/v1/d18-1410
+A chance-corrected measure of inter-annotator agreement for syntax	https://doi.org/10.3115/v1/p14-1088
+A data-driven model of explanations for a chatbot that helps to practice conversation in a foreign language	https://doi.org/10.18653/v1/w17-5547
+A large annotated corpus for learning natural language inference	https://doi.org/10.18653/v1/d15-1075
+A practical and linguistically-motivated approach to compositional distributional semantics	https://doi.org/10.3115/v1/p14-1009
+A quantitative analysis of gender differences in movies using psycholinguistic normatives	https://doi.org/10.18653/v1/d15-1234
+A robust self-learning method for fully unsupervised cross-lingual mappings of word embeddings	http://arxiv.org/abs/1912.01706
+A strong baseline for question relevancy ranking	https://www.aclweb.org/anthology/D18-1515/
+A* CCG Parsing with a Supertag and Dependency Factored Model	https://doi.org/10.18653/v1/P17-1026
+AD3: Attentive Deep Document Dater	http://arxiv.org/abs/1902.02161
+AFET: Automatic Fine-Grained Entity Typing by Hierarchical Partial-Label Embedding	https://doi.org/10.18653/v1/d16-1144
+AMR Dependency Parsing with a Typed Semantic Algebra	https://www.aclweb.org/anthology/P18-1170/
+AMR-to-text Generation with Synchronous Node Replacement Grammar	https://doi.org/10.18653/v1/P17-2002
+APRO: All-Pairs Ranking Optimization for MT Tuning	https://doi.org/10.3115/v1/n15-1106
+Abstract Meaning Representation Parsing using LSTM Recurrent Neural Networks	https://doi.org/10.18653/v1/P17-1043
+Abstract Syntax Networks for Code Generation and Semantic Parsing	https://doi.org/10.18653/v1/P17-1105
+Abstractive Document Summarization with a Graph-Based Attentional Neural Model	https://doi.org/10.18653/v1/P17-1108
+Accelerated Spectral Ranking	http://proceedings.mlr.press/v80/agarwal18b.html
+Accelerating Eulerian Fluid Simulation With Convolutional Networks	https://openreview.net/forum?id=ByH2gxrKl
+Accurate Evaluation of Segment-level Machine Translation Metrics	https://doi.org/10.3115/v1/n15-1124
+Accurate Supervised and Semi-Supervised Machine Reading for Long Documents	https://doi.org/10.18653/v1/d17-1214
+Accurate Uncertainties for Deep Learning Using Calibrated Regression	http://proceedings.mlr.press/v80/kuleshov18a.html
+Active Heteroscedastic Regression	https://doi.org/10.1109/TCDS.2017.2700207
+Active Learning for Cost-Sensitive Classification	https://doi.org/10.1007/s10994-015-5504-1
+Active Learning for Top-K Rank Aggregation from Noisy Comparisons	http://proceedings.mlr.press/v70/mohajer17a.html
+Active Learning with Logged Data	http://proceedings.mlr.press/v80/yan18a.html
+Active Testing: An Efficient and Robust Framework for Estimating Accuracy	http://proceedings.mlr.press/v80/nguyen18d.html
+Adapting Kernel Representations Online Using Submodular Maximization	http://proceedings.mlr.press/v70/schlegel17a.html
+Adapting Word Embeddings to New Languages with Morphological and Phonological Subword Representations	https://doi.org/10.18653/v1/d18-1366
+Adaptive Consensus ADMM for Distributed Optimization	http://proceedings.mlr.press/v70/xu17c.html
+Adaptive Document Retrieval for Deep Question Answering	https://doi.org/10.18653/v1/d18-1055
+Adaptive Exploration-Exploitation Tradeoff for Opportunistic Bandits	http://proceedings.mlr.press/v80/wu18b.html
+Adaptive HTER Estimation for Document-Specific MT Post-Editing	https://doi.org/10.3115/v1/p14-1081
+Adaptive Knowledge Sharing in Multi-Task Learning: Improving Low-Resource Neural Machine Translation	https://www.aclweb.org/anthology/P18-2104/
+Adaptive Neural Networks for Efficient Inference	http://arxiv.org/abs/1811.08589
+Adaptive Sampling Probabilities for Non-Smooth Optimization	http://proceedings.mlr.press/v70/namkoong17a.html
+Adaptive Scaling for Sparse Detection in Information Extraction	https://www.aclweb.org/anthology/P18-1095/
+Addressee and Response Selection for Multi-Party Conversation	https://doi.org/10.18653/v1/d16-1231
+Addressing Objects and Their Relations: The Conversational Entity Dialogue Model	https://doi.org/10.18653/v1/w18-5032
+Adversarial Connective-exploiting Networks for Implicit Discourse Relation Classification	https://doi.org/10.18653/v1/P17-1093
+Adversarial Contrastive Estimation	https://www.aclweb.org/anthology/P18-1094/
+Adversarial Example Generation with Syntactically Controlled Paraphrase Networks	https://doi.org/10.18653/v1/n18-1170
+Adversarial Examples for Evaluating Reading Comprehension Systems	https://doi.org/10.18653/v1/d17-1215
+Adversarial Feature Matching for Text Generation	http://proceedings.mlr.press/v70/zhang17b.html
+Adversarial Multi-task Learning for Text Classification	https://doi.org/10.18653/v1/P17-1001
+Adversarial Regression with Multiple Learners	http://proceedings.mlr.press/v80/tong18a.html
+Adversarial Removal of Demographic Attributes from Text Data	https://doi.org/10.18653/v1/d18-1002
+Adversarial Training for Multi-task and Multi-lingual Joint Modeling of Utterance Intent Classification	https://doi.org/10.18653/v1/d18-1064
+Adversarial Transfer Learning for Chinese Named Entity Recognition with Self-Attention Mechanism	https://doi.org/10.18653/v1/d18-1017
+Adversarial training for multi-context joint entity and relation extraction	https://doi.org/10.18653/v1/d18-1307
+Adversarially Regularized Autoencoders	https://doi.org/10.1016/j.eswa.2019.04.014
+Affect-LM: A Neural Language Model for Customizable Affective Text Generation	https://doi.org/10.18653/v1/P17-1059
+Affinity-Preserving Random Walk for Multi-Document Summarization	https://doi.org/10.18653/v1/d17-1020
+Agent-Aware Dropout DQN for Safe and Efficient On-line Dialogue Policy Learning	https://doi.org/10.18653/v1/d17-1260
+Aggregating and Predicting Sequence Labels from Crowd Annotations	https://doi.org/10.18653/v1/P17-1028
+Algebraic Variety Models for High-Rank Matrix Completion	http://proceedings.mlr.press/v70/ongie17a.html
+Algorithmic Stability and Hypothesis Complexity	http://proceedings.mlr.press/v70/liu17c.html
+Algorithms for `p Low-Rank Approximation	http://papers.nips.cc/paper/7242-approximation-algorithms-for-ell_0-low-rank-approximation
+Alignment at Work: Using Language to Distinguish the Internalization and Self-Regulation Components of Cultural Fit in Organizations	https://doi.org/10.18653/v1/P17-1056
+Alignment-Based Compositional Semantics for Instruction Following	https://doi.org/10.18653/v1/d15-1138
+All Fingers are not Equal: Intensity of References in Scientific Articles	https://doi.org/10.18653/v1/d16-1142
+AllSummarizer system at MultiLing 2015: Multilingual single and multi-document summarization	https://doi.org/10.18653/v1/w15-4634
+Alternative Objective Functions for Training MT Evaluation Metrics	https://doi.org/10.18653/v1/P17-2004
+An AMR Aligner Tuned by Transition-based Parser	https://doi.org/10.18653/v1/d18-1264
+An Adaptive Test of Independence with Analytic Kernel Embeddings	http://proceedings.mlr.press/v70/jitkrittum17a.html
+An Alternative Softmax Operator for Reinforcement Learning	http://proceedings.mlr.press/v70/asadi17a.html
+An Analysis of Action Recognition Datasets for Language and Vision Tasks	https://doi.org/10.18653/v1/P17-2011
+An Analysis of Frequency- and Memory-Based Processing Costs	https://www.aclweb.org/anthology/N13-1010/
+An Analytical Formula of Population Gradient for two-layered ReLU network and its Applications in Convergence and Critical Point Analysis	http://proceedings.mlr.press/v70/tian17a.html
+An Efficient, Sparsity-Preserving, Online Algorithm for Low-Rank Approximation	http://proceedings.mlr.press/v70/anderson17a.html
+An Empirical Comparison Between N-gram and Syntactic Language Models for Word Ordering	https://doi.org/10.18653/v1/d15-1043
+An Empirical Study of Self-Disclosure in Spoken Dialogue Systems	https://doi.org/10.18653/v1/w18-5030
+An Encoder-Decoder Approach to the Paradigm Cell Filling Problem	https://doi.org/10.18653/v1/d18-1315
+An Estimation and Analysis Framework for the Rasch Model	http://proceedings.mlr.press/v80/lan18a.html
+An Incremental Turn-Taking Model with Active System Barge-in for Spoken Dialog Systems	https://doi.org/10.18653/v1/w15-4606
+An Infinite Hidden Markov Model With Similarity-Biased Transitions	http://proceedings.mlr.press/v70/dawson17a.html
+An Interpretable Knowledge Transfer Model for Knowledge Base Completion	https://doi.org/10.18653/v1/P17-1088
+An Iterative, Sketching-based Framework for Ridge Regression	http://proceedings.mlr.press/v80/chowdhury18a.html
+An Optimal Control Approach to Deep Learning and  Applications to Discrete-Weight Neural Networks	http://proceedings.mlr.press/v80/li18b.html
+An Unsupervised Neural Attention Model for Aspect Extraction	https://doi.org/10.18653/v1/P17-1036
+An Unsupervised Probability Model for Speech-to-Translation Alignment of Low-Resource Languages	https://doi.org/10.18653/v1/d16-1133
+Analogical Inference for Multi-relational Embeddings	http://proceedings.mlr.press/v70/liu17d.html
+Analogs of Linguistic Structure in Deep Representations	https://doi.org/10.18653/v1/d17-1311
+Analysis and Optimization of Graph Decompositions by Lifted Multicuts	http://proceedings.mlr.press/v70/hornakova17a.html
+Analytical Guarantees on Numerical Precision of Deep Neural Networks	http://proceedings.mlr.press/v70/sakr17a.html
+Analyzing Correlated Evolution of Multiple Features Using Latent Representations	https://doi.org/10.18653/v1/d18-1468
+Analyzing the Robustness of Nearest Neighbors to Adversarial Examples	http://proceedings.mlr.press/v80/wang18c.html
+Anchored Correlation Explanation: Topic Modeling with Minimal Domain Knowledge	https://transacl.org/ojs/index.php/tacl/article/view/1244
+Anchoring and Agreement in Syntactic Annotations	https://doi.org/10.18653/v1/d16-1239
+Answering Elementary Science Questions by Constructing Coherent Scenes using Background Knowledge	https://doi.org/10.18653/v1/d15-1236
+Antecedent Selection for Sluicing: Structure and Content	https://doi.org/10.18653/v1/d16-1131
+Any-language frame-semantic parsing	https://doi.org/10.18653/v1/d15-1245
+Apples to Apples: Learning Semantics of Common Entities Through a Novel Comprehension Task	https://doi.org/10.18653/v1/P17-1084
+Approaching Neural Grammatical Error Correction as a Low-Resource Machine Translation Task	https://doi.org/10.18653/v1/n18-1055
+Approximate Leave-One-Out for Fast Parameter Tuning in High Dimensions	http://proceedings.mlr.press/v80/wang18m.html
+Approximate Newton Methods and Their Local Convergence	http://proceedings.mlr.press/v70/ye17a.html
+Approximate Steepest Coordinate Descent	http://proceedings.mlr.press/v70/stich17a.html
+Approximation Algorithms for Cascading Prediction Models	http://proceedings.mlr.press/v80/streeter18a.html
+Approximation Guarantees for Adaptive Sampling	http://proceedings.mlr.press/v80/balkanski18a.html
+Approximation-Aware Dependency Parsing by Belief Propagation	https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/638
+Arc-swift: A Novel Transition System for Dependency Parsing	https://doi.org/10.18653/v1/P17-2018
+Are BLEU and Meaning Representation in Opposition?	https://www.aclweb.org/anthology/P18-1126/
+Argument Mining with Structured SVMs and RNNs	https://doi.org/10.18653/v1/P17-1091
+Argument Mining: Extracting Arguments from Online Dialogue	https://doi.org/10.18653/v1/w15-4631
+Asking too much? The rhetorical role of questions in political discourse	https://doi.org/10.18653/v1/d17-1164
+Aspect Level Sentiment Classification with Deep Memory Network	https://doi.org/10.24963/ijcai.2019/707
+Aspect-augmented Adversarial Networks for Domain Adaptation	https://transacl.org/ojs/index.php/tacl/article/view/1116
+Associative Multichannel Autoencoder for Multimodal Word Representation	https://doi.org/10.18653/v1/d18-1011
+Asymmetric Tri-training for Unsupervised Domain Adaptation	http://proceedings.mlr.press/v70/saito17a.html
+Asynchronous Stochastic Gradient Descent with Delay Compensation	http://proceedings.mlr.press/v70/zheng17b.html
+Asynchronous Stochastic Quasi-Newton MCMC for Non-Convex Optimization	http://proceedings.mlr.press/v80/simsekli18a.html
+Attention Strategies for Multi-Source Sequence-to-Sequence Learning	https://doi.org/10.18653/v1/P17-2031
+Attention-based Deep Multiple Instance Learning	http://proceedings.mlr.press/v80/ilse18a.html
+Attention-based LSTM Network for Cross-Lingual Sentiment Classification	https://doi.org/10.18653/v1/d16-1024
+Attention-over-Attention Neural Networks for Reading Comprehension	https://doi.org/10.18653/v1/P17-1055
+Attentive listening system with backchanneling, response generation and flexible turn-taking	https://doi.org/10.18653/v1/w17-5516
+Augment and Reduce: Stochastic Inference for Large Categorical Distributions	http://proceedings.mlr.press/v80/ruiz18a.html
+Augmented CycleGAN: Learning Many-to-Many Mappings  from Unpaired Data	http://proceedings.mlr.press/v80/almahairi18a.html
+Author Commitment and Social Power: Automatic Belief Tagging to Infer the Social Context of Interactions	https://doi.org/10.18653/v1/n18-1096
+Auto-Sizing Neural Networks: With Applications to n-gram Language Models	https://doi.org/10.18653/v1/d15-1107
+AutoPrognosis: Automated Clinical Prognostic Modeling via Bayesian Optimization with Structured Kernel Learning	http://proceedings.mlr.press/v80/alaa18b.html
+Autoencoder as Assistant Supervisor: Improving Text Representation for Chinese Social Media Text Summarization	https://www.aclweb.org/anthology/P18-2115/
+Automated Curriculum Learning for Neural Networks	http://proceedings.mlr.press/v70/graves17a.html
+Automatic Annotation and Evaluation of Error Types for Grammatical Error Correction	https://doi.org/10.18653/v1/P17-1074
+Automatic Discovery of the Statistical Types of Variables in a Dataset	http://proceedings.mlr.press/v70/valera17a.html
+Automatic Estimation of Simultaneous Interpreter Performance	https://www.aclweb.org/anthology/P18-2105/
+Automatic Event Salience Identification	https://doi.org/10.18653/v1/d18-1154
+Automatic Extraction of Causal Relations from Text using Linguistically Informed Deep Neural Networks	https://doi.org/10.18653/v1/w18-5035
+Automatic Extraction of Implicit Interpretations from Modal Constructions	https://doi.org/10.18653/v1/d16-1118
+Automatic Measures to Characterise Verbal Alignment in Human-Agent Interaction	https://doi.org/10.18653/v1/w17-5510
+Automatic Metric Validation for Grammatical Error Correction	https://www.aclweb.org/anthology/P18-1127/
+Automatic Poetry Generation with Mutual Reinforcement Learning	https://doi.org/10.18653/v1/d18-1353
+Automatic Recognition of Conversational Strategies in the Service of a Socially-Aware Dialog System	https://doi.org/10.18653/v1/w16-3647
+Automatic Reference-Based Evaluation of Pronoun Translation Misses the Point	https://doi.org/10.18653/v1/d18-1513
+Automatically Generating Rhythmic Verse with Neural Networks	https://doi.org/10.18653/v1/P17-1016
+Automatically Solving Number Word Problems by Semantic Parsing and Reasoning	https://doi.org/10.18653/v1/d15-1135
+Autoregressive Quantile Networks for Generative Modeling	http://proceedings.mlr.press/v80/ostrovski18a.html
+Averaged-DQN: Variance Reduction and Stabilization for Deep Reinforcement Learning	http://proceedings.mlr.press/v70/anschel17a.html
+Axiomatic Attribution for Deep Networks	http://proceedings.mlr.press/v70/sundararajan17a.html
+BANDITSUM: Extractive Summarization as a Contextual Bandit	https://doi.org/10.18653/v1/d18-1409
+Backpropagating through Structured Argmax using a SPIGOT	https://www.aclweb.org/anthology/P18-1173/
+Bag of Experts Architectures for Model Reuse in Conversational Language Understanding	https://doi.org/10.18653/v1/n18-3019
+Bandits with Delayed, Aggregated Anonymous Feedback	http://proceedings.mlr.press/v80/pike-burke18a.html
+Batch Bayesian Optimization via Multi-objective Acquisition Ensemble for Automated Analog Circuit Design	http://proceedings.mlr.press/v80/lyu18a.html
+Batch IS NOT Heavy: Learning Word Representations From All Samples	https://www.aclweb.org/anthology/P18-1172/
+Batched High-dimensional Bayesian Optimization via Structural Kernel Learning	http://proceedings.mlr.press/v70/wang17h.html
+Bayesian Boolean Matrix Factorisation	http://proceedings.mlr.press/v70/rukat17a.html
+Bayesian Model Selection for Change Point Detection and Clustering	http://proceedings.mlr.press/v80/mazhar18a.html
+Bayesian Modeling of Lexical Resources for Low-Resource Settings	https://doi.org/10.18653/v1/P17-1095
+Bayesian Models of Data Streams with Hierarchical Power Priors	http://proceedings.mlr.press/v70/masegosa17a.html
+Bayesian Optimization of Text Representations	https://doi.org/10.18653/v1/d15-1251
+Bayesian Optimization with Tree-structured Dependencies	http://proceedings.mlr.press/v70/jenatton17a.html
+Bayesian Quadrature for Multiple Related Integrals	http://proceedings.mlr.press/v80/xi18a.html
+Bayesian Uncertainty Estimation for Batch Normalized Deep Networks	http://proceedings.mlr.press/v80/teye18a.html
+Bayesian inference on random simple graphs with power law degree distributions	http://proceedings.mlr.press/v70/lee17a.html
+Because Syntax Does Matter: Improving Predicate-Argument Structures Parsing with Syntactic Features	https://doi.org/10.3115/v1/n15-1007
+Before Name-calling: Dynamics and Triggers of Ad Hominem Fallacies in Web Argumentation	https://doi.org/10.18653/v1/n18-1036
+Behavior Analysis of NLI Models: Uncovering the Influence of Three Factors on Robustness	https://doi.org/10.18653/v1/n18-1179
+Being Negative but Constructively: Lessons Learnt from Creating Better Visual Question Answering Datasets	https://doi.org/10.18653/v1/n18-1040
+Being Robust (in High Dimensions) Can Be Practical	http://proceedings.mlr.press/v70/diakonikolas17a.html
+Beyond Binary Labels: Political Ideology Prediction of Twitter Users	https://doi.org/10.18653/v1/P17-1068
+Beyond Error Propagation in Neural Machine Translation: Characteristics of Language Also Matter	https://doi.org/10.18653/v1/d18-1396
+Beyond Filters: Compact Feature Map for Portable Deep Model	http://proceedings.mlr.press/v70/wang17m.html
+Bi-directional Attention with Agreement for Dependency Parsing	https://doi.org/10.18653/v1/d16-1238
+Bidirectional Learning for Time-series Models with Hidden Units	http://proceedings.mlr.press/v70/osogami17a.html
+Bilevel Programming for Hyperparameter Optimization and Meta-Learning	http://proceedings.mlr.press/v80/franceschi18a.html
+Bilingual Structured Language Models for Statistical Machine Translation	https://doi.org/10.18653/v1/d15-1287
+Bilingually-constrained Synthetic Data for Implicit Discourse Relation Recognition	https://doi.org/10.1016/j.neucom.2017.02.084
+Binary Classification with Karmic, Threshold-Quasi-Concave Metrics	http://proceedings.mlr.press/v80/yan18b.html
+Binary Partitions with Approximate Minimum Impurity	http://proceedings.mlr.press/v80/laber18a.html
+Biography-Dependent Collaborative Entity Archiving for Slot Filling	https://doi.org/10.18653/v1/d15-1078
+Black-Box Variational Inference for Stochastic Differential Equations	http://proceedings.mlr.press/v80/ryder18a.html
+Bleaching Text: Abstract Features for Cross-lingual Gender Prediction	https://www.aclweb.org/anthology/P18-2061/
+Blind Justice: Fairness with Encrypted Sensitive Attributes	http://proceedings.mlr.press/v80/kilbertus18a.html
+Bootstrapping Generators from Noisy Data	https://doi.org/10.18653/v1/n18-1137
+Bootstrapping into Filler-Gap: An Acquisition Story	https://doi.org/10.3115/v1/p14-1102
+Bounding and Counting Linear Regions of Deep Neural Networks	http://proceedings.mlr.press/v80/serra18b.html
+Bounds on the Approximation Power of Feedforward Neural Networks	http://proceedings.mlr.press/v80/mehrabi18a.html
+Breaking Locality Accelerates Block Gauss-Seidel	http://proceedings.mlr.press/v70/tu17a.html
+Breaking NLI Systems with Sentences that Require Simple Lexical Inferences	https://www.aclweb.org/anthology/P18-2103/
+Bridging Languages through Images with Deep Partial Canonical Correlation Analysis	https://www.aclweb.org/anthology/P18-1084/
+Broad-coverage CCG Semantic Parsing with AMR	https://doi.org/10.18653/v1/d15-1198
+Bucket Renormalization for Approximate Inference	http://proceedings.mlr.press/v80/ahn18a.html
+Building a shared world: mapping distributional to model-theoretic semantic spaces	https://doi.org/10.18653/v1/d15-1003
+Building compositional semantics and higher-order inference system for a wide-coverage Japanese CCG parser	https://doi.org/10.18653/v1/d16-1242
+Byzantine-Robust Distributed Learning: Towards Optimal Statistical Rates	http://proceedings.mlr.press/v80/yin18a.html
+C3EL: A Joint Model for Cross-Document Co-Reference Resolution and Entity Linking	https://doi.org/10.18653/v1/d15-1101
+CALCS: Continuously Approximating Longest Common Subsequence for Sequence Level Optimization	https://doi.org/10.18653/v1/d18-1406
+CARER: Contextualized Affect Representations for Emotion Recognition	https://doi.org/10.18653/v1/d18-1404
+CORE: Context-Aware Open Relation Extraction with Factorization Machines	https://doi.org/10.18653/v1/d15-1204
+CRAFTML, an Efficient Clustering-based Random  Forest for Extreme Multi-label Learning	http://proceedings.mlr.press/v80/siblini18a.html
+Call Centre Conversation Summarization: A Pilot Task at Multiling 2015	https://doi.org/10.18653/v1/w15-4633
+Can Neural Machine Translation be Improved with User Feedback?	https://doi.org/10.18653/v1/n18-3012
+Can a Suit of Armor Conduct Electricity? A New Dataset for Open Book Question Answering	https://doi.org/10.18653/v1/d18-1260
+Candidates vs. Noises Estimation for Large Multi-Class Classification Problem	http://proceedings.mlr.press/v80/han18a.html
+Canonical Tensor Decomposition for Knowledge Base Completion	http://proceedings.mlr.press/v80/lacroix18a.html
+Capacity Releasing Diffusion for Speed and Locality	http://proceedings.mlr.press/v70/wang17b.html
+Capturing Regional Variation with Distributed Place Representations and Geographic Retrofitting	https://www.aclweb.org/anthology/D18-1469/
+Changing the Level of Directness in Dialogue using Dialogue Vector Models and Recurrent Neural Networks	https://doi.org/10.18653/v1/w18-5002
+CharManteau: Character Embedding Models For Portmanteau Creation	https://doi.org/10.18653/v1/d17-1315
+Characterizing Interactions and Relationships between People	https://www.aclweb.org/anthology/D18-1470/
+Citation Resolution: A method for evaluating context-based citation recommendation systems	https://doi.org/10.3115/v1/p14-2059
+Classical Structured Prediction Losses for Sequence to Sequence Learning	https://doi.org/10.18653/v1/n18-1033
+Classification from Pairwise Similarity and Unlabeled Data	http://proceedings.mlr.press/v80/bao18a.html
+Classifying Relations via Long Short Term Memory Networks along Shortest Dependency Paths	https://doi.org/10.18653/v1/d15-1206
+Classifying Temporal Relations by Bidirectional LSTM over Dependency Paths	https://doi.org/10.18653/v1/P17-2001
+Closed-form Marginal Likelihood in Gamma-Poisson Matrix Factorization	http://proceedings.mlr.press/v80/filstroff18a.html
+Clustering Semi-Random Mixtures of Gaussians	http://proceedings.mlr.press/v80/awasthi18a.html
+Clustering by Sum of Norms: Stochastic Incremental Algorithm, Convergence and Cluster Recovery	http://proceedings.mlr.press/v70/panahi17a.html
+Co-Training for Topic Classification of Scholarly Data	https://doi.org/10.18653/v1/d15-1283
+Co-clustering through Optimal Transport	http://proceedings.mlr.press/v70/laclau17a.html
+CoSimRank: A Flexible & Efficient Graph-Theoretic Similarity Measure	https://doi.org/10.3115/v1/p14-1131
+Coarse-to-Fine Decoding for Neural Semantic Parsing	https://www.aclweb.org/anthology/P18-1068/
+Cogent: A Generic Dialogue System Shell Based on a Collaborative Problem Solving Model	https://doi.org/10.18653/v1/w18-5048
+Cognitive Psychology for Deep Neural Networks:  A Shape Bias Case Study	http://proceedings.mlr.press/v70/ritter17a.html
+Coherent Probabilistic Forecasts for Hierarchical Time Series	http://proceedings.mlr.press/v70/taieb17a.html
+Collect at Once, Use Effectively: Making Non-interactive Locally Private Learning Possible	http://proceedings.mlr.press/v70/zheng17c.html
+Collecting Diverse Natural Language Inference Problems for Sentence Representation Evaluation	https://doi.org/10.18653/v1/d18-1007
+Collective Event Detection via a Hierarchical and Bias Tagging Networks with Gated Multi-level Attention Mechanisms	https://doi.org/10.18653/v1/d18-1158
+Collective Tweet Wikification based on Semi-supervised Graph Regularization	https://doi.org/10.3115/v1/p14-1036
+Colorless green recurrent networks dream hierarchically	https://doi.org/10.18653/v1/n18-1108
+Colors in Context: A Pragmatic Neural Model for Grounded Language Understanding	https://transacl.org/ojs/index.php/tacl/article/view/1142
+Combined Group and Exclusive Sparsity for Deep Neural Networks	http://proceedings.mlr.press/v70/yoon17a.html
+Combining Language and Vision with a Multimodal Skip-gram Model	https://doi.org/10.3115/v1/n15-1016
+Combining Model-Based and Model-Free Updates for Trajectory-Centric Reinforcement Learning	http://proceedings.mlr.press/v70/chebotar17a.html
+Coming to Your Senses: on Controls and Evaluation Sets in Polysemy Research	https://doi.org/10.18653/v1/d18-1200
+Comment-to-Article Linking in the Online News Domain	https://doi.org/10.18653/v1/w15-4635
+Commonsense for Generative Multi-Hop Question Answering Tasks	https://doi.org/10.18653/v1/d18-1454
+Compact Personalized Models for Neural Machine Translation	https://doi.org/10.18653/v1/d18-1104
+Compact, Efficient and Unlimited Capacity: Language Modeling with Compressed Suffix Trees	https://doi.org/10.18653/v1/d15-1288
+Comparatives, Quantifiers, Proportions: a Multi-Task Model for the Learning of Quantities from Vision	https://doi.org/10.18653/v1/n18-1039
+Comparing Computational Cognitive Models of Generalization in a Language Acquisition Task	https://doi.org/10.18653/v1/d16-1010
+Comparing Constraints for Taxonomic Organization	https://doi.org/10.18653/v1/n18-1030
+Comparing Dynamics: Deep Neural Networks versus Glassy Systems	http://proceedings.mlr.press/v80/baity-jesi18a.html
+Comparison-Based Random Forests	https://doi.org/10.3390/rs12030434
+Competitive Caching with Machine Learned Advice	http://proceedings.mlr.press/v80/lykouris18a.html
+Compiling Combinatorial Prediction Games	http://proceedings.mlr.press/v80/koriche18a.html
+Composable Planning with Attributes	http://proceedings.mlr.press/v80/zhang18k.html
+Composing Tree Graphical Models with Persistent Homology Features for Clustering Mixed-Type Data	http://proceedings.mlr.press/v70/ni17a.html
+Composite Marginal Likelihood Methods for Random Utility Models	http://proceedings.mlr.press/v80/zhao18d.html
+Comprehensive Supersense Disambiguation of English Prepositions and Possessives	https://www.aclweb.org/anthology/P18-1018/
+Compressed Sensing using Generative Models	http://proceedings.mlr.press/v80/dhar18a.html
+ConStance: Modeling Annotation Contexts to Improve Stance Classification	https://doi.org/10.18653/v1/d17-1116
+Concept Transfer Learning for Adaptive Language Understanding	https://doi.org/10.18653/v1/w18-5047
+Conditional Generation and Snapshot Learning in Neural Dialogue Systems	https://doi.org/10.18653/v1/d16-1233
+Conditional Noise-Contrastive Estimation of Unnormalised Models	http://proceedings.mlr.press/v80/ceylan18a.html
+Confident Multiple Choice Learning	http://proceedings.mlr.press/v70/lee17b.html
+Consistency Analysis for Binary Classification Revisited	http://proceedings.mlr.press/v70/dembczynski17a.html
+Consistent On-Line Off-Policy Evaluation	http://proceedings.mlr.press/v70/hallak17a.html
+Consistent k-Clustering	https://doi.org/10.1109/ICASSP.2018.8461730
+Constituent Parsing as Sequence Labeling	https://doi.org/10.18653/v1/d18-1162
+Constrained Interacting Submodular Groupings	http://proceedings.mlr.press/v80/cotter18a.html
+Constraining the Dynamics of Deep Probabilistic Models	http://proceedings.mlr.press/v80/lorenzi18a.html
+Content Selection in Deep Learning Models of Summarization	https://doi.org/10.18653/v1/d18-1208
+Context Gates for Neural Machine Translation	https://transacl.org/ojs/index.php/tacl/article/view/948
+Context-Aware Neural Machine Translation Learns Anaphora Resolution	https://www.aclweb.org/anthology/P18-1117/
+Context-Dependent Sentiment Analysis in User-Generated Videos	https://doi.org/10.18653/v1/P17-1081
+Context-aware Learning for Sentence-level Sentiment Analysis with Posterior Regularization	https://doi.org/10.3115/v1/p14-1031
+Context-dependent Semantic Parsing for Time Expressions	https://doi.org/10.3115/v1/p14-1135
+Contextual Decision Processes with low Bellman rank are PAC-Learnable	http://proceedings.mlr.press/v70/jiang17c.html
+Continual Learning Through Synaptic Intelligence	http://proceedings.mlr.press/v70/zenke17a.html
+Continuous Representation of Location for Geolocation and Lexical Dialectology using Mixture Density Networks	https://doi.org/10.18653/v1/d17-1016
+Continuous-Time Flows for Efficient Inference and Density Estimation	http://proceedings.mlr.press/v80/chen18d.html
+Controlling Output Length in Neural Encoder-Decoders	https://doi.org/10.18653/v1/d16-1140
+Controlling Personality-Based Stylistic Variation with Neural Natural Language Generators	https://doi.org/10.18653/v1/w18-5019
+Convergence Analysis of Proximal Gradient with Momentum for Nonconvex Optimization	http://proceedings.mlr.press/v70/li17g.html
+Conversation Modeling on Reddit Using a Graph-Structured LSTM	https://transacl.org/ojs/index.php/tacl/article/view/1083
+Conversational Image Editing: Incremental Intent Identification in a New Dialogue Task	https://doi.org/10.18653/v1/w18-5033
+Conversations Gone Awry: Detecting Early Signs of Conversational Failure	https://www.aclweb.org/anthology/P18-1125/
+Convex Phase Retrieval without Lifting via PhaseMax	http://proceedings.mlr.press/v70/goldstein17a.html
+Convexified Convolutional Neural Networks	http://proceedings.mlr.press/v70/zhang17f.html
+Convolutional Imputation of Matrix Networks	http://proceedings.mlr.press/v80/sun18d.html
+Convolutional Neural Network Language Models	https://doi.org/10.1016/j.patcog.2016.12.026
+Convolutional Neural Networks with Recurrent Neural Filters	https://doi.org/10.18653/v1/d18-1109
+Convolutional Sequence to Sequence Learning	http://arxiv.org/abs/1810.10237
+Coordinated Multi-Agent Imitation Learning	http://proceedings.mlr.press/v70/le17a.html
+Count-Based Exploration with Neural Density Models	http://proceedings.mlr.press/v70/ostrovski17a.html
+Counterfactual Data-Fusion for Online Reinforcement Learners	http://proceedings.mlr.press/v70/forney17a.html
+Coupling Distributed and Symbolic Execution for Natural Language Queries	https://openreview.net/forum?id=Hkx-gCfYl
+Covariate Adjusted Precision Matrix Estimation via Nonconvex Optimization	http://proceedings.mlr.press/v80/chen18n.html
+Creating Causal Embeddings for Question Answering with Minimal Supervision	https://doi.org/10.18653/v1/d16-1014
+Creating Training Corpora for NLG Micro-Planning	https://www.aclweb.org/anthology/P17-1017/
+Creating a Large Benchmark for Open Information Extraction	https://doi.org/10.18653/v1/d16-1252
+Creating and Characterizing a Diverse Corpus of Sarcasm in Dialogue	https://doi.org/10.18653/v1/w16-3604
+Cross-Lingual Semantic Similarity of Words as the Similarity of Their Semantic Word Responses	https://www.aclweb.org/anthology/N13-1011/
+Cross-Lingual Syntactic Transfer with Limited Resources	https://transacl.org/ojs/index.php/tacl/article/view/922
+Cross-Lingual Transfer Learning for POS Tagging without Cross-Lingual Resources	https://doi.org/10.18653/v1/d17-1302
+Cross-Sentence N -ary Relation Extraction with Graph LSTMs	https://transacl.org/ojs/index.php/tacl/article/view/1028
+Cross-Target Stance Classification with Self-Attention Networks	https://www.aclweb.org/anthology/P18-2123/
+Cross-lingual Abstract Meaning Representation Parsing	https://doi.org/10.18653/v1/n18-1104
+Cross-lingual Opinion Analysis via Negative Transfer Detection	https://doi.org/10.3115/v1/p14-2139
+Cross-narrative temporal ordering of medical events	https://doi.org/10.3115/v1/p14-1094
+Cross-topic Argument Mining from Heterogeneous Sources	https://doi.org/10.18653/v1/d18-1402
+Crowdsourcing with Arbitrary Adversaries	http://proceedings.mlr.press/v80/kleindessner18a.html
+Curiosity-driven Exploration by Self-supervised Prediction	https://doi.org/10.1109/CVPRW.2017.70
+Curriculum Learning by Transfer Learning: Theory and Experiments with Deep Networks	http://proceedings.mlr.press/v80/weinshall18a.html
+Cut to the Chase: A Context Zoom-in Network for Reading Comprehension	https://doi.org/10.18653/v1/d18-1054
+DARLA: Improving Zero-Shot Transfer in Reinforcement Learning	http://proceedings.mlr.press/v70/higgins17a.html
+DCFNet: Deep Neural Network with Decomposed Convolutional Filters	http://proceedings.mlr.press/v80/qiu18a.html
+DOC: Deep Open Classification of Text Documents	https://doi.org/10.18653/v1/d17-1314
+DR-BiLSTM: Dependent Reading Bidirectional LSTM for Natural Language Inference	https://doi.org/10.18653/v1/n18-1132
+DVAE++: Discrete Variational Autoencoders with Overlapping Transformations	http://proceedings.mlr.press/v80/vahdat18a.html
+Dance Dance Convolution	https://openreview.net/forum?id=HyzsgBEtg
+Data Summarization at Scale:A Two-Stage Submodular Approach	http://proceedings.mlr.press/v80/mitrovic18a.html
+Data-Dependent Stability of Stochastic Gradient Descent	http://proceedings.mlr.press/v80/kuzborskij18a.html
+Data-Efficient Policy Evaluation Through Behavior Policy Search	http://proceedings.mlr.press/v70/hanna17a.html
+DeClarE: Debunking Fake News and False Claims using Evidence-Aware Deep Learning	https://doi.org/10.18653/v1/d18-1003
+Deal or No Deal? End-to-End Learning for Negotiation Dialogues	http://arxiv.org/abs/1706.05125
+Decentralized Submodular Maximization: Bridging Discrete and Continuous Settings	http://proceedings.mlr.press/v80/mokhtari18a.html
+Deciding How to Decide:  Dynamic Routing in Artificial Neural Networks	http://proceedings.mlr.press/v70/mcgill17a.html
+Decipherment of Substitution Ciphers with Neural Language Models	https://doi.org/10.18653/v1/d18-1102
+Decoding Anagrammed Texts Written in an Unknown Language and Script	https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/821
+Decomposition of Uncertainty in Bayesian Deep Learning for Efficient and Risk-sensitive Learning	http://proceedings.mlr.press/v80/depeweg18a.html
+Decoupling Strategy and Generation in Negotiation Dialogues	https://doi.org/10.18653/v1/d18-1256
+Deep Attentive Sentence Ordering Network	https://www.aclweb.org/anthology/D18-1465/
+Deep Bayesian Active Learning with Image Data	http://proceedings.mlr.press/v70/gal17a.html
+Deep Decentralized Multi-task Multi-Agent Reinforcement Learningunder Partial Observability	https://arxiv.org/abs/1703.06182
+Deep Density Destructors	http://proceedings.mlr.press/v80/inouye18a.html
+Deep Dirichlet Multinomial Regression	https://doi.org/10.18653/v1/n18-1034
+Deep Dyna-Q: Integrating Planning for Task-Completion Dialogue Policy Learning	https://www.aclweb.org/anthology/P18-1203/
+Deep Exhaustive Model for Nested Named Entity Recognition	https://doi.org/10.18653/v1/d18-1309
+Deep Generative Model for Joint Alignment and Word Representation	https://doi.org/10.18653/v1/n18-1092
+Deep Generative Models for Relational Data with Side Information	http://proceedings.mlr.press/v70/hu17d.html
+Deep IV: A Flexible Approach for Counterfactual Prediction	http://proceedings.mlr.press/v70/hartford17a.html
+Deep Keyphrase Generation	https://arxiv.org/abs/2004.08511
+Deep Latent Dirichlet Allocation with Topic-Layer-Adaptive Stochastic Gradient Riemannian MCMC	http://proceedings.mlr.press/v70/cong17a.html
+Deep Learning in Semantic Kernel Spaces	https://doi.org/10.18653/v1/P17-1032
+Deep Linear Networks with Arbitrary Loss: All Local Minima Are Global	http://proceedings.mlr.press/v80/laurent18a.html
+Deep Multi-Task Learning for Aspect Term Extraction with Memory Interaction	https://doi.org/10.18653/v1/d17-1310
+Deep Multi-Task Learning with Shared Memory for Text Classification	https://doi.org/10.18653/v1/d16-1012
+Deep Neural Machine Translation with Linear Associative Unit	https://doi.org/10.18653/v1/P17-1013
+Deep One-Class Classification	https://doi.org/10.1109/DSW.2019.8755576
+Deep Predictive Coding Network for Object Recognition	http://proceedings.mlr.press/v80/wen18a.html
+Deep Probabilistic Logic: A Unifying Framework for Indirect Supervision	https://doi.org/10.18653/v1/d18-1215
+Deep Pyramid Convolutional Neural Networks for Text Categorization	https://doi.org/10.18653/v1/P17-1052
+Deep Reinforcement Learning for Dialogue Generation	https://doi.org/10.18653/v1/d16-1127
+Deep Reinforcement Learning for Mention-Ranking Coreference Models	https://doi.org/10.18653/v1/d16-1245
+Deep Relevance Ranking Using Enhanced Document-Query Interactions	https://doi.org/10.18653/v1/d18-1211
+Deep Spectral Clustering Learning	https://doi.org/10.1109/CBMI.2016.7500237
+Deep Temporal-Recurrent-Replicated-Softmax for Topical Trends over Time	https://doi.org/10.18653/v1/n18-1098
+Deep Tensor Convolution on Multicores	http://proceedings.mlr.press/v70/budden17a.html
+Deep Value Networks Learn to Evaluate and Iteratively Refine Structured Outputs	http://proceedings.mlr.press/v70/gygli17a.html
+Deep Variational Reinforcement Learning for POMDPs	http://proceedings.mlr.press/v80/igl18a.html
+Deep Voice: Real-time Neural Text-to-Speech	http://proceedings.mlr.press/v70/arik17a.html
+Deep contextualized word representations	https://doi.org/10.1109/ACCESS.2019.2948155
+Deep-speare: A joint neural model of poetic language, meter and rhyme	https://www.aclweb.org/anthology/P18-1181/
+DeepBach: a Steerable Model for Bach Chorales Generation	http://proceedings.mlr.press/v70/hadjeres17a.html
+DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning	https://doi.org/10.18653/v1/d17-1060
+Deeper Attention to Abusive User Content Moderation	https://doi.org/10.18653/v1/d17-1117
+Deeply AggreVaTeD: Differentiable Imitation Learning for Sequential Prediction	http://proceedings.mlr.press/v70/sun17d.html
+Defoiling Foiled Image Captions	https://doi.org/10.18653/v1/n18-2069
+Delayed Impact of Fair Machine Learning	https://doi.org/10.24963/ijcai.2019/862
+Delete, Retrieve, Generate: a Simple Approach to Sentiment and Style Transfer	https://doi.org/10.18653/v1/n18-1169
+Deletion-Robust Submodular Maximization: Data Summarization with ``the Right to be Forgotten''	http://proceedings.mlr.press/v70/mirzasoleiman17a.html
+Demand-Weighted Completeness Prediction for a Knowledge Base	https://doi.org/10.18653/v1/n18-3025
+Demographic Dialectal Variation in Social Media: A Case Study of African-American English	https://doi.org/10.18653/v1/d16-1120
+Density Level Set Estimation on Manifolds with DBSCAN	http://proceedings.mlr.press/v70/jiang17a.html
+Density-Driven Cross-Lingual Transfer of Dependency Parsers	https://doi.org/10.18653/v1/d15-1039
+Dependency Graph-to-String Translation	https://doi.org/10.18653/v1/d15-1004
+Dependency-Based Word Embeddings	https://doi.org/10.18653/v1/D19-1277
+Dependency-based Hybrid Trees for Semantic Parsing	https://doi.org/10.18653/v1/d18-1265
+Dependency-based empty category detection via phrase structure trees	https://www.aclweb.org/anthology/N13-1125/
+Dependent Relational Gamma Process Models for Longitudinal Networks	http://proceedings.mlr.press/v80/yang18b.html
+Depth-Width Tradeoffs in Approximating Natural Functions with Neural Networks	http://proceedings.mlr.press/v70/safran17a.html
+Deriving Boolean structures from distributional vectors	https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/616
+Deriving Machine Attention from Human Rationales	https://doi.org/10.18653/v1/d18-1216
+Detect Rumors in Microblog Posts Using Propagation Structure via Kernel Learning	https://doi.org/10.18653/v1/P17-1066
+Detecting Egregious Conversations between Customers and Virtual Agents	https://doi.org/10.18653/v1/n18-1163
+Detecting Gang-Involved Escalation on Social Media Using Context	https://doi.org/10.18653/v1/d18-1005
+Detecting Institutional Dialog Acts in Police Traffic Stops	https://transacl.org/ojs/index.php/tacl/article/view/1349
+Detecting Perspectives in Political Debates	https://doi.org/10.18653/v1/d17-1165
+Detecting Risks in the Banking System by Sentiment Analysis	https://doi.org/10.18653/v1/d15-1071
+Detecting and Characterizing Events	https://doi.org/10.18653/v1/d16-1122
+Deterministic Non-Autoregressive Neural Sequence Modeling by Iterative Refinement	https://doi.org/10.18653/v1/d18-1149
+Developing Bug-Free Machine Learning Systems With Formal Mathematics	http://proceedings.mlr.press/v70/selsam17a.html
+Device Placement Optimization with Reinforcement Learning	http://proceedings.mlr.press/v70/mirhoseini17a.html
+DialSQL: Dialogue Based Structured Query Generation	https://www.aclweb.org/anthology/P18-1124/
+Diameter-Based Active Learning	http://proceedings.mlr.press/v70/tosh17a.html
+Dictionary Learning Based on Sparse Distribution Tomography	http://proceedings.mlr.press/v70/pad17a.html
+Did the Model Understand the Question?	https://www.aclweb.org/anthology/P18-1176/
+Differentiable Compositional Kernel Learning for Gaussian Processes	http://proceedings.mlr.press/v80/sun18e.html
+Differentiable Dynamic Programming for Structured Prediction and Attention	http://proceedings.mlr.press/v80/mensch18a.html
+Differentiable Programs with Neural Libraries	http://proceedings.mlr.press/v70/gaunt17a.html
+Differentially Private Chi-squared Test by Unit Circle Mechanism	http://proceedings.mlr.press/v70/kakizaki17a.html
+Differentially Private Clustering in High-Dimensional Euclidean Spaces	http://proceedings.mlr.press/v70/balcan17a.html
+Differentially Private Database Release via Kernel Mean Embeddings	http://proceedings.mlr.press/v80/balog18a.html
+Differentially Private Identity and Equivalence Testing of Discrete Distributions	http://proceedings.mlr.press/v80/aliakbarpour18a.html
+Differentially Private Learning of Undirected Graphical Models Using Collective Graphical Models	http://proceedings.mlr.press/v70/bernstein17a.html
+Differentially Private Matrix Completion Revisited	http://proceedings.mlr.press/v80/jain18b.html
+Differentially Private Ordinary Least Squares	https://doi.org/10.29012/jpc.654
+Differentially Private Submodular Maximization: Data Summarization in Disguise	http://proceedings.mlr.press/v70/mitrovic17a.html
+Dimensionality-Driven Learning with Noisy Labels	http://proceedings.mlr.press/v80/ma18d.html
+Disambiguating False-Alarm Hashtag Usages in Tweets for Irony Detection	https://www.aclweb.org/anthology/P18-2122/
+Discourse Coherence: Concurrent Explicit and Implicit Relations	https://www.aclweb.org/anthology/P18-1210/
+Discourse Complements Lexical Semantics for Non-factoid Answer Reranking	https://doi.org/10.3115/v1/p14-1092
+Discourse Marker Augmented Network with Reinforcement Learning for Natural Language Inference	http://arxiv.org/abs/1907.09692
+Discourse Mode Identification in Essays	https://doi.org/10.18653/v1/P17-1011
+Discourse parsing for multi-party chat dialogues	https://doi.org/10.18653/v1/d15-1109
+Discovering Discrete Latent Topics with Neural Variational Inference	http://proceedings.mlr.press/v70/miao17a.html
+Discovering User Groups for Natural Language Generation	https://doi.org/10.18653/v1/w18-5018
+Discrete-Continuous Mixtures in Probabilistic Programming: Generalized Semantics and Inference Algorithms	http://proceedings.mlr.press/v80/wu18f.html
+Discriminative Neural Sentence Modeling by Tree-Based Convolution	https://doi.org/10.18653/v1/d15-1279
+Disentangled Sequential Autoencoder	http://proceedings.mlr.press/v80/yingzhen18a.html
+Disfluency Detection Using Multi-step Stacked Learning	https://www.aclweb.org/anthology/N13-1102/
+Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks	https://doi.org/10.18653/v1/d15-1203
+Distant Supervision from Disparate Sources for Low-Resource Part-of-Speech Tagging	https://doi.org/10.18653/v1/d18-1061
+Distilling Knowledge for Search-based Structured Prediction	https://www.aclweb.org/anthology/P18-1129/
+Distributed Batch Gaussian Process Optimization	http://proceedings.mlr.press/v70/daxberger17a.html
+Distributed Clustering via LSH Based Data Partitioning	http://proceedings.mlr.press/v80/bhaskara18a.html
+Distributed Mean Estimation with Limited Communication	http://proceedings.mlr.press/v70/suresh17a.html
+Distributed and Provably Good Seedings for k-Means in Constant Rounds	http://proceedings.mlr.press/v70/bachem17b.html
+Distributional vectors encode referential attributes	https://doi.org/10.18653/v1/d15-1002
+Diversity driven attention model for query-based abstractive summarization	https://doi.org/10.18653/v1/P17-1098
+Do Multi-Sense Embeddings Improve Natural Language Understanding?	https://doi.org/10.18653/v1/d15-1200
+Do Neural Network Cross-Modal Mappings Really Bridge Modalities?	https://www.aclweb.org/anthology/P18-2074/
+Do You See What I Mean? Visual Resolution of Linguistic Ambiguities	http://arxiv.org/abs/1603.08079
+Do latent tree learning models identify meaningful structure in sentences?	https://transacl.org/ojs/index.php/tacl/article/view/1281
+Do we need bigram alignment models? On the effect of alignment quality on transduction accuracy in G2P	https://doi.org/10.18653/v1/d15-1139
+Document Context Neural Machine Translation with Memory Networks	https://www.aclweb.org/anthology/P18-1118/
+Document Embedding Enhanced Event Detection with Hierarchical and Supervised Attention	https://www.aclweb.org/anthology/P18-2066/
+Document Modeling with External Attention for Sentence Extraction	https://www.aclweb.org/anthology/P18-1188/
+Document Modeling with Gated Recurrent Neural Network for Sentiment Classification	https://doi.org/10.18653/v1/d15-1167
+Document-Level Multi-Aspect Sentiment Classification as Machine Comprehension	https://doi.org/10.18653/v1/d17-1217
+Does Distributionally Robust Supervised Learning Give Robust Classifiers?	http://proceedings.mlr.press/v80/hu18a.html
+Domain Adaptation with Adversarial Training and Graph Embeddings	https://www.aclweb.org/anthology/P18-1099/
+Domain Attention with an Ensemble of Experts	https://doi.org/10.18653/v1/P17-1060
+Doubly Accelerated Methods for Faster CCA  and Generalized Eigendecomposition	http://proceedings.mlr.press/v70/allen-zhu17b.html
+Doubly Greedy Primal-Dual Coordinate Descent for Sparse Empirical Risk Minimization	http://proceedings.mlr.press/v70/lei17b.html
+Dropout Inference in Bayesian Neural Networks with Alpha-divergences	http://proceedings.mlr.press/v70/li17a.html
+Drug Extraction from the Web: Summarizing Drug Experiences with Multi-Dimensional Topic Models	https://www.aclweb.org/anthology/N13-1017/
+Dual Decomposition Inference for Graphical Models over Strings	https://doi.org/10.18653/v1/d15-1108
+Dual Fixed-Size Ordinally Forgetting Encoding (FOFE) for Competitive Neural Language Models	https://www.aclweb.org/anthology/D18-1502/
+Dual Iterative Hard Thresholding: From Non-convex Sparse Minimization to Non-smooth Concave Maximization	http://proceedings.mlr.press/v70/liu17e.html
+Dual Supervised Learning	https://doi.org/10.1109/ACCESS.2017.2784406
+Dynamic Oracles for Top-Down and In-Order Shift-Reduce Constituent Parsing	https://doi.org/10.18653/v1/d18-1161
+Dynamic Regret of Strongly Adaptive Methods	http://proceedings.mlr.press/v80/zhang18o.html
+Dynamic Word Embeddings	https://doi.org/10.3390/s19071746
+Dynamical Isometry and a Mean Field Theory of CNNs: How to Train 10,000-Layer Vanilla Convolutional Neural Networks	http://proceedings.mlr.press/v80/xiao18a.html
+Dynamical Isometry and a Mean Field Theory of RNNs: Gating Enables Signal Propagation in Recurrent Neural Networks	http://proceedings.mlr.press/v80/chen18i.html
+ELDEN: Improved Entity Linking Using Densified Knowledge Graphs	https://doi.org/10.18653/v1/n18-1167
+EMNLP versus ACL: Analyzing NLP Research Over Time	https://doi.org/10.18653/v1/d15-1235
+EQUATION PARSING : Mapping Sentences to Grounded Equations	https://doi.org/10.18653/v1/d16-1117
+Easy-First Dependency Parsing with Hierarchical Tree LSTMs	https://transacl.org/ojs/index.php/tacl/article/view/798
+Effective Approaches to Attention-based Neural Machine Translation	https://doi.org/10.18653/v1/d15-1166
+Efficient Contextualized Representation: Language Model Pruning for Sequence Labeling	https://doi.org/10.18653/v1/d18-1153
+Efficient Distributed Learning with Sparsity	https://doi.org/10.1007/s10994-019-05847-6
+Efficient Gradient-Free Variational Inference using Policy Search	http://proceedings.mlr.press/v80/arenz18a.html
+Efficient Large-Scale Neural Domain Classification with Personalized Attention	https://www.aclweb.org/anthology/P18-1206/
+Efficient Low-rank Multimodal Fusion with Modality-Specific Factors	https://www.aclweb.org/anthology/P18-1209/
+Efficient Methods for Incorporating Knowledge into Topic Models	https://doi.org/10.18653/v1/d15-1037
+Efficient Nonmyopic Active Search	http://papers.nips.cc/paper/7387-efficient-nonmyopic-batch-active-search
+Efficient Orthogonal Parametrisation of Recurrent Neural Networks  Using Householder Reflections	http://proceedings.mlr.press/v70/mhammedi17a.html
+Efficient and Consistent Adversarial Bipartite Matching	http://proceedings.mlr.press/v80/fathony18a.html
+Efficient and Expressive Knowledge Base Completion Using Subgraph Feature Extraction	https://doi.org/10.18653/v1/d15-1173
+Efficient end-to-end learning for quantizable representations	http://proceedings.mlr.press/v80/jeong18a.html
+Efficient softmax approximation for GPUs	http://proceedings.mlr.press/v70/grave17a.html
+Embedding Multimodal Relational Data for Knowledge Base Completion	https://doi.org/10.18653/v1/d18-1359
+EmoNet: Fine-Grained Emotion Detection with Gated Recurrent Neural Networks	https://doi.org/10.18653/v1/P17-1067
+Empirical comparison of dependency conversions for RST discourse trees	https://doi.org/10.18653/v1/w16-3616
+Encoding Sentences with Graph Convolutional Networks for Semantic Role Labeling	https://doi.org/10.18653/v1/d17-1159
+Encoding Temporal Information for Time-Aware Link Prediction	https://doi.org/10.18653/v1/d16-1260
+End-to-End Differentiable Adversarial Imitation Learning	http://proceedings.mlr.press/v70/baram17a.html
+End-to-End Learning for Structured Prediction Energy Networks	http://proceedings.mlr.press/v70/belanger17a.html
+End-to-End Learning for the Deep Multivariate Probit Model	http://proceedings.mlr.press/v80/chen18o.html
+End-to-end Active Object Tracking via Reinforcement Learning	http://proceedings.mlr.press/v80/luo18a.html
+End-to-end Graph-based TAG Parsing with Neural Networks	https://doi.org/10.18653/v1/n18-1107
+End-to-end Neural Coreference Resolution	https://www.aclweb.org/anthology/D17-1018/
+Enhancing Drug-Drug Interaction Extraction from Texts by Molecular Structure Information	https://www.aclweb.org/anthology/P18-2108/
+Enriching Word Vectors with Subword Information	https://transacl.org/ojs/index.php/tacl/article/view/999
+Entity Commonsense Representation for Neural Abstractive Summarization	https://doi.org/10.18653/v1/n18-1064
+Entity Linking for Queries by Searching Wikipedia Sentences	https://doi.org/10.18653/v1/d17-1007
+Enumerating Distinct Decision Trees	http://proceedings.mlr.press/v70/ruggieri17a.html
+Equivalence of Multicategory SVM and Simplex Cone SVM:  Fast Computations and Statistical Theory	http://proceedings.mlr.press/v80/pouliot18a.html
+Equivariance Through Parameter-Sharing	http://proceedings.mlr.press/v70/ravanbakhsh17a.html
+Error Estimation for Randomized Least-Squares Algorithms via the Bootstrap	http://proceedings.mlr.press/v80/lopes18a.html
+Error-repair Dependency Parsing for Ungrammatical Texts	https://doi.org/10.18653/v1/P17-2030
+Essentially No Barriers in Neural Network Energy Landscape	http://proceedings.mlr.press/v80/draxler18a.html
+Estimating individual treatment effect: generalization bounds and algorithms	http://proceedings.mlr.press/v70/shalit17a.html
+Estimating the unseen from multiple populations	http://proceedings.mlr.press/v70/raghunathan17a.html
+Evaluating Bayesian Models with Posterior Dispersion Indices	http://proceedings.mlr.press/v70/kucukelbir17a.html
+Evaluating Compound Splitters Extrinsically with Textual Entailment	https://doi.org/10.18653/v1/P17-2010
+Evaluating Natural Language Understanding Services for Conversational Question Answering Systems	https://doi.org/10.18653/v1/w17-5522
+Evaluating Spoken Dialogue Processing for Time-Offset Interaction	https://doi.org/10.18653/v1/w15-4629
+Evaluating Theory of Mind in Question Answering	https://doi.org/10.18653/v1/d18-1261
+Evaluating Visual Representations for Topic Understanding and Their Effects on Manually Generated Topic Labels	https://transacl.org/ojs/index.php/tacl/article/view/887
+Evaluating the Stability of Embedding-based Word Similarities	https://transacl.org/ojs/index.php/tacl/article/view/1202
+Evaluating the Utility of Hand-crafted Features in Sequence Labelling	http://arxiv.org/abs/1808.09075
+Evaluating the Variance of Likelihood-Ratio Gradient Estimators	http://proceedings.mlr.press/v70/tokui17a.html
+Evaluation Metrics for Machine Reading Comprehension: Prerequisite Skills and Readability	https://doi.org/10.18653/v1/P17-1075
+Evaluation methods for unsupervised word embeddings	https://doi.org/10.18653/v1/d15-1036
+Evaluation of Word Vector Representations by Subspace Alignment	https://doi.org/10.18653/v1/d15-1243
+ExB Text Summarizer	https://doi.org/10.18653/v1/w15-4637
+Exact Inference for Integer Latent-Variable Models	http://proceedings.mlr.press/v70/winner17a.html
+Exact MAP Inference by Avoiding Fractional Vertices	http://proceedings.mlr.press/v70/lindgren17a.html
+Examining Temporality in Document Classification	https://www.aclweb.org/anthology/P18-2110/
+Exemplar Encoder-Decoder for Neural Conversation Generation	https://www.aclweb.org/anthology/P18-1123/
+Experiments with crowdsourced re-annotation of a POS tagging data set	https://doi.org/10.3115/v1/p14-2062
+Explaining Character-Aware Neural Networks for Word-Level Prediction: Do They Discover Linguistic Rules?	https://doi.org/10.18653/v1/d18-1365
+Explicit Inductive Bias for Transfer Learning with Convolutional Networks	http://proceedings.mlr.press/v80/li18a.html
+Exploiting Cross-Sentence Context for Neural Machine Translation	https://doi.org/10.18653/v1/d17-1301
+Exploiting Deep Representations for Neural Machine Translation	https://doi.org/10.18653/v1/d18-1457
+Exploiting Domain Knowledge via Grouped Weight Sharing with Application to Text Categorization	https://doi.org/10.18653/v1/P17-2024
+Exploiting Rich Syntactic Information for Semantic Parsing with Graph-to-Sequence Model	https://doi.org/10.18653/v1/d18-1110
+Exploiting Sentence Similarities for Better Alignments	https://doi.org/10.18653/v1/d16-1237
+Exploiting Strong Convexity from Data with Primal-Dual First-Order Algorithms	http://proceedings.mlr.press/v70/wang17l.html
+Exploiting the Scope of Negations and Heterogeneous Features for Relation Extraction: A Case Study for Drug-Drug Interaction Extraction	https://www.aclweb.org/anthology/N13-1093/
+Exploring Neural Text Simplification Models	https://doi.org/10.18653/v1/P17-2014
+Exploring Optimism and Pessimism in Twitter Using Deep Learning	https://doi.org/10.18653/v1/d18-1067
+Exploring Recombination for Efficient Decoding of Neural Machine Translation	https://www.aclweb.org/anthology/D18-1511/
+Exploring Semantic Properties of Sentence Embeddings	https://www.aclweb.org/anthology/P18-2100/
+Exploring the Role of Prior Beliefs for Argument Persuasion	http://arxiv.org/abs/1906.11301
+Extending a Parser to Distant Domains Using a Few Dozen Partially Annotated Examples	https://www.aclweb.org/anthology/P18-1110/
+Extracting Commonsense Properties from Embeddings with Limited Human Guidance	https://www.aclweb.org/anthology/P18-2102/
+Extracting Condition-Opinion Relations Toward Fine-grained Opinion Mining	https://doi.org/10.18653/v1/d15-1074
+Extractive Summarization with SWAP-NET: Sentences and Words from Alternating Pointer Networks	https://www.aclweb.org/anthology/P18-1014/
+Extreme Learning to Rank via Low Rank Assumption	http://proceedings.mlr.press/v80/cheng18a.html
+FINET: Context-Aware Fine-Grained Named Entity Typing	https://doi.org/10.18653/v1/d15-1103
+FOIL it! Find One mismatch between Image and Language caption	https://doi.org/10.18653/v1/P17-1024
+Failures of Gradient-Based Deep Learning	http://proceedings.mlr.press/v70/shalev-shwartz17a.html
+Fair and Diverse DPP-Based Data Summarization	http://proceedings.mlr.press/v80/celis18a.html
+Fairness Without Demographics in Repeated Loss Minimization	http://proceedings.mlr.press/v80/hashimoto18a.html
+Fake News Mitigation via Point Process Based Intervention	http://proceedings.mlr.press/v70/farajtabar17a.html
+Fast Approximate Spectral Clustering for Dynamic Networks	http://proceedings.mlr.press/v80/martin18a.html
+Fast Bayesian Intensity Estimation for the Permanental Process	http://proceedings.mlr.press/v70/walder17a.html
+Fast Information-theoretic Bayesian Optimisation	http://proceedings.mlr.press/v80/ru18a.html
+Fast Maximization of Non-Submodular, Monotonic Functions on the Integer Lattice	http://proceedings.mlr.press/v80/kuhnle18a.html
+Fast and Sample Efficient Inductive Matrix Completion via Multi-Phase Procrustes Flow	http://proceedings.mlr.press/v80/zhang18b.html
+Fast and Scalable Bayesian Deep Learning by Weight-Perturbation in Adam	http://proceedings.mlr.press/v80/khan18a.html
+Fast and Scalable Expansion of Natural Language Understanding Functionality for Intelligent Agents	https://doi.org/10.18653/v1/n18-3018
+Fast k-Nearest Neighbour Search via Prioritized DCI	http://proceedings.mlr.press/v70/li17d.html
+Fast(er) Exact Decoding and Global Training for Transition-Based Dependency Parsing via a Minimal Feature Set	https://doi.org/10.18653/v1/d17-1002
+Fast, Small and Exact: Infinite-order Language Modelling with Compressed Suffix Trees	https://transacl.org/ojs/index.php/tacl/article/view/865
+Faster Greedy MAP Inference for Determinantal Point Processes	http://proceedings.mlr.press/v70/han17a.html
+Faster Principal Component Regression  and Stable Matrix Chebyshev Approximation	http://proceedings.mlr.press/v70/allen-zhu17c.html
+FeUdal Networks for Hierarchical Reinforcement Learning	http://proceedings.mlr.press/v70/vezhnevets17a.html
+Feasible Arm Identification	http://proceedings.mlr.press/v89/katz-samuels19a.html
+Few-Shot and Zero-Shot Multi-Label Learning for Structured Label Spaces	https://doi.org/10.18653/v1/d18-1352
+FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation	https://doi.org/10.18653/v1/d18-1514
+Filling Missing Paths: Modeling Co-occurrences of Word Pairs and Dependency Paths for Recognizing Lexical Semantic Relations	https://doi.org/10.18653/v1/n18-1102
+Filling the Blanks (hint: plural noun) for Mad Libs Humor	https://doi.org/10.18653/v1/d17-1067
+Finding Convincing Arguments Using Scalable Bayesian Preference Learning	https://transacl.org/ojs/index.php/tacl/article/view/1304
+Finding Influential Training Samples for Gradient Boosted Decision Trees	http://proceedings.mlr.press/v80/sharchilev18a.html
+Finding Syntax in Human Encephalography with Beam Search	https://www.aclweb.org/anthology/P18-1254/
+Fine-Grained Citation Span Detection for References in Wikipedia	https://www.aclweb.org/anthology/D17-1212/
+Fine-Grained Discourse Structures in Continuation Semantics	https://doi.org/10.18653/v1/w18-5034
+Fine-Grained Prediction of Syntactic Typology: Discovering Latent Structure with Supervised Learning	https://transacl.org/ojs/index.php/tacl/article/view/1060
+Fine-grained Coordinated Cross-lingual Text Stream Alignment for Endless Language Knowledge Acquisition	https://doi.org/10.18653/v1/d18-1271
+Fine-grained Opinion Mining with Recurrent Neural Networks and Word Embeddings	https://doi.org/10.18653/v1/d15-1168
+Firing Bandits: Optimizing Crowdfunding	http://proceedings.mlr.press/v80/jain18a.html
+Fitting New Speakers Based on a Short Untranscribed Sample	http://proceedings.mlr.press/v80/nachmani18a.html
+Fluency Boost Learning and Inference for Neural Grammatical Error Correction	https://www.aclweb.org/anthology/P18-1097/
+Follow the Moving Leader in Deep Learning	http://proceedings.mlr.press/v70/zheng17a.html
+Forest-Based Neural Machine Translation	https://www.aclweb.org/anthology/P18-1116/
+Forest-type Regression with General Losses  and Robust Forest	http://proceedings.mlr.press/v70/li17e.html
+Fortification of Neural Morphological Segmentation Models for Polysynthetic Minimal-Resource Languages	https://doi.org/10.18653/v1/n18-1005
+Forward and Reverse Gradient-Based Hyperparameter Optimization	http://proceedings.mlr.press/v70/franceschi17a.html
+Frames: A Corpus for Adding Memory to Goal-Oriented Dialogue Systems	https://doi.org/10.18653/v1/w17-5526
+Friendships, Rivalries, and Trysts: Characterizing Relations between Ideas in Texts	https://doi.org/10.18653/v1/P17-1072
+From Language to Programs: Bridging Reinforcement Learning and Maximum Marginal Likelihood	https://doi.org/10.18653/v1/P17-1097
+From Paraphrase Database to Compositional Paraphrase Model and Back	https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/571
+From Patches to Images: A Nonparametric Generative Model	http://proceedings.mlr.press/v70/ji17a.html
+Fully Character-Level Neural Machine Translation without Explicit Segmentation	https://transacl.org/ojs/index.php/tacl/article/view/1051
+Functional Gradient Boosting based on Residual Network Perception	http://proceedings.mlr.press/v80/nitanda18a.html
+GSOS: Gauss-Seidel Operator Splitting Algorithm for  Multi-Term Nonsmooth Convex Composite Optimization	http://proceedings.mlr.press/v70/shen17b.html
+Game-Based Video-Context Dialogue	https://doi.org/10.18653/v1/d18-1012
+Gaussian Mixture Latent Vector Grammars	https://www.aclweb.org/anthology/P18-1109/
+Generalized Agreement for Bidirectional Word Alignment	https://doi.org/10.18653/v1/d15-1210
+Generalized Earley Parser: Bridging Symbolic Grammars and Sequence Data for Future Prediction	http://proceedings.mlr.press/v80/qi18a.html
+Generalized Robust Bayesian Committee Machine for Large-scale Gaussian Process Regression	http://proceedings.mlr.press/v80/liu18a.html
+Generalizing Word Embeddings using Bag of Subwords	https://doi.org/10.18653/v1/d18-1059
+Generalizing and Hybridizing Count-based and Neural Language Models	https://doi.org/10.18653/v1/d16-1124
+Generating Contrastive Referring Expressions	https://doi.org/10.18653/v1/P17-1063
+Generating Fine-Grained Open Vocabulary Entity Type Descriptions	https://www.aclweb.org/anthology/P18-1081/
+Generating Sentence Planning Variations for Story Telling	http://arxiv.org/abs/1708.08580
+Generating Sentences by Editing Prototypes	https://transacl.org/ojs/index.php/tacl/article/view/1296
+Generating Syntactic Paraphrases	https://doi.org/10.18653/v1/d18-1113
+Generating Topical Poetry	https://doi.org/10.18653/v1/d16-1126
+Generating and Exploiting Large-scale Pseudo Training Data for Zero Pronoun Resolution	https://doi.org/10.18653/v1/P17-1010
+Geodesic Convolutional Shape Optimization	http://proceedings.mlr.press/v80/baque18a.html
+Geometry of Neural Network Loss Surfaces via Random Matrix Theory	http://proceedings.mlr.press/v70/pennington17a.html
+Get To The Point: Summarization with Pointer-Generator Networks	https://doi.org/10.18653/v1/P17-1099
+Global Neural CCG Parsing with Optimality Guarantees	https://doi.org/10.18653/v1/d16-1262
+Global optimization of Lipschitz functions	https://doi.org/10.1007/s10898-015-0283-6
+Globally Coherent Text Generation with Neural Checklist Models	https://doi.org/10.18653/v1/d16-1032
+Globally Induced Forest: A Prepruning Compression Scheme	http://proceedings.mlr.press/v70/begon17a.html
+Globally Normalized Reader	https://doi.org/10.18653/v1/d17-1111
+Globally Optimal Gradient Descent for a ConvNet with Gaussian Inputs	http://proceedings.mlr.press/v70/brutzkus17a.html
+Going out on a limb: Joint Extraction of Entity Mentions and Relations without Dependency Trees	https://doi.org/10.18653/v1/P17-1085
+Goodness-of-Fit Testing for Discrete Distributions via Stein Discrepancy	http://proceedings.mlr.press/v80/yang18c.html
+GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks	http://proceedings.mlr.press/v80/chen18a.html
+Gradient Boosted Decision Trees for High Dimensional Sparse Output	http://proceedings.mlr.press/v70/si17a.html
+Gradient Coding: Avoiding Stragglers in Distributed Learning	http://proceedings.mlr.press/v70/tandon17a.html
+Gradient Descent for Sparse Rank-One Matrix Completion for Crowd-Sourced Aggregation of Sparsely Interacting Workers	http://arxiv.org/abs/1904.11608
+Gradient descent with identity initialization  efficiently learns positive definite linear transformations  by deep residual networks	https://doi.org/10.1162/neco_a_01164
+Gradually Updated Neural Networks for Large-Scale Image Recognition	http://proceedings.mlr.press/v80/qiao18b.html
+Gram-CTC: Automatic Unit Selection and Target Decomposition for Sequence Labelling	http://proceedings.mlr.press/v70/liu17f.html
+Grammar Variational Autoencoder	http://proceedings.mlr.press/v70/kusner17a.html
+Graph Convolutional Encoders for Syntax-aware Neural Machine Translation	https://doi.org/10.18653/v1/d17-1209
+Graph-Based Seed Set Expansion for Relation Extraction Using Random Walk Hitting Times	https://www.aclweb.org/anthology/N13-1094/
+Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection	https://doi.org/10.18653/v1/d17-1162
+Greedy Search with Probabilistic N-gram Matching for Neural Machine Translation	https://www.aclweb.org/anthology/D18-1510/
+Gromov-Wasserstein Alignment of Word Embedding Spaces	https://doi.org/10.18653/v1/d18-1214
+Guarantees for Greedy Maximization of Non-submodular Functions with Applications	http://proceedings.mlr.press/v70/bian17a.html
+Guess Me if You Can: Acronym Disambiguation for Enterprises	https://www.aclweb.org/anthology/P18-1121/
+HOTPOTQA: A Dataset for Diverse, Explainable Multi-hop Question Answering	https://doi.org/10.18653/v1/d18-1259
+HUME: Human UCCA-Based Evaluation of Machine Translation	https://doi.org/10.18653/v1/d16-1134
+Handling Cold-Start Problem in Review Spam Detection by Jointly Embedding Texts and Behaviors	https://doi.org/10.18653/v1/P17-1034
+Harvesting Paragraph-Level Question-Answer Pairs from Wikipedia	https://www.aclweb.org/anthology/P18-1177/
+Has Machine Translation Achieved Human Parity? A Case for Document-level Evaluation	https://www.aclweb.org/anthology/D18-1512/
+Head-Lexicalized Bidirectional Tree LSTMs	https://transacl.org/ojs/index.php/tacl/article/view/925
+Hearst Patterns Revisited: Automatic Hypernym Detection from Large Text Corpora	https://www.aclweb.org/anthology/P18-2057/
+Heterogeneous Supervision for Relation Extraction: A Representation Learning Approach	https://doi.org/10.18653/v1/d17-1005
+Heuristically Informed Unsupervised Idiom Usage Recognition	https://doi.org/10.18653/v1/d18-1199
+Hierarchical Clustering with Structural Constraints	http://proceedings.mlr.press/v80/chatziafratis18a.html
+Hierarchical Deep Generative Models for Multi-Rate Multivariate Time Series	http://proceedings.mlr.press/v80/che18a.html
+Hierarchical Losses and New Resources for Fine-grained Entity Typing and Linking	https://www.aclweb.org/anthology/P18-1010/
+Hierarchical Neural Networks for Sequential Sentence Classification in Medical Scientific Abstracts	https://doi.org/10.18653/v1/d18-1349
+Hierarchical Neural Story Generation	https://www.aclweb.org/anthology/P18-1082/
+Hierarchical Quantized Representations for Script Generation	https://doi.org/10.18653/v1/d18-1413
+Hierarchical Recurrent Neural Network for Document Modeling	https://doi.org/10.18653/v1/d15-1106
+Hierarchical Structured Model for Fine-to-coarse Manifesto Text Analysis	https://doi.org/10.18653/v1/n18-1178
+High Dimensional Bayesian Optimization with Elastic Gaussian Process	http://proceedings.mlr.press/v70/rana17a.html
+High-Dimensional Structured Quantile Regression	http://proceedings.mlr.press/v70/sivakumar17a.html
+High-Dimensional Variance-Reduced Stochastic Gradient Expectation-Maximization Algorithm	http://proceedings.mlr.press/v70/zhu17a.html
+High-Order Low-Rank Tensors for Semantic Role Labeling	https://doi.org/10.3115/v1/n15-1121
+High-Quality Prediction Intervals for Deep Learning:  A Distribution-Free, Ensembled Approach	http://proceedings.mlr.press/v80/pearce18a.html
+High-dimensional Non-Gaussian Single Index Models via Thresholded Score Function Estimation	http://proceedings.mlr.press/v70/yang17a.html
+Higher-order Coreference Resolution with Coarse-to-fine Inference	https://doi.org/10.18653/v1/n18-2108
+Higher-order logical inference with compositional semantics	https://doi.org/10.18653/v1/d15-1244
+How Close Are the Eigenvectors of the Sample and Actual Covariance Matrices?	http://proceedings.mlr.press/v70/loukas17a.html
+How Much Information Does a Human Translator Add to the Original?	https://doi.org/10.18653/v1/d15-1105
+How Much Reading Does Reading Comprehension Require? A Critical Investigation of Popular Benchmarks	https://www.aclweb.org/anthology/D18-1546/
+How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation	https://doi.org/10.18653/v1/d16-1230
+How to Escape Saddle Points Efficiently	http://proceedings.mlr.press/v70/jin17a.html
+How to Memorize a Random 60-Bit String	https://doi.org/10.3115/v1/n15-1180
+Human Centered NLP with User-Factor Adaptation	https://doi.org/10.18653/v1/d17-1119
+Human Needs Categorization of Affective Events Using Labeled and Unlabeled Data	https://doi.org/10.18653/v1/n18-1174
+Human-Machine Dialogue as a Stochastic Game	https://doi.org/10.18653/v1/w15-4602
+Human-in-the-Loop Parsing	https://doi.org/10.18653/v1/d16-1258
+Humor Recognition and Humor Anchor Extraction	https://doi.org/10.18653/v1/d15-1284
+Hybrid Code Networks: practical and efficient end-to-end dialog control with supervised and reinforcement learning	https://doi.org/10.18653/v1/P17-1062
+Hybrid Neural Network Alignment and Lexicon Model in Direct HMM for Statistical Machine Translation	https://doi.org/10.18653/v1/P17-2020
+Hyperplane Clustering via Dual Principal Component Pursuit	http://proceedings.mlr.press/v70/tsakiris17a.html
+INSPECTRE: Privately Estimating the Unseen	http://proceedings.mlr.press/v80/acharya18a.html
+Identification and Model Testing in Linear Structural Equation Models using Auxiliary Variables	http://proceedings.mlr.press/v70/chen17f.html
+Identifying Best Interventions through Online Importance Sampling	http://proceedings.mlr.press/v70/sen17a.html
+Identifying Domain Independent Update Intents in Task Based Dialogs	https://doi.org/10.18653/v1/w18-5049
+Identifying Political Sentiment between Nation States with Social Media	https://doi.org/10.18653/v1/d15-1007
+Identifying Semantic Divergences in Parallel Text without Annotations	https://doi.org/10.18653/v1/n18-1136
+Identifying Semantic Edit Intentions from Revisions in Wikipedia	https://doi.org/10.18653/v1/d17-1213
+Identifying Transferable Information Across Domains for Cross-domain Sentiment Classification	https://www.aclweb.org/anthology/P18-1089/
+Identifying civilians killed by police with distantly supervised entity-event extraction	https://doi.org/10.18653/v1/d17-1163
+Image Pivoting for Learning Multilingual Multimodal Representations	https://doi.org/10.18653/v1/d17-1303
+Image-to-Markup Generation with Coarse-to-Fine Attention	http://proceedings.mlr.press/v70/deng17a.html
+Imitation Learning for Neural Morphological String Transduction	https://doi.org/10.18653/v1/d18-1314
+Implicational Universals in Stochastic Constraint-Based Phonology	https://doi.org/10.18653/v1/d18-1364
+Implicit Regularization in Nonconvex Statistical Estimation: Gradient Descent Converges Linearly for Phase Retrieval and Matrix Completion	http://proceedings.mlr.press/v80/ma18c.html
+Implicitly-Defined Neural Networks for Sequence Labeling	https://doi.org/10.18653/v1/P17-2027
+Importance sampling for unbiased on-demand evaluation of knowledge base population	https://doi.org/10.18653/v1/d17-1109
+Improved Dependency Parsing using Implicit Word Connections Learned from Unlabeled Data	https://doi.org/10.18653/v1/d18-1311
+Improved Large-Scale Graph Learning through Ridge Spectral Sparsification	http://proceedings.mlr.press/v80/calandriello18a.html
+Improved Neural Relation Detection for Knowledge Base Question Answering	https://doi.org/10.18653/v1/P17-1053
+Improved Relation Extraction with Feature-Rich Compositional Embedding Models	https://doi.org/10.18653/v1/d15-1205
+Improved Semantic-Aware Network Embedding with Fine-Grained Word Alignment	https://doi.org/10.18653/v1/d18-1209
+Improved Transition-Based Parsing by Modeling Characters instead of Words with LSTMs	https://doi.org/10.18653/v1/d15-1041
+Improved Variational Autoencoders for Text Modeling using Dilated Convolutions	http://proceedings.mlr.press/v70/yang17d.html
+Improved nearest neighbor search using auxiliary information and priority functions	http://proceedings.mlr.press/v80/keivani18a.html
+Improving Abstraction in Text Summarization	https://doi.org/10.18653/v1/d18-1207
+Improving Character-based Decoding Using Target-Side Morphological Information for Neural Machine Translation	https://doi.org/10.18653/v1/n18-1006
+Improving Gibbs Sampler Scan Quality with DoGS	http://proceedings.mlr.press/v70/mitliagkas17a.html
+Improving Information Extraction by Acquiring External Evidence with Reinforcement Learning	https://doi.org/10.18653/v1/d16-1261
+Improving Knowledge Graph Embedding Using Simple Constraints	https://www.aclweb.org/anthology/P18-1011/
+Improving Lexical Choice in Neural Machine Translation	https://doi.org/10.18653/v1/n18-1031
+Improving Multi-Modal Representations Using Image Dispersion: Why Less is Sometimes More	https://doi.org/10.3115/v1/p14-2135
+Improving Multilingual Named Entity Recognition with Wikipedia Entity Type Mapping	http://arxiv.org/abs/1707.02459
+Improving Neural Abstractive Document Summarization with Explicit Information Selection Modeling	https://doi.org/10.18653/v1/d18-1205
+Improving Neural Parsing by Disentangling Model Combination and Reranking Effects	https://doi.org/10.18653/v1/P17-2025
+Improving Regression Performance with Distributional Losses	http://proceedings.mlr.press/v80/imani18a.html
+Improving Semantic Parsing with Enriched Synchronous Context-Free Grammar	https://doi.org/10.1145/2963099
+Improving Sign Random Projections With Additional Information	http://proceedings.mlr.press/v80/kang18b.html
+Improving Slot Filling in Spoken Language Understanding with Joint Pointer and Attention	https://www.aclweb.org/anthology/P18-2068/
+Improving Statistical Machine Translation with a Multilingual Paraphrase Database	https://doi.org/10.18653/v1/d15-1163
+Improving Stochastic Policy Gradients in Continuous Control with Deep Reinforcement Learning using the Beta Distribution	http://proceedings.mlr.press/v70/chou17a.html
+Improving Topic Models with Latent Feature Word Representations	http://arxiv.org/abs/1810.06306
+Improving Unsupervised Word-by-Word Translation with Language Model and Denoising Autoencoder	https://doi.org/10.18653/v1/d18-1101
+Improving Viterbi is Hard: Better Runtimes Imply Faster Clique Algorithms	http://proceedings.mlr.press/v70/backurs17a.html
+Improving a Neural Semantic Parser by Counterfactual Learning from Human Bandit Feedback	https://www.aclweb.org/anthology/P18-1169/
+Improving the Gaussian Mechanism for Differential Privacy: Analytical Calibration and Optimal Denoising	http://proceedings.mlr.press/v80/balle18a.html
+Improving the Privacy and Accuracy of ADMM-Based Distributed Algorithms	http://proceedings.mlr.press/v80/zhang18f.html
+Incorporating Dialectal Variability for Socially Equitable Language Identification	https://doi.org/10.18653/v1/P17-2009
+Incorporating Latent Meanings of Morphological Compositions to Enhance Word Embeddings	https://www.aclweb.org/anthology/P18-1114/
+Incorporating Uncertainty into Deep Learning for Spoken Language Assessment	https://doi.org/10.18653/v1/P17-2008
+Inducing Temporal Relations from Time Anchor Annotation	https://doi.org/10.18653/v1/n18-1166
+Inductive Two-layer Modeling with Parametric Bregman Transfer	http://proceedings.mlr.press/v80/ganapathiraman18a.html
+Inference Suboptimality in Variational Autoencoders	http://proceedings.mlr.press/v80/cremer18a.html
+Information-Theory Interpretation of the Skip-Gram Negative-Sampling Objective Function	https://doi.org/10.18653/v1/P17-2026
+Innovation Pursuit: A New Approach to the Subspace Clustering Problem	http://proceedings.mlr.press/v70/rahmani17b.html
+Input Convex Neural Networks	http://arxiv.org/abs/1908.10962
+Input Switched Affine Networks: An RNN Architecture Designed for Interpretability	http://proceedings.mlr.press/v70/foerster17a.html
+Insertion Position Selection Model for Flexible Non-Terminals in Dependency Tree-to-Tree Machine Translation	https://doi.org/10.18653/v1/d16-1247
+Integrating Order Information and Event Relation for Script Event Prediction	https://doi.org/10.18653/v1/d17-1006
+Integrating Transformer and Paraphrase Rules for Sentence Simplification	https://doi.org/10.18653/v1/d18-1355
+Inter and Intra Topic Structure Learning with Word Embeddings	http://proceedings.mlr.press/v80/zhao18a.html
+Interactive Learning from Policy-Dependent Human Feedback	http://proceedings.mlr.press/v70/macglashan17a.html
+Interpretable Charge Predictions for Criminal Cases: Learning to Generate Court Views from Fact Descriptions	https://doi.org/10.18653/v1/n18-1168
+Interpretable Emoji Prediction via Label-Wise Attention LSTMs	https://www.aclweb.org/anthology/D18-1508/
+Interpretable and Compositional Relation Learning by Joint Training with an Autoencoder	https://www.aclweb.org/anthology/P18-1200/
+Intra-Sentential Subject Zero Anaphora Resolution using Multi-Column Convolutional Neural Network	https://doi.org/10.18653/v1/d16-1132
+Invariance of Weight Distributions in Rectified MLPs	http://proceedings.mlr.press/v80/tsuchida18a.html
+Investigating Capsule Networks with Dynamic Routing for Text Classification	https://doi.org/10.18653/v1/d18-1350
+Is this a wampimuk? Cross-modal mapping between distributional semantics and the visual world	https://doi.org/10.3115/v1/p14-1132
+Iterative Amortized Inference	http://proceedings.mlr.press/v80/marino18a.html
+Iterative Machine Teaching	http://proceedings.mlr.press/v80/liu18b.html
+Joint Concept Learning and Semantic Parsing from Natural Language Explanations	https://doi.org/10.18653/v1/d17-1161
+Joint Dimensionality Reduction and Metric Learning: A Geometric Take	http://proceedings.mlr.press/v70/harandi17a.html
+Joint Event Trigger Identification and Event Coreference Resolution with Structured Perceptron	https://doi.org/10.18653/v1/d15-1247
+Joint Extraction of Entities and Relations Based on a Novel Tagging Scheme	https://doi.org/10.18653/v1/P17-1113
+Joint Learning for Emotion Classification and Emotion Cause Detection	https://doi.org/10.18653/v1/d18-1066
+Joint Learning for Event Coreference Resolution	https://doi.org/10.18653/v1/P17-1009
+Joint Learning for Targeted Sentiment Analysis	https://doi.org/10.18653/v1/d18-1504
+Joint Mention Extraction and Classification with Mention Hypergraphs	https://doi.org/10.18653/v1/d15-1102
+Joint Modeling of Content and Discourse Relations in Dialogues	https://doi.org/10.18653/v1/P17-1090
+Joint Modeling of Topics, Citations, and Topical Authority in Academic Corpora	https://transacl.org/ojs/index.php/tacl/article/view/1061
+Joint Multilingual Supervision for Cross-lingual Entity Linking	https://doi.org/10.18653/v1/d18-1270
+Joint Multitask Learning for Community Question Answering Using Task-Specific Embeddings	https://doi.org/10.18653/v1/d18-1452
+Joint Named Entity Recognition and Disambiguation	https://doi.org/10.1109/BIGCOMP.2019.8679233
+Joint Reasoning for Temporal and Causal Relations	https://www.aclweb.org/anthology/P18-1212/
+Joint Semantic Synthesis and Morphological Analysis of the Derived Word	https://transacl.org/ojs/index.php/tacl/article/view/923
+Joint prediction in MST-style discourse parsing for argumentation mining	https://doi.org/10.18653/v1/d15-1110
+JointGAN: Multi-Domain Joint Distribution Learning with  Generative Adversarial Nets	http://proceedings.mlr.press/v80/pu18a.html
+Jointly Multiple Events Extraction via Attention-based Graph Information Aggregation	https://doi.org/10.18653/v1/d18-1156
+Jointly Predicting Predicates and Arguments in Neural Semantic Role Labeling	https://www.aclweb.org/anthology/P18-2058/
+Judicious Selection of Training Data in Assisting Language for Multilingual Neural NER	https://www.aclweb.org/anthology/P18-2064/
+Junction Tree Variational Autoencoder for Molecular Graph Generation	http://proceedings.mlr.press/v80/jin18a.html
+Just Sort It! A Simple and Effective Approach to Active Preference Learning	http://proceedings.mlr.press/v70/maystre17a.html
+K-means clustering using random matrix sparsification	http://proceedings.mlr.press/v80/sinha18a.html
+KBGAN: Adversarial Learning for Knowledge Graph Embeddings	https://doi.org/10.18653/v1/n18-1133
+Kernel Recursive ABC: Point Estimation with Intractable Likelihood	http://proceedings.mlr.press/v80/kajihara18a.html
+Kernelized Support Tensor Machines	http://arxiv.org/abs/2001.00360
+Key-Value Memory Networks for Directly Reading Documents	https://doi.org/10.18653/v1/d16-1147
+Key-Value Retrieval Networks for Task-Oriented Dialogue	https://doi.org/10.18653/v1/w17-5506
+Know-Evolve: Deep Temporal Reasoning for Dynamic Knowledge Graphs	http://proceedings.mlr.press/v70/trivedi17a.html
+Knowledge Base Inference using Bridging Entities	https://doi.org/10.18653/v1/d15-1241
+Knowledge Completion for Generics using Guided Tensor Factorization	https://transacl.org/ojs/index.php/tacl/article/view/1209
+Knowledge Graph Embedding with Hierarchical Relation Structure	https://doi.org/10.18653/v1/d18-1358
+Knowledge transfer between speakers for personalised dialogue management	https://doi.org/10.18653/v1/w15-4603
+Knowledge-Rich Morphological Priors for Bayesian Language Models	https://www.aclweb.org/anthology/N13-1140/
+Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge	https://www.aclweb.org/anthology/P18-1076/
+LEAPSANDBOUNDS: A Method for Approximately Optimal Algorithm Configuration	http://proceedings.mlr.press/v80/weisz18a.html
+LSTMs Can Learn Syntax-Sensitive Dependencies Well, But Modeling Structure Makes Them Better	https://www.aclweb.org/anthology/P18-1132/
+Label-aware Double Transfer Learning for Cross-Specialty Medical Named Entity Recognition	https://doi.org/10.18653/v1/n18-1001
+Language Generation via DAG Transduction	https://www.aclweb.org/anthology/P18-1179/
+Language Modeling with Gated Convolutional Networks	http://proceedings.mlr.press/v70/dauphin17a.html
+Language Understanding for Text-based Games using Deep Reinforcement Learning	https://doi.org/10.18653/v1/d15-1001
+Language as a Latent Variable: Discrete Generative Models for Sentence Compression	https://doi.org/10.18653/v1/d16-1031
+Language-Aware Truth Assessment of Fact Candidates	https://doi.org/10.3115/v1/p14-1095
+Language-Guided Adaptive Perception for Efficient Grounded Communication with Robotic Manipulators in Cluttered Environments	https://doi.org/10.18653/v1/w18-5016
+Large Margin Neural Language Model	https://doi.org/10.18653/v1/d18-1150
+Large-Scale Evolution of Image Classifiers	http://proceedings.mlr.press/v70/real17a.html
+Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing	https://www.aclweb.org/anthology/P18-2069/
+Large-Scale QA-SRL Parsing	https://www.aclweb.org/anthology/P18-1191/
+Large-Scale Sparse Inverse Covariance Estimation via Thresholding and Max-Det Matrix Completion	http://proceedings.mlr.press/v80/zhang18c.html
+Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health	https://transacl.org/ojs/index.php/tacl/article/view/802
+Large-scale Cloze Test Dataset Created by Teachers	https://doi.org/10.18653/v1/d18-1257
+Large-scale Semantic Parsing without Question-Answer Pairs	https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/398
+Latent Intention Dialogue Models	http://proceedings.mlr.press/v70/wen17a.html
+Latent LSTM Allocation  Joint Clustering and Non-Linear Dynamic Modeling of Sequential Data	http://proceedings.mlr.press/v70/zaheer17a/zaheer17a.pdf
+Latent Structures for Coreference Resolution	https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/604
+Lazifying Conditional Gradient Algorithms	http://jmlr.org/papers/v20/18-114.html
+Learning Binary Latent Variable Models: A Tensor Eigenpair Approach	http://proceedings.mlr.press/v80/jaffe18a.html
+Learning Cognitive Features from Gaze Data for Sentiment and Sarcasm Classification using Convolutional Neural Network	https://doi.org/10.18653/v1/P17-1035
+Learning Context-Aware Convolutional Filters for Text Processing	https://doi.org/10.18653/v1/d18-1210
+Learning Continuous Semantic Representations of Symbolic Expressions	http://proceedings.mlr.press/v70/allamanis17a.html
+Learning Cross-lingual Distributed Logical Representations for Semantic Parsing	https://www.aclweb.org/anthology/P18-2107/
+Learning Crosslingual Word Embeddings without Bilingual Corpora	https://doi.org/10.18653/v1/d16-1136
+Learning Deep Architectures via Generalized Whitened Neural Networks	http://proceedings.mlr.press/v70/luo17a.html
+Learning Deep ResNet Blocks Sequentially using Boosting Theory	http://proceedings.mlr.press/v80/huang18b.html
+Learning Determinantal Point Processes with Moments and Cycles	http://proceedings.mlr.press/v70/urschel17a.html
+Learning Diffusion using Hyperparameters	http://proceedings.mlr.press/v80/kalimeris18a.html
+Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders	https://doi.org/10.18653/v1/P17-1061
+Learning Discrete Representations via Information Maximizing Self-Augmented Training	http://proceedings.mlr.press/v70/hu17b.html
+Learning Dynamics of Linear Denoising Autoencoders	http://proceedings.mlr.press/v80/pretorius18a.html
+Learning Generic Sentence Representations Using Convolutional Neural Networks	https://doi.org/10.18653/v1/d17-1254
+Learning Hawkes Processes from Short Doubly-Censored Event Sequences	http://proceedings.mlr.press/v70/xu17b.html
+Learning How to Actively Learn: A Deep Imitation Learning Approach	https://www.aclweb.org/anthology/P18-1174/
+Learning Important Features Through Propagating Activation Differences	http://proceedings.mlr.press/v70/shrikumar17a.html
+Learning Infinite Layer Networks Without the Kernel Trick	http://proceedings.mlr.press/v70/livni17a.html
+Learning Joint Semantic Parsers from Disjoint Data	https://doi.org/10.18653/v1/n18-1135
+Learning Latent Semantic Annotations for Grounding Natural Language to Structured Data	https://doi.org/10.18653/v1/d18-1411
+Learning Latent Space Models with Angular Constraints	http://proceedings.mlr.press/v70/xie17a.html
+Learning Lexico-Functional Patterns for First-Person Affect	https://doi.org/10.18653/v1/P17-2022
+Learning Localized Spatio-Temporal Models From Streaming Data	http://proceedings.mlr.press/v80/osama18a.html
+Learning Low-Dimensional Temporal Representations	http://proceedings.mlr.press/v80/su18a.html
+Learning Matching Models with Weak Supervision for Response Selection in Retrieval-based Chatbots	https://www.aclweb.org/anthology/P18-2067/
+Learning Maximum-A-Posteriori Perturbation Models for Structured Prediction in Polynomial Time	http://proceedings.mlr.press/v80/ghoshal18a.html
+Learning Memory Access Patterns	https://arxiv.org/abs/2002.12798
+Learning Neural Representation for CLIR with Adversarial Framework	https://doi.org/10.18653/v1/d18-1212
+Learning Neural Templates for Text Generation	https://doi.org/10.18653/v1/d18-1356
+Learning One Convolutional Layer with Overlapping Patches	http://proceedings.mlr.press/v80/goel18a.html
+Learning Policy Representations in Multiagent Systems	http://proceedings.mlr.press/v80/grover18a.html
+Learning Polylingual Topic Models from Code-Switched Social Media Documents	https://doi.org/10.3115/v1/p14-2110
+Learning Prototypical Goal Activities for Locations	https://www.aclweb.org/anthology/P18-1120/
+Learning Scalar Adjective Intensity from Paraphrases	https://doi.org/10.18653/v1/d18-1202
+Learning Semantic Composition to Detect Non-compositionality of Multiword Expressions	https://doi.org/10.18653/v1/d15-1201
+Learning Semantic Representations for Nonterminals in Hierarchical Phrase-Based Translation	https://doi.org/10.18653/v1/d15-1164
+Learning Sentence Embeddings with Auxiliary Tasks for Cross-Domain Sentiment Classification	https://doi.org/10.18653/v1/d16-1023
+Learning Sentiment-Specific Word Embedding for Twitter Sentiment Classification	https://doi.org/10.3115/v1/p14-1146
+Learning Sequence Encoders for Temporal Knowledge Graph Completion	https://www.aclweb.org/anthology/D18-1516/
+Learning Simplifications for Specific Target Audiences	https://www.aclweb.org/anthology/P18-2113/
+Learning Sleep Stages from Radio Signals: A Conditional Adversarial Architecture	http://proceedings.mlr.press/v70/zhao17d.html
+Learning Stable Stochastic Nonlinear Dynamical Systems	http://proceedings.mlr.press/v70/umlauft17a.html
+Learning Structural Kernels for Natural Language Processing	https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/584
+Learning Structured Natural Language Representations for Semantic Parsing	https://doi.org/10.18653/v1/P17-1005
+Learning Structured Perceptrons for Coreference Resolution with Latent Antecedents and Non-local Features	https://doi.org/10.3115/v1/p14-1005
+Learning Structured Text Representations	https://transacl.org/ojs/index.php/tacl/article/view/1185
+Learning Unsupervised Word Translations Without Adversaries	https://doi.org/10.18653/v1/d18-1063
+Learning Word Embeddings for Low-resource Languages by PU Learning	https://doi.org/10.18653/v1/n18-1093
+Learning Word Representations with Cross-Sentence Dependency for End-to-End Co-reference Resolution	https://www.aclweb.org/anthology/D18-1518/
+Learning a Lexicon and Translation Model from Phoneme Lattices	https://doi.org/10.18653/v1/d16-1263
+Learning a Mixture of Two Multinomial Logits	http://proceedings.mlr.press/v80/chierichetti18a.html
+Learning a Neural Semantic Parser from User Feedback	https://doi.org/10.18653/v1/P17-1089
+Learning a Part-of-Speech Tagger from Two Hours of Annotation	https://www.aclweb.org/anthology/N13-1014/
+Learning a Policy for Opportunistic Active Learning	https://doi.org/10.18653/v1/d18-1165
+Learning and Memorization	https://doi.org/10.1016/j.procs.2010.12.025
+Learning attention for historical text normalization by learning to pronounce	https://doi.org/10.18653/v1/P17-1031
+Learning beyond datasets: Knowledge Graph Augmented Neural Networks for Natural language Processing	https://doi.org/10.18653/v1/n18-1029
+Learning bilingual word embeddings with (almost) no bilingual data	https://doi.org/10.18653/v1/P17-1042
+Learning from Clinical Judgments: Semi-Markov-Modulated Marked  Hawkes Processes for Risk Prognosis	http://proceedings.mlr.press/v70/alaa17a.html
+Learning how to Active Learn: A Deep Reinforcement Learning Approach	https://doi.org/10.18653/v1/d17-1063
+Learning in POMDPs with Monte Carlo Tree Search	http://arxiv.org/abs/1806.05631
+Learning multiview embeddings for assessing dementia	https://doi.org/10.18653/v1/d18-1304
+Learning principled bilingual mappings of word embeddings while preserving monolingual invariance	https://doi.org/10.18653/v1/d16-1250
+Learning the Structure of Generative Models without Labeled Data	http://proceedings.mlr.press/v70/bach17a.html
+Learning to Act in Decentralized Partially Observable MDPs	http://proceedings.mlr.press/v80/dibangoye18a.html
+Learning to Aggregate Ordinal Labels by Maximizing Separating Width	http://proceedings.mlr.press/v70/chen17i.html
+Learning to Align the Source Code to the Compiled Object Code	http://proceedings.mlr.press/v70/levy17a.html
+Learning to Ask Good Questions: Ranking Clarification Questions using Neural Expected Value of Perfect Information	https://www.aclweb.org/anthology/P18-1255/
+Learning to Ask Questions in Open-domain Conversational Systems with Typed Decoders	https://www.aclweb.org/anthology/P18-1204/
+Learning to Control the Specificity in Neural Response Generation	https://www.aclweb.org/anthology/P18-1102/
+Learning to Coordinate with Coordination Graphs in Repeated Single-Stage Multi-Agent Decision Problems	http://proceedings.mlr.press/v80/bargiacchi18a.html
+Learning to Detect Sepsis with a Multitask Gaussian Process RNN Classifier	http://proceedings.mlr.press/v70/futoma17a.html
+Learning to Discover Sparse Graphical Models	https://openreview.net/forum?id=H1GvR47Ye
+Learning to Disentangle Interleaved Conversational Threads with a Siamese Hierarchical Network and Similarity Ranking	https://doi.org/10.18653/v1/n18-1164
+Learning to Explain: An Information-Theoretic Perspective  on Model Interpretation	http://proceedings.mlr.press/v80/chen18j.html
+Learning to Generate Compositional Color Descriptions	https://doi.org/10.18653/v1/d16-1243
+Learning to Generate Long-term Future via Hierarchical Prediction	http://proceedings.mlr.press/v70/villegas17a.html
+Learning to Map Context-Dependent Sentences to Executable Formal Queries	https://doi.org/10.18653/v1/n18-1203
+Learning to Optimize Combinatorial Functions	http://proceedings.mlr.press/v80/rosenfeld18a.html
+Learning to Parse and Translate Improves Neural Machine Translation	https://doi.org/10.18653/v1/P17-2012
+Learning to Prune: Exploring the Frontier of Fast and Accurate Parsing	https://transacl.org/ojs/index.php/tacl/article/view/924
+Learning to Reweight Examples for Robust Deep Learning	http://proceedings.mlr.press/v80/ren18a.html
+Learning to Speed Up Structured Output Prediction	http://proceedings.mlr.press/v80/pan18b.html
+Learning unknown ODE models with Gaussian processes	http://proceedings.mlr.press/v80/heinonen18a.html
+Learning word-like units from joint audio-visual analysis	https://doi.org/10.18653/v1/P17-1047
+Leave-one-out Word Alignment without Garbage Collector Effects	https://doi.org/10.18653/v1/d15-1209
+Lessons from the Bible on Modern Topics: Low-Resource Multilingual Topic Model Evaluation	https://doi.org/10.18653/v1/n18-1099
+Leveraging Behavioral and Social Information for Weakly Supervised Collective Classification of Political Discourse on Twitter	https://doi.org/10.18653/v1/P17-1069
+Leveraging Node Attributes for Incomplete Relational Data	http://proceedings.mlr.press/v70/zhao17a.html
+Leveraging Union of Subspace Structure to Improve Constrained Clustering	http://proceedings.mlr.press/v70/lipor17a.html
+Leveraging Well-Conditioned Bases: Streaming and Distributed Summaries in Minkowski p-Norms	http://proceedings.mlr.press/v80/cormode18a.html
+Leveraging distributed representations and lexico-syntactic fixedness for token-level prediction of the idiomaticity of English verb-noun combinations	https://www.aclweb.org/anthology/P18-2055/
+Lexical Acquisition through Implicit Confirmations over Multiple Dialogues	https://doi.org/10.18653/v1/w17-5507
+Lexical Event Ordering with an Edge-Factored Model	https://doi.org/10.3115/v1/n15-1122
+Lexical Features in Coreference Resolution: To be Used With Caution	https://doi.org/10.18653/v1/P17-2003
+Lexicosyntactic Inference in Neural Models	https://doi.org/10.18653/v1/d18-1501
+Lifelong Learning CRF for Supervised Aspect Extraction	https://doi.org/10.18653/v1/P17-2023
+Lifelong-RL: Lifelong Relaxation Labeling for Separating Entities and Aspects in Opinion Targets	https://doi.org/10.18653/v1/d16-1022
+Lifted Rule Injection for Relation Embeddings	https://doi.org/10.18653/v1/d16-1146
+Limits of Estimating Heterogeneous Treatment Effects: Guidelines for Practical Algorithm Design	http://proceedings.mlr.press/v80/alaa18a.html
+Linear Spectral Estimators and an Application to Phase Retrieval	http://proceedings.mlr.press/v80/ghods18a.html
+Linear-Time Constituency Parsing with RNNs and Dynamic Programming	https://www.aclweb.org/anthology/P18-2076/
+Linguistic Cues to Deception and Perceived Deception in Interview Dialogues	https://doi.org/10.18653/v1/n18-1176
+Linguistically-Informed Self-Attention for Semantic Role Labeling	https://www.aclweb.org/anthology/D18-1548/
+Local Bayesian Optimization of Motor Skills	http://proceedings.mlr.press/v70/akrour17a.html
+Local Density Estimation in High Dimensions	http://proceedings.mlr.press/v80/wu18a.html
+Local Private Hypothesis Testing: Chi-Square Tests	http://proceedings.mlr.press/v80/gaboardi18a.html
+Local-to-Global Bayesian Network Structure Learning	http://proceedings.mlr.press/v70/gao17a.html
+Localizing Moments in Video with Temporal Language	https://doi.org/10.18653/v1/d18-1168
+Locally Private Hypothesis Testing	http://proceedings.mlr.press/v80/sheffet18a.html
+Logarithmic Time One-Against-Some	http://proceedings.mlr.press/v70/daume17a.html
+Logical Inference on Dependency-based Compositional Semantics	https://doi.org/10.3115/v1/p14-1008
+Long Short-Term Memory Neural Networks for Chinese Word Segmentation	https://doi.org/10.18653/v1/d15-1141
+Long Short-Term Memory as a Dynamically Computed Element-wise Weighted Sum	https://www.aclweb.org/anthology/P18-2116/
+Looking for structure in lexical and acoustic-prosodic entrainment behaviors	https://doi.org/10.18653/v1/n18-2048
+Loss Decomposition for Fast Learning in Large Output Spaces	http://proceedings.mlr.press/v80/yen18a.html
+Lost Relatives of the Gumbel Trick	http://proceedings.mlr.press/v70/balog17a.html
+MEC: Memory-efficient Convolution for Deep Neural Network	http://proceedings.mlr.press/v70/cho17a.html
+MISSION: Ultra Large-Scale Feature Selection using Count-Sketches	http://proceedings.mlr.press/v80/aghazadeh18a.html
+MOJITALK: Generating Emotional Responses at Scale	https://www.aclweb.org/anthology/P18-1104/
+Magnetic Hamiltonian Monte Carlo	http://proceedings.mlr.press/v70/tripuraneni17a.html
+Make the Minority Great Again:  First-Order Regret Bound for Contextual Bandits	http://proceedings.mlr.press/v80/allen-zhu18b.html
+Mapping to Declarative Knowledge for Word Problem Solving	https://transacl.org/ojs/index.php/tacl/article/view/1319
+Marginal Likelihood Training of BiLSTM-CRF for Biomedical Named Entity Recognition from Disjoint Label Sets	https://doi.org/10.18653/v1/d18-1306
+Markov Modulated Gaussian Cox Processes forSemi-Stationary Intensity Modeling of Events Data	http://proceedings.mlr.press/v80/kim18a.html
+Marrying Up Regular Expressions with Neural Networks: A Case Study for Spoken Language Understanding	https://www.aclweb.org/anthology/P18-1194/
+Massively Parallel Algorithms and Hardness for Single-Linkage Clustering under `p Distances	http://proceedings.mlr.press/v80/yaroslavtsev18a.html
+Matching Citation Text and Cited Spans in Biomedical Literature: a Search-Oriented Approach	https://doi.org/10.3115/v1/n15-1110
+Matrix Norms in Data Streams: Faster, Multi-Pass and Row-Order	http://proceedings.mlr.press/v80/braverman18a.html
+Max-value Entropy Search for Efficient Bayesian Optimization	http://proceedings.mlr.press/v70/wang17e.html
+Maximum Margin Reward Networks for Learning from Explicit and Implicit Supervision	https://doi.org/10.18653/v1/d17-1252
+Maximum Selection and Ranking under Noisy Comparisons	http://proceedings.mlr.press/v70/falahatgar17a.html
+Measuring Sample Quality with Kernels	http://proceedings.mlr.press/v70/gorham17a.html
+Measuring Thematic Fit with Distributional Feature Overlap	https://doi.org/10.18653/v1/d17-1068
+Measuring abstract reasoning in neural networks	http://proceedings.mlr.press/v80/santoro18a.html
+Measuring the Evolution of a Scientific Field through Citation Frames	https://transacl.org/ojs/index.php/tacl/article/view/1266
+Memory-Based Acquisition of Argument Structures and its Application to Implicit Role Detection	https://doi.org/10.18653/v1/w15-4626
+MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks on Corrupted Labels	http://proceedings.mlr.press/v80/jiang18c.html
+Meritocratic Fairness for Cross-Population Selection	http://proceedings.mlr.press/v70/kearns17a.html
+Meta-Learning by Adjusting Priors Based on Extended PAC-Bayes Theory	http://proceedings.mlr.press/v80/amit18a.html
+Meta-Learning for Low-Resource Neural Machine Translation	https://doi.org/10.18653/v1/d18-1398
+Microblog Conversation Recommendation via Joint Modeling of Topics and Discourse	https://doi.org/10.18653/v1/n18-1035
+Mimicking Word Embeddings using Subword RNNs	https://doi.org/10.18653/v1/d17-1010
+Minimizing Trust Leaks for Robust Sybil Detection	http://proceedings.mlr.press/v70/honer17a.html
+Mining Inference Formulas by Goal-Directed Random Walks	https://doi.org/10.18653/v1/d16-1145
+Miscommunication Recovery in Physically Situated Dialogue	https://doi.org/10.18653/v1/w15-4604
+Mitigating Bias in Adaptive Data Gathering via Differential Privacy	http://proceedings.mlr.press/v80/neel18a.html
+Mixed batches and symmetric discriminators for GAN training	http://proceedings.mlr.press/v80/lucas18a.html
+Modeling Discourse Cohesion for Discourse Parsing via Memory Network	https://www.aclweb.org/anthology/P18-2070/
+Modeling Empathy and Distress in Reaction to News Stories	https://www.aclweb.org/anthology/D18-1507/
+Modeling Linguistic and Personality Adaptation for Natural Language Generation	https://doi.org/10.18653/v1/w18-5003
+Modeling Naive Psychology of Characters in Simple Commonsense Stories	https://www.aclweb.org/anthology/P18-1213/
+Modeling Others using Oneself in Multi-Agent Reinforcement Learning	http://proceedings.mlr.press/v80/raileanu18a.html
+Modeling Semantic Expectation: Using Script Knowledge for Referent Prediction	http://arxiv.org/abs/1702.03121
+Modeling Semantic Plausibility by Injecting World Knowledge	https://doi.org/10.18653/v1/n18-2049
+Modeling Source Syntax for Neural Machine Translation	https://doi.org/10.18653/v1/P17-1064
+Modeling Sparse Deviations for Compressed Sensing using Generative Models	http://proceedings.mlr.press/v80/dhar18a.html
+Modelling Protagonist Goals and Desires in First-Person Narrative	https://doi.org/10.18653/v1/w17-5543
+Modelling and Optimizing on Syntactic N-Grams for Statistical Machine Translation	https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/510
+Modular Multitask Reinforcement Learning with Policy Sketches	http://proceedings.mlr.press/v70/andreas17a.html
+Morph-fitting: Fine-Tuning Word Vector Spaces with Simple Language-Specific Rules	https://doi.org/10.18653/v1/P17-1006
+Morphological Modeling for Machine Translation of English-Iraqi Arabic Spoken Dialogs	https://doi.org/10.3115/v1/n15-1102
+Morphological Segmentation Inside-Out	http://arxiv.org/abs/1911.04916
+Movie Script Summarization as Graph-based Scene Extraction	https://doi.org/10.3115/v1/n15-1113
+Multi-Class Optimal Margin Distribution Machine	http://proceedings.mlr.press/v70/zhang17h.html
+Multi-Fidelity Black-Box Optimization with Hierarchical Partitions	http://proceedings.mlr.press/v80/sen18a.html
+Multi-Hop Knowledge Graph Reasoning with Reward Shaping	https://doi.org/10.18653/v1/d18-1362
+Multi-Metric Optimization Using Ensemble Tuning	https://www.aclweb.org/anthology/N13-1115/
+Multi-Passage Machine Reading Comprehension with Cross-Passage Answer Verification	https://www.aclweb.org/anthology/P18-1178/
+Multi-Reference Training with Pseudo-References for Neural Translation and Text Generation	https://doi.org/10.18653/v1/d18-1357
+Multi-Relational Question Answering from Narratives: Machine Reading and Reasoning in Simulated Worlds	https://www.aclweb.org/anthology/P18-1077/
+Multi-Task Identification of Entities, Relations, and Coreference for Scientific Knowledge Graph Construction	https://doi.org/10.18653/v1/d18-1360
+Multi-Task Video Captioning with Video and Entailment Generation	https://doi.org/10.18653/v1/P17-1117
+Multi-Timescale Long Short-Term Memory Neural Network for Modelling Sentences and Documents	https://doi.org/10.18653/v1/d15-1280
+Multi-Turn Response Selection for Chatbots with Deep Attention Matching Network	https://www.aclweb.org/anthology/P18-1103/
+Multi-fidelity Bayesian Optimisation with Continuous Approximations	http://proceedings.mlr.press/v70/kandasamy17a.html
+Multi-lingual neural title generation for e-Commerce browse pages	https://doi.org/10.18653/v1/n18-3020
+Multi-modal Summarization for Asynchronous Collection of Text, Image, Audio and Video	https://doi.org/10.18653/v1/d17-1114
+Multi-task Learning of Pairwise Sequence Classification Tasks Over Disparate Label Spaces	https://doi.org/10.18653/v1/n18-1172
+Multi-task Learning with Labeled and Unlabeled Tasks	http://proceedings.mlr.press/v70/pentina17a.html
+MultiWOZ - A Large-Scale Multi-Domain Wizard-of-Oz Dataset for Task-Oriented Dialogue Modelling	https://www.aclweb.org/anthology/D18-1547/
+Multicalibration: Calibration for the (Computationally-Identifiable) Masses	http://proceedings.mlr.press/v80/hebert-johnson18a.html
+Multichannel End-to-end Speech Recognition	https://doi.org/10.23919/EUSIPCO.2019.8902524
+Multilabel Classification with Group Testing and Codes	http://proceedings.mlr.press/v70/ubaru17a.html
+Multilevel Clustering via Wasserstein Means	http://proceedings.mlr.press/v70/ho17a.html
+Multilingual Summarization with Polytope Model	https://doi.org/10.18653/v1/w15-4632
+Multimodal Affective Analysis Using Hierarchical Attention Strategy with Word-Level Alignment	https://www.aclweb.org/anthology/P18-1207/
+Multimodal Emoji Prediction	https://doi.org/10.18653/v1/n18-2107
+Multimodal Frame Identification with Multilingual Evaluation	https://doi.org/10.18653/v1/n18-1134
+Multimodal Hierarchical Reinforcement Learning Policy for Task-Oriented Visual Dialog	https://doi.org/10.18653/v1/w18-5015
+Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph	https://www.aclweb.org/anthology/P18-1208/
+Multimodal Language Analysis with Recurrent Multistage Fusion	https://doi.org/10.18653/v1/d18-1014
+Multiple Clustering Views from Multiple Uncertain Experts	http://proceedings.mlr.press/v70/chang17a.html
+Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis	https://transacl.org/ojs/index.php/tacl/article/view/1225
+Multiplicative Normalizing Flows for Variational Bayesian Neural Networks	http://proceedings.mlr.press/v70/louizos17a.html
+Mutual Information Neural Estimation	http://arxiv.org/abs/1905.12957
+NASH: Toward End-to-End Neural Architecture for Generative Semantic Hashing	https://www.aclweb.org/anthology/P18-1190/
+NEWSROOM: A Dataset of 1.3 Million Summaries with Diverse Extractive Strategies	https://doi.org/10.18653/v1/n18-1065
+NEXUS Network: Connecting the Preceding and the Following in Dialogue Generation	https://doi.org/10.18653/v1/d18-1463
+Name List Only? Target Entity Disambiguation in Short Texts	https://doi.org/10.18653/v1/d15-1077
+Natasha: Faster Non-Convex Stochastic Optimization  via Strongly Non-Convex Parameter	http://proceedings.mlr.press/v70/allen-zhu17a.html
+Native Language Cognate Effects on Second Language Lexical Choice	https://transacl.org/ojs/index.php/tacl/article/view/1403
+Natural Language Comprehension with the EpiReader	https://doi.org/10.18653/v1/d16-1013
+Natural Language Processing with Small Feed-Forward Networks	https://doi.org/10.18653/v1/d17-1309
+Naturalizing a Programming Language via Interactive Learning	https://doi.org/10.18653/v1/P17-1086
+Near Human-Level Performance in Grammatical Error Correction with Hybrid Machine Translation	https://doi.org/10.18653/v1/n18-2046
+Near Optimal Frequent Directions for Sketching Dense and Sparse Matrices	http://proceedings.mlr.press/v80/huang18a.html
+Near-Optimal Design of Experiments via Regret Minimization	http://proceedings.mlr.press/v70/allen-zhu17e.html
+Nearly Optimal Robust Subspace Tracking	https://doi.org/10.1109/DSW.2018.8439895
+NetGAN: Generating Graphs via Random Walks	http://proceedings.mlr.press/v80/bojchevski18a.html
+Network Global Testing by Counting Graphlets	http://proceedings.mlr.press/v80/jin18b.html
+Neural AMR: Sequence-to-Sequence Models for Parsing and Generation	https://doi.org/10.18653/v1/P17-1014
+Neural Architectures for Multilingual Semantic Parsing	https://doi.org/10.18653/v1/P17-2007
+Neural Argument Generation Augmented with Externally Retrieved Evidence	https://www.aclweb.org/anthology/P18-1021/
+Neural Audio Synthesis of Musical Notes  with WaveNet Autoencoders	http://proceedings.mlr.press/v70/engel17a.html
+Neural Cross-Lingual Coreference Resolution And Its Application To Entity Linking	https://www.aclweb.org/anthology/P18-2063/
+Neural Discourse Structure for Text Categorization	https://doi.org/10.18653/v1/P17-1092
+Neural End-to-End Learning for Computational Argumentation Mining	https://doi.org/10.18653/v1/P17-1002
+Neural Episodic Control	http://proceedings.mlr.press/v101/nishio19a.html
+Neural Fine-Grained Entity Type Classification with Hierarchy-Aware Loss	https://doi.org/10.18653/v1/n18-1002
+Neural Hidden Markov Model for Machine Translation	https://www.aclweb.org/anthology/P18-2060/
+Neural Joint Model for Transition-based Chinese Syntactic Analysis	https://doi.org/10.18653/v1/P17-1111
+Neural Latent Relational Analysis to Capture Lexical Semantic Relations in a Vector Space	https://doi.org/10.18653/v1/d18-1058
+Neural Machine Translation via Binary Code Prediction	https://doi.org/10.18653/v1/P17-1079
+Neural Machine Translation with Source Dependency Representation	https://doi.org/10.18653/v1/d17-1304
+Neural Machine Translation with Source-Side Latent Graph Parsing	https://doi.org/10.18653/v1/d17-1012
+Neural Machine Translation with Word Predictions	https://doi.org/10.18653/v1/d17-1013
+Neural Message Passing for Quantum Chemistry	http://proceedings.mlr.press/v70/gilmer17a.html
+Neural Metaphor Detection in Context	https://doi.org/10.18653/v1/d18-1060
+Neural Models for Documents with Metadata	https://www.aclweb.org/anthology/P18-1189/
+Neural Net Models of Open-domain Discourse Coherence	https://doi.org/10.18653/v1/d17-1019
+Neural Network based Extreme Classification and Similarity Models for Product Matching	https://doi.org/10.18653/v1/n18-3002
+Neural Networks Should Be Wide Enough to Learn Disconnected Decision Regions	http://proceedings.mlr.press/v80/nguyen18b.html
+Neural Networks and Rational Functions	http://proceedings.mlr.press/v70/telgarsky17a.html
+Neural Networks for Open Domain Targeted Sentiment	https://doi.org/10.18653/v1/d15-1073
+Neural Open Information Extraction	https://doi.org/10.1007/978-3-030-23281-8_31
+Neural Optimizer Search with Reinforcement Learning	http://proceedings.mlr.press/v70/bello17a.html
+Neural Program Synthesis from Diverse Demonstration Videos	http://proceedings.mlr.press/v80/sun18a.html
+Neural Related Work Summarization with a Joint Context-driven Attention Mechanism	https://doi.org/10.18653/v1/d18-1204
+Neural Relation Extraction with Multi-lingual Attention	https://doi.org/10.18653/v1/P17-1004
+Neural Response Generation via GAN with an Approximate Embedding Layer	https://doi.org/10.18653/v1/d17-1065
+Neural Segmental Hypergraphs for Overlapping Mention Recognition	https://doi.org/10.18653/v1/d18-1019
+Neural Semantic Parsing with Type Constraints for Semi-Structured Tables	https://doi.org/10.18653/v1/d17-1160
+Neural Symbolic Machines: Learning Semantic Parsers on Freebase with Weak Supervision	https://doi.org/10.18653/v1/P17-1003
+Neural Taylor Approximations:  Convergence and Exploration in Rectifier Networks	http://proceedings.mlr.press/v70/balduzzi17c.html
+Neural Text Generation from Structured Data with Application to the Biography Domain	https://doi.org/10.18653/v1/d16-1128
+Neural Text Generation in Stories Using Entity Representations as Context	https://doi.org/10.18653/v1/n18-1204
+Neural Transductive Learning and Beyond: Morphological Generation in the Minimal-Resource Setting	https://doi.org/10.18653/v1/d18-1363
+Neural Utterance Ranking Model for Conversational Dialogue Systems	https://doi.org/10.18653/v1/w16-3648
+Neural Word Segmentation with Rich Pretraining	https://doi.org/10.18653/v1/P17-1078
+Neural-Davidsonian Semantic Proto-role Labeling	https://doi.org/10.18653/v1/d18-1114
+Neural-based Natural Language Generation in Dialogue using RNN Encoder-Decoder with Semantic Aggregation	https://doi.org/10.18653/v1/w17-5528
+NeuralREG: An end-to-end approach to referring expression generation	https://www.aclweb.org/anthology/P18-1182/
+No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling	https://www.aclweb.org/anthology/P18-1083/
+No Need to Pay Attention: Simple Recurrent Neural Networks Work!	https://doi.org/10.18653/v1/d17-1307
+Noise Contrastive Estimation and Negative Sampling for Conditional Models: Consistency and Statistical Efficiency	https://doi.org/10.18653/v1/d18-1405
+Noise2Noise: Learning Image Restoration without Clean Data	http://proceedings.mlr.press/v80/lehtinen18a.html
+Noisin: Unbiased Regularization for Recurrent Neural Networks	http://proceedings.mlr.press/v80/dieng18a.html
+Noising and Denoising Natural Language: Diverse Backtranslation for Grammar Correction	https://doi.org/10.18653/v1/n18-1057
+Noisy Natural Gradient as Variational Inference	http://proceedings.mlr.press/v80/zhang18l.html
+Non-Projective Dependency Parsing with Non-Local Transitions	https://doi.org/10.18653/v1/n18-2109
+Nonconvex Optimization for Regression with Fairness Constraints	http://proceedings.mlr.press/v80/komiyama18a.html
+Nonparametric Bayesian Models for Spoken Language Understanding	https://doi.org/10.18653/v1/d16-1232
+Nonparametric Bayesian Semi-supervised Word Segmentation	https://transacl.org/ojs/index.php/tacl/article/view/1037
+Nonparametric Regression with Comparisons: Escaping the Curse of Dimensionality with Ordinal Information	http://proceedings.mlr.press/v80/xu18e.html
+Nonparanormal Information Estimation	http://proceedings.mlr.press/v70/singh17a.html
+Not All Character N -grams Are Created Equal: A Study in Authorship Attribution	https://doi.org/10.3115/v1/n15-1010
+Not All Dialogues are Created Equal: Instance Weighting for Neural Conversational Models	https://doi.org/10.18653/v1/w17-5546
+Not All Samples Are Created Equal:  Deep Learning with Importance Sampling	http://proceedings.mlr.press/v80/katharopoulos18a.html
+Numeracy for Language Models: Evaluating and Improving their Ability to Predict Numbers	https://www.aclweb.org/anthology/P18-1196/
+OBJ2TEXT: Generating Visually Descriptive Language from Object Layouts	https://doi.org/10.18653/v1/d17-1017
+Object Ordering with Bidirectional Matchings for Visual Reasoning	https://doi.org/10.18653/v1/n18-2071
+Obtaining Reliable Human Ratings of Valence, Arousal, and Dominance for 20,000 English Words	https://www.aclweb.org/anthology/P18-1017/
+Obtaining referential word meanings from visual and distributional information: Experiments on object naming	https://doi.org/10.18653/v1/P17-1023
+On Approximation Guarantees for Greedy Low Rank Optimization	http://proceedings.mlr.press/v70/khanna17a.html
+On Calibration of Modern Neural Networks	http://proceedings.mlr.press/v70/guo17a.html
+On Learning Sparsely Used Dictionaries from Incomplete Samples	http://proceedings.mlr.press/v80/nguyen18e.html
+On The Projection Operator to A Three-view Cardinality Constrained Set	http://proceedings.mlr.press/v70/yang17c.html
+On orthogonality and learning recurrent networks with long term dependencies	http://proceedings.mlr.press/v70/vorontsov17a.html
+On the Challenges of Translating NLP Research into Commercial Products	https://doi.org/10.18653/v1/P17-2015
+On the Distribution of Lexical Features at Multiple Levels of Analysis	https://doi.org/10.18653/v1/P17-2013
+On the Expressive Power of Deep Neural Networks	http://papers.nips.cc/paper/9219-on-the-expressive-power-of-deep-polynomial-neural-networks
+On the Generalization of Equivariance and Convolution in Neural Networks  to the Action of Compact Groups	http://proceedings.mlr.press/v80/kondor18a.html
+On the Implicit Bias of Dropout	http://proceedings.mlr.press/v80/mianjy18b.html
+On the Limitations of First-Order Approximation in GAN Dynamics	http://proceedings.mlr.press/v80/li18d.html
+On the Limitations of Unsupervised Bilingual Dictionary Induction	https://www.aclweb.org/anthology/P18-1072/
+On the Optimization of Deep Networks: Implicit Acceleration by Overparameterization	http://proceedings.mlr.press/v80/arora18a.html
+On the Power of Over-parametrization in Neural Networks with Quadratic Activation	http://proceedings.mlr.press/v80/du18a.html
+On the Practical Computational Power of Finite Precision RNNs for Language Recognition	https://www.aclweb.org/anthology/P18-2117/
+On the Sampling Problem for Kernel Quadrature	http://proceedings.mlr.press/v70/briol17a.html
+On the Spectrum of Random Features Maps of High Dimensional Data	http://proceedings.mlr.press/v80/liao18a.html
+One Vector is Not Enough: Entity-Augmented Distributed Semantics for Discourse Relations	https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/536
+One-Shot Segmentation in Clutter	http://proceedings.mlr.press/v80/michaelis18a.html
+Online Convolutional Sparse Coding with Sample-Dependent Dictionary	http://proceedings.mlr.press/v80/wang18k.html
+Online Learning with Abstention	http://proceedings.mlr.press/v80/cortes18a.html
+Online Segment to Segment Neural Transduction	https://doi.org/10.18653/v1/d16-1138
+Online and Linear-Time Attention by Enforcing Monotonic Alignments	http://proceedings.mlr.press/v70/raffel17a.html
+Open Category Detection with PAC Guarantees	http://proceedings.mlr.press/v80/liu18e.html
+Open Domain Question Answering Using Early Fusion of Knowledge Bases and Text	https://doi.org/10.18653/v1/d18-1455
+Opinion Recommendation Using A Neural Model	https://doi.org/10.18653/v1/d17-1170
+OptNet: Differentiable Optimization as a Layer in Neural Networks	http://proceedings.mlr.press/v70/amos17a.html
+Optimal Algorithms for Smooth and Strongly ConvexDistributed Optimization in Networks	http://proceedings.mlr.press/v70/scaman17a/scaman17a.pdf
+Optimal Data Set Selection: An Application to Grapheme-to-Phoneme Conversion	https://www.aclweb.org/anthology/N13-1139/
+Optimal Densification for Fast and Accurate Minwise Hashing	http://proceedings.mlr.press/v70/shrivastava17a.html
+Optimal Distributed Learning with Multi-pass Stochastic Gradient Methods	http://proceedings.mlr.press/v80/lin18a.html
+Optimal Rates of Sketched-regularized Algorithms for Least-Squares Regression over Hilbert Spaces	http://proceedings.mlr.press/v80/lin18b.html
+Optimal and Adaptive Off-policy Evaluation in Contextual Bandits	http://proceedings.mlr.press/v70/wang17a.html
+Optimization Landscape and Expressivity of Deep CNNs	http://proceedings.mlr.press/v80/nguyen18a.html
+Optimization, Fast and Slow: Optimally Switching between Local and Bayesian Optimization	http://proceedings.mlr.press/v80/mcleod18a.html
+Oracle Complexity of Second-Order Methods for Finite-Sum Problems	http://proceedings.mlr.press/v70/arjevani17a.html
+Ordinal Graphical Models: A Tale of Two Approaches	http://proceedings.mlr.press/v70/suggala17a.html
+Orthographic Features for Bilingual Lexicon Induction	https://www.aclweb.org/anthology/P18-2062/
+Out-of-sample extension of graph adjacency spectral embedding	http://proceedings.mlr.press/v80/levin18a.html
+Outta Control: Laws of Semantic Change and Inherent Biases in Word Representation Models	https://doi.org/10.18653/v1/d17-1118
+Overcoming Language Variation in Sentiment Analysis with Social Attention	https://transacl.org/ojs/index.php/tacl/article/view/1024
+PACRR: A Position-Aware Neural IR Model for Relevance Matching	https://doi.org/10.18653/v1/d17-1110
+POLY: Mining Relational Paraphrases from Multilingual Sentences	https://doi.org/10.18653/v1/d16-1236
+Pain-Free Random Differential Privacy with Sensitivity Sampling	http://proceedings.mlr.press/v70/rubinstein17a.html
+Parallel Multiscale Autoregressive Density Estimation	http://proceedings.mlr.press/v70/reed17a.html
+Parallel WaveNet: Fast High-Fidelity Speech Synthesis	http://proceedings.mlr.press/v80/oord18a.html
+Parallel and Distributed Thompson Sampling for Large-scale Accelerated Exploration of Chemical Space	http://proceedings.mlr.press/v70/hernandez-lobato17a.html
+Parallel and Streaming Algorithms for K-Core Decomposition	http://proceedings.mlr.press/v80/esfandiari18a.html
+Parameterized Algorithms for the Matrix Completion Problem	http://proceedings.mlr.press/v80/ganian18a.html
+Paraphrase to Explicate: Revealing Implicit Noun-Compound Relations	https://www.aclweb.org/anthology/P18-1111/
+Parseval Networks: Improving Robustness to Adversarial Examples	http://proceedings.mlr.press/v70/cisse17a.html
+Parsing Speech: A Neural Approach to Integrating Lexical and Acoustic-Prosodic Information	https://doi.org/10.18653/v1/n18-1007
+Parsing as Language Modeling	https://doi.org/10.18653/v1/d16-1257
+Parsing with Traces: An O(n) Algorithm and a Structural Representation	https://transacl.org/ojs/index.php/tacl/article/view/1170
+Part-of-Speech Tagging for Twitter with Adversarial Neural Networks	https://doi.org/10.18653/v1/d17-1256
+Partial Optimality and Fast Lower Bounds for Weighted Correlation Clustering	http://proceedings.mlr.press/v80/lange18a.html
+Pathologies of Neural Models Make Interpretations Difficult	https://www.aclweb.org/anthology/D18-1407/
+Personality Profiling of Fictional Characters using Sense-Level Links between Lexical Resources	https://doi.org/10.18653/v1/d15-1208
+Personalized Language Model for Query Auto-Completion	https://www.aclweb.org/anthology/P18-2111/
+Personalized Machine Translation: Predicting Translational Preferences	https://doi.org/10.18653/v1/d15-1238
+Personalized Review Generation by Expanding Phrases and Attending on Aspect-Aware Representations	https://www.aclweb.org/anthology/P18-2112/
+Personalized neural language models for real-world query auto completion	https://doi.org/10.18653/v1/n18-3026
+Personalizing Dialogue Agents: I have a dog, do you have pets too?	https://www.aclweb.org/anthology/P18-1205/
+Phrase-Based & Neural Unsupervised Machine Translation	https://doi.org/10.1109/KICSS.2012.23
+Phrase-Indexed Question Answering: A New Challenge for Scalable Document Comprehension	https://doi.org/10.18653/v1/d18-1052
+Phrase-level Self-Attention Networks for Universal Sentence Encoding	https://doi.org/10.18653/v1/d18-1408
+Pieces of Eight: 8-bit Neural Machine Translation	https://doi.org/10.18653/v1/n18-3014
+Playing 20 Question Game with Policy-Based Reinforcement Learning	https://doi.org/10.18653/v1/d18-1361
+Please Clap: Modeling Applause in Campaign Speeches	https://doi.org/10.18653/v1/n18-1009
+Pointwise HSIC: A Linear-Time Kernelized Co-occurrence Norm for Sparse Linguistic Expressions	https://doi.org/10.18653/v1/d18-1203
+Policy Gradient as a Proxy for Dynamic Oracles in Constituency Parsing	https://www.aclweb.org/anthology/P18-2075/
+Policy Shaping and Generalized Update Equations for Semantic Parsing from Denotations	https://doi.org/10.18653/v1/d18-1266
+Polish evaluation dataset for compositional distributional semantics models	https://doi.org/10.18653/v1/P17-1073
+Polyglot Semantic Role Labeling	https://www.aclweb.org/anthology/P18-2106/
+Position-aware Attention and Supervised Data Improve Slot Filling	https://doi.org/10.18653/v1/d17-1004
+Post-Inference Prior Swapping	http://proceedings.mlr.press/v70/neiswanger17a.html
+Practical Contextual Bandits with Regression Oracles	http://proceedings.mlr.press/v80/foster18a.html
+Practical Gauss-Newton Optimisation for Deep Learning	http://proceedings.mlr.press/v70/botev17a.html
+Pragmatically Informative Image Captioning with Character-Level Inference	https://doi.org/10.18653/v1/n18-2070
+PreCo: A Large-scale Dataset in Preschool Vocabulary for Coreference Resolution	https://doi.org/10.18653/v1/d18-1016
+Predicate Argument Alignment using a Global Coherence Model	https://doi.org/10.3115/v1/n15-1002
+Predicting Native Language from Gaze	https://doi.org/10.18653/v1/P17-1050
+Predicting News Headline Popularity with Syntactic and Semantic Knowledge Using Multi-Task Learning	https://doi.org/10.18653/v1/d18-1068
+Predicting Perceived Age: Both Language Ability and Appearance are Important	https://doi.org/10.18653/v1/w18-5014
+Predicting Semantic Relations using Global Graph Properties	https://doi.org/10.18653/v1/d18-1201
+Predicting accuracy on large datasets from smaller pilot data	https://www.aclweb.org/anthology/P18-2072/
+Prediction Rule Reshaping	http://proceedings.mlr.press/v80/bonakdarpour18a.html
+Prediction and Control with Temporal Segment Models	http://proceedings.mlr.press/v70/mishra17a.html
+Prediction for the Newsroom: Which Articles Will Get the Most Comments?	https://doi.org/10.18653/v1/n18-3024
+Prediction under Uncertainty in Sparse Spectrum Gaussian Processes  with Applications to Filtering and Control	http://proceedings.mlr.press/v70/pan17a.html
+Preferential Bayesian Optimization	https://arxiv.org/abs/2002.03113
+Prefix Lexicalization of Synchronous CFGs using Synchronous TAG	https://www.aclweb.org/anthology/P18-1107/
+Pretraining Sentiment Classifiers with Unlabeled Dialog Data	https://www.aclweb.org/anthology/P18-2121/
+Privacy-preserving Neural Representations of Text	https://doi.org/10.18653/v1/d18-1001
+Probabilistic Boolean Tensor Decomposition	http://arxiv.org/abs/1805.04582
+Probabilistic FastText for Multi-Sense Word Embeddings	https://www.aclweb.org/anthology/P18-1001/
+Probabilistic Path Hamiltonian Monte Carlo	http://proceedings.mlr.press/v70/dinh17a.html
+Probabilistic Recurrent State-Space Models	http://proceedings.mlr.press/v80/doerr18a.html
+Probabilistic Submodular Maximization in Sub-Linear Time	http://proceedings.mlr.press/v70/stan17a.html
+Probabilistic Typology: Deep Generative Models of Vowel Inventories	https://doi.org/10.18653/v1/P17-1109
+Probably Approximately Metric-Fair Learning	http://proceedings.mlr.press/v80/yona18a.html
+Problems in Current Text Simplification Research: New Data Can Help	https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/549
+Program Induction by Rationale Generation: Learning to Solve and Explain Algebraic Word Problems	https://doi.org/10.18653/v1/P17-1015
+Programming with a Differentiable Forth Interpreter	https://openreview.net/forum?id=SJAM_pVte
+Projection-Free Online Optimization with Stochastic Gradient: From Convexity to Submodularity	http://arxiv.org/abs/1802.08183
+Projection-free Distributed Online Learning in Networks	http://proceedings.mlr.press/v70/zhang17g.html
+Proportional Allocation:  Simple, Distributed, and Diverse Matching with High Entropy	http://proceedings.mlr.press/v80/agrawal18b.html
+ProtoNN: Compressed and Accurate kNN for Resource-scarce Devices	http://proceedings.mlr.press/v70/gupta17a.html
+Provable Variable Selection for Streaming Features	http://proceedings.mlr.press/v80/wang18g.html
+Prox-PDA: The Proximal Primal-Dual Algorithm for Fast Distributed Nonconvex Optimization and Learning Over Networks	http://proceedings.mlr.press/v70/hong17a.html
+Pushing the Limits of Translation Quality Estimation	https://transacl.org/ojs/index.php/tacl/article/view/1113
+QMIX: Monotonic Value Function Factorisation for Deep Multi-Agent Reinforcement Learning	http://proceedings.mlr.press/v80/rashid18a.html
+QuantTree: Histograms for Change Detection in Multivariate Data Streams	http://proceedings.mlr.press/v80/boracchi18a.html
+Quantifying Context Overlap for Training Word Embeddings	https://doi.org/10.18653/v1/d18-1057
+Quasi-Monte Carlo Variational Inference	http://proceedings.mlr.press/v80/buchholz18a.html
+Quasi-Second-Order Parsing for 1-Endpoint-Crossing, Pagenumber-2 Graphs	https://doi.org/10.18653/v1/d17-1003
+Question-Answer Driven Semantic Role Labeling: Using Natural Language to Annotate Natural Language	https://doi.org/10.18653/v1/d15-1076
+Questionable Answers in Question Answering Research: Reproducibility and Variability of Published Results	https://transacl.org/ojs/index.php/tacl/article/view/1299
+Quickshift++: Provably Good Initializations for Sample-Based Mean Shift	http://proceedings.mlr.press/v80/jiang18b.html
+RESIDE: Improving Distantly-Supervised Neural Relation Extraction using Side Information	https://doi.org/10.18653/v1/d18-1157
+Random Feature Expansions for Deep Gaussian Processes	http://proceedings.mlr.press/v70/cutajar17a.html
+Random Fourier Features for Kernel Ridge Regression: Approximation Bounds and Statistical Guarantees	http://proceedings.mlr.press/v70/avron17a.html
+Randomized Greedy Inference for Joint Segmentation, POS Tagging and Dependency Parsing	https://doi.org/10.3115/v1/n15-1005
+Ranking Distributions based on Noisy Sorting	http://proceedings.mlr.press/v80/mesaoudi-paul18a.html
+Ranking Paragraphs for Improving Answer Recall in Open-Domain Question Answering	https://doi.org/10.18653/v1/d18-1053
+Rapid Adaptation of Neural Machine Translation to New Languages	https://doi.org/10.18653/v1/d18-1103
+Rates of Convergence of Spectral Methods for Graphon Estimation	http://proceedings.mlr.press/v80/xu18a.html
+Rationalizing Neural Predictions	https://doi.org/10.18653/v1/d16-1011
+Re-revisiting Learning on Hypergraphs:  Confidence Interval and Subgradient Method	http://proceedings.mlr.press/v70/zhang17d.html
+Real-Time Adaptive Image Compression	https://doi.org/10.1007/s11554-012-0299-9
+Reasoning about Actions and State Changes by Injecting Commonsense Knowledge	https://doi.org/10.18653/v1/d18-1006
+Reasoning about Pragmatics with Neural Listeners and Speakers	https://doi.org/10.18653/v1/d16-1125
+Reasoning with Heterogeneous Knowledge for Commonsense Machine Comprehension	https://doi.org/10.18653/v1/d17-1216
+Reasoning with Sarcasm by Reading In-between	https://www.aclweb.org/anthology/P18-1093/
+RecipeQA: A Challenge Dataset for Multimodal Comprehension of Cooking Recipes	https://doi.org/10.18653/v1/d18-1166
+Recognizing Implicit Discourse Relations via Repeated Reading: Neural Networks with Multi-Level Attention	https://doi.org/10.18653/v1/d16-1130
+Recurrent Neural Networks as Weighted Language Recognizers	https://doi.org/10.18653/v1/n18-1205
+Recurrent Polynomial Network for Dialogue State Tracking with Mismatched Semantic Parsers	https://doi.org/10.18653/v1/w15-4641
+Recurrent Predictive State Policy Networks	http://proceedings.mlr.press/v80/hefny18a.html
+Recursive Neural Structural Correspondence Network for Cross-domain Aspect and Opinion Co-Extraction	https://www.aclweb.org/anthology/P18-1202/
+Recursive Partitioning for Personalization using Observational Data	http://proceedings.mlr.press/v70/kallus17a.html
+Reduced Space and Faster Convergence in Imperfect-Information Games via Pruning	http://aaai.org/ocs/index.php/WS/AAAIW17/paper/view/15203
+Reducing Gender Bias in Abusive Language Detection	https://doi.org/10.18653/v1/d18-1302
+Redundancy Localization for the Conversationalization of Unstructured Responses	https://doi.org/10.18653/v1/w17-5515
+Reference Resolution in Situated Dialogue with Learned Semantics	https://doi.org/10.18653/v1/w16-3642
+Regret Minimization for Partially Observable Deep Reinforcement Learning	https://openreview.net/forum?id=BJoBhUUUG
+Regret Minimization in Behaviorally-Constrained Zero-Sum Games	http://proceedings.mlr.press/v70/farina17a.html
+Regularising Non-linear Models Using Feature Side-information	http://proceedings.mlr.press/v70/mollaysa17a.html
+Reinforcement Learning in Multi-Party Trading Dialog	https://doi.org/10.18653/v1/w15-4605
+Relations such as Hypernymy: Identifying and Exploiting Hearst Patterns in Distributional Vectors for Lexical Entailment	https://doi.org/10.18653/v1/d16-1234
+Relative Fisher Information and Natural Gradient for Learning Large Modular Models	http://proceedings.mlr.press/v70/sun17b.html
+Reordering Grammar Induction	https://doi.org/10.18653/v1/d15-1005
+Repeat before Forgetting: Spaced Repetition for Efficient and Effective Training of Neural Networks	https://doi.org/10.18653/v1/d17-1255
+Replicability Analysis for Natural Language Processing: Testing Significance with Multiple Datasets	https://transacl.org/ojs/index.php/tacl/article/view/1241
+Representation Learning Using Multi-Task Deep Neural Networks for Semantic Classification and Information Retrieval	https://doi.org/10.3115/v1/n15-1092
+Representation Learning for Grounded Spatial Reasoning	https://transacl.org/ojs/index.php/tacl/article/view/1234
+Representation Learning on Graphs with Jumping Knowledge Networks	http://proceedings.mlr.press/v80/xu18c.html
+Representation Tradeoffs for Hyperbolic Embeddings	http://proceedings.mlr.press/v80/sala18a.html
+Representations of language in a model of visually grounded speech signal	https://doi.org/10.18653/v1/P17-1057
+Representing Text for Joint Embedding of Text and Knowledge Bases	https://doi.org/10.18653/v1/d15-1174
+Residual Unfairness in Fair Machine Learning from Prejudiced Data	http://proceedings.mlr.press/v80/kallus18a.html
+Resource-efficient Machine Learning in 2 KB RAM for the Internet of Things	http://proceedings.mlr.press/v70/kumar17a.html
+Retrieval of the Best Counterargument without Prior Topic Knowledge	https://www.aclweb.org/anthology/P18-1023/
+Retrieval-Based Neural Code Generation	https://doi.org/10.18653/v1/d18-1111
+Retrieve, Rerank and Rewrite: Soft Template Based Neural Summarization	https://www.aclweb.org/anthology/P18-1015/
+Revealing Common Statistical Behaviors in Heterogeneous Populations	http://proceedings.mlr.press/v80/zhitnikov18a.html
+Revisiting Character-Based Neural Machine Translation with Capacity and Compression	https://www.aclweb.org/anthology/D18-1461/
+Revisiting the Importance of Encoding Logic Rules in Sentiment Classification	https://www.aclweb.org/anthology/D18-1505/
+Reviving and Improving Recurrent Back-Propagation	http://proceedings.mlr.press/v80/liao18c.html
+Risk Bounds for Transferring Representations With and Without Fine-Tuning	http://proceedings.mlr.press/v70/mcnamara17a.html
+Robust Budget Allocation via Continuous Submodular Functions	http://proceedings.mlr.press/v70/staib17a.html
+Robust Cross-lingual Hypernymy Detection using Dependency Context	https://doi.org/10.18653/v1/n18-1056
+Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning	https://www.aclweb.org/anthology/P18-1199/
+Robust Gaussian Graphical Model Estimation with Arbitrary Corruption	http://proceedings.mlr.press/v70/wang17d.html
+Robust Guarantees of Stochastic Greedy Algorithms	http://proceedings.mlr.press/v70/hassidim17a.html
+Robust Probabilistic Modeling with Bayesian Data Reweighting	http://proceedings.mlr.press/v70/wang17g.html
+Robust Structured Estimation with Single-Index Models	http://proceedings.mlr.press/v70/chen17a.html
+Robust Submodular Maximization:  A Non-Uniform Partitioning Approach	http://proceedings.mlr.press/v70/bogunovic17a.html
+Robust and Scalable Models of Microbiome Dynamics	http://proceedings.mlr.press/v80/gibson18a.html
+Role play-based question-answering by real users for building chatbots with consistent personalities	https://doi.org/10.18653/v1/w18-5031
+Rule Extraction for Tree-to-Tree Transducers by Cost Minimization	https://doi.org/10.18653/v1/d16-1002
+Rule-Enhanced Penalized Regression by Column Generation  using Rectangular Maximum Agreement	http://proceedings.mlr.press/v70/eckstein17a.html
+Rumor Detection on Twitter with Tree-structured Recursive Neural Networks	https://www.aclweb.org/anthology/P18-1184/
+SAFFRON: an Adaptive Algorithm for Online Control of the False Discovery Rate	http://proceedings.mlr.press/v80/ramdas18a.html
+SARAH: A Novel Method for Machine Learning Problems  Using Stochastic Recursive Gradient	http://proceedings.mlr.press/v70/nguyen17b.html
+SCDV : Sparse Composite Document Vectors using soft clustering over distributional representations	https://doi.org/10.18653/v1/d17-1069
+SMAC: Simultaneous Mapping and Clustering Using Spectral Decompositions	http://proceedings.mlr.press/v80/bajaj18a.html
+SQL-Rank: A Listwise Approach to Collaborative Ranking	http://proceedings.mlr.press/v80/wu18c.html
+SQL-to-Text Generation with Graph-to-Sequence Model	https://doi.org/10.18653/v1/d18-1112
+SQuAD: 100,000+ Questions for Machine Comprehension of Text	https://doi.org/10.18653/v1/d16-1264
+STRUCTVAE: Tree-structured Latent Variable Models for Semi-supervised Semantic Parsing	https://www.aclweb.org/anthology/P18-1070/
+Safe Element Screening for Submodular Function Minimization	http://proceedings.mlr.press/v80/zhang18e.html
+SafeCity: Understanding Diverse Forms of Sexual Harassment Personal Stories	https://doi.org/10.18653/v1/d18-1303
+Sample-efficient Actor-Critic Reinforcement Learning with Supervised Data for Dialogue Management	https://doi.org/10.18653/v1/w17-5518
+Satirical News Detection and Analysis using Attention Mechanism and Linguistic Features	https://doi.org/10.18653/v1/d17-1211
+Scalable Approximate Bayesian Inference for Particle Tracking Data	http://proceedings.mlr.press/v80/sun18b.html
+Scalable Bayesian Learning of Recurrent Neural Networks for Language Modeling	https://doi.org/10.18653/v1/P17-1030
+Scalable Bayesian Rule Lists	http://proceedings.mlr.press/v70/yang17h.html
+Scalable Deletion-Robust Submodular Maximization: Data Summarization with Privacy and Fairness Constraints	http://proceedings.mlr.press/v80/kazemi18a.html
+Scalable Generative Models for Multi-label Learning with Missing Labels	http://proceedings.mlr.press/v70/jain17a.html
+Scalable Multi-Class Gaussian Process Classification  using Expectation Propagation	http://proceedings.mlr.press/v70/villacampa-calvo17a.html
+Scalable Wide and Deep Learning for Computer Assisted Coding	https://doi.org/10.18653/v1/n18-3001
+Scaling Up Sparse Support Vector Machinesby Simultaneous Feature and Sample Reduction	http://proceedings.mlr.press/v70/zhang17c/zhang17c.pdf
+Scene Graph Parsing as Dependency Parsing	https://doi.org/10.18653/v1/n18-1037
+Schema Networks: Zero-shot Transfer with a Generative Causal Model of Intuitive Physics	http://proceedings.mlr.press/v70/kansky17a.html
+SciDTB: Discourse Dependency TreeBank for Scientific Abstracts	https://www.aclweb.org/anthology/P18-2071/
+Scientific Article Summarization Using Citation-Context and Article's Discourse Structure	https://doi.org/10.18653/v1/d15-1045
+Scoring Lexical Entailment with a Supervised Directional Similarity Network	https://www.aclweb.org/anthology/P18-2101/
+Searching for the X-Factor: Exploring Corpus Subjectivity for Word Embeddings	https://www.aclweb.org/anthology/P18-1112/
+Segmentation for Efficient Supervised Language Annotation with an Explicit Cost-Utility Tradeoff	https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/306
+Selecting Machine-Translated Data for Quick Bootstrapping of a Natural Language Understanding System	https://doi.org/10.18653/v1/n18-3017
+Selective Encoding for Abstractive Sentence Summarization	https://doi.org/10.18653/v1/P17-1101
+Selective Inference for Sparse High-Order Interaction Models	http://proceedings.mlr.press/v70/suzumura17a.html
+Self-Bounded Prediction Suffix Tree via Approximate String Matching	http://proceedings.mlr.press/v80/kim18c.html
+Self-Governing Neural Networks for On-Device Short Text Classification	https://doi.org/10.18653/v1/d18-1092
+Self-Paced Co-training	http://proceedings.mlr.press/v70/ma17b.html
+Semantic Annotation for Microblog Topics Using Wikipedia Temporal Information	http://arxiv.org/abs/1701.03939
+Semantic Parsing for Task Oriented Dialog using Hierarchical Representations	https://doi.org/10.18653/v1/d18-1300
+Semantic Parsing with Semi-Supervised Sequential Autoencoders	https://doi.org/10.18653/v1/d16-1116
+Semantic Role Labeling for Learner Chinese: the Importance of Syntactic Parsing and L2-L1 Parallel Data	https://doi.org/10.18653/v1/d18-1414
+Semantic Structural Evaluation for Text Simplification	https://doi.org/10.18653/v1/n18-1063
+Semantic Word Clusters Using Signed Spectral Clustering	https://doi.org/10.18653/v1/P17-1087
+Semantically Conditioned LSTM-based Natural Language Generation for Spoken Dialogue Systems	https://doi.org/10.18653/v1/d15-1199
+Semantically Equivalent Adversarial Rules for Debugging NLP models	https://www.aclweb.org/anthology/P18-1079/
+Semantics as a Foreign Language	http://ceur-ws.org/Vol-2044/paper14/
+Semi-Amortized Variational Autoencoders	http://proceedings.mlr.press/v80/kim18e.html
+Semi-Implicit Variational Inference	http://proceedings.mlr.press/v89/molchanov19a.html
+Semi-Supervised Classification Based on Classification from Positive and Unlabeled Data	http://proceedings.mlr.press/v70/sakai17a.html
+Semi-Supervised Discriminative Language Modeling with Out-of-Domain Text Data	https://www.aclweb.org/anthology/N13-1087/
+Semi-Supervised Learning on Data Streams via Temporal Label Propagation	http://proceedings.mlr.press/v80/wagner18a.html
+Semi-Supervised QA with Generative Domain-Adaptive Nets	https://doi.org/10.18653/v1/P17-1096
+Semi-Supervised Sequence Modeling with Cross-View Training	https://doi.org/10.18653/v1/d18-1217
+Semi-supervised Chinese Word Segmentation based on Bilingual Information	https://doi.org/10.18653/v1/d15-1142
+Semi-supervised User Geolocation via Graph Convolutional Networks	https://www.aclweb.org/anthology/P18-1187/
+Sentence Alignment Methods for Improving Text Simplification Systems	https://doi.org/10.18653/v1/P17-2016
+Sentence Compression by Deletion with LSTMs	https://doi.org/10.18653/v1/d15-1042
+Sentence Compression for Arbitrary Languages via Multilingual Pivoting	https://doi.org/10.18653/v1/d18-1267
+Sentence Simplification with Deep Reinforcement Learning	https://doi.org/10.18653/v1/d17-1062
+Sentences with Gapping: Parsing and Reconstructing Elided Predicates	https://doi.org/10.18653/v1/n18-1105
+Senti-LSSVM: Sentiment-Oriented Multi-Relation Extraction with Latent Structural SVM	https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/119
+Sentiment Classification towards Question-Answering with Hierarchical Matching Network	https://doi.org/10.18653/v1/d18-1401
+Sequence Effects in Crowdsourced Annotations	https://doi.org/10.18653/v1/d17-1306
+Sequence Tutor: Conservative Fine-Tuning of Sequence Generation Models with KL-control	http://proceedings.mlr.press/v70/jaques17a.html
+Sequence to Better Sequence: Continuous Revision of Combinatorial Structures	http://proceedings.mlr.press/v70/mueller17a.html
+Sequence-Level Knowledge Distillation	https://doi.org/10.1109/ICASSP.2019.8683171
+Sequence-to-Action: End-to-End Semantic Graph Generation for Semantic Parsing	https://www.aclweb.org/anthology/P18-1071/
+Sequence-to-Dependency Neural Machine Translation	https://www.aclweb.org/anthology/I17-1003/
+Sequence-to-Sequence Learning as Beam-Search Optimization	https://doi.org/10.18653/v1/d16-1137
+Sequence-to-sequence Models for Cache Transition Systems	https://www.aclweb.org/anthology/P18-1171/
+Sequential Dialogue Context Modeling for Spoken Language Understanding	https://doi.org/10.18653/v1/w17-5514
+Sequential Matching Network: A New Architecture for Multi-turn Response Selection in Retrieval-Based Chatbots	https://doi.org/10.18653/v1/P17-1046
+Session-level Language Modeling for Conversational Speech	https://doi.org/10.18653/v1/d18-1296
+Sharp Minima Can Generalize For Deep Nets	http://proceedings.mlr.press/v70/dinh17b.html
+Sharp Models on Dull Hardware: Fast and Accurate Neural Machine Translation Decoding on the CPU	https://doi.org/10.18653/v1/d17-1300
+Shift-Reduce Constituency Parsing with Dynamic Programming and POS Tag Lattice	https://doi.org/10.3115/v1/n15-1108
+Signal and Noise Statistics Oblivious Orthogonal Matching Pursuit	http://proceedings.mlr.press/v80/kallummil18a.html
+SimVerb-3500: A Large-Scale Evaluation Set of Verb Similarity	https://doi.org/10.18653/v1/d16-1235
+Similar but not the Same: Word Sense Disambiguation Improves Event Detection via Neural Representation Matching	https://www.aclweb.org/anthology/D18-1517/
+Simple and Effective Multi-Paragraph Reading Comprehension	https://www.aclweb.org/anthology/P18-1078/
+SimpleQuestions Nearly Solved: A New Upperbound and Baseline Approach	https://doi.org/10.18653/v1/d18-1051
+Simpler but More Accurate Semantic Dependency Parsing	https://www.aclweb.org/anthology/P18-2077/
+Simplifying Neural Machine Translation with Addition-Subtraction Twin-Gated Recurrent Networks	https://www.aclweb.org/anthology/D18-1459/
+Simultaneous Learning of Trees and Representations for Extreme Classification and Density Estimation	http://proceedings.mlr.press/v70/jernite17a.html
+Situated Mapping of Sequential Instructions to Actions with Single-step Reward Observation	https://www.aclweb.org/anthology/P18-1193/
+Sketched Ridge Regression: Optimization Perspective,  Statistical Perspective, and Model Averaging	http://proceedings.mlr.press/v70/wang17c.html
+Sliced Wasserstein Kernel for Persistence Diagrams	http://proceedings.mlr.press/v70/carriere17a.html
+Social Media Text Classification under Negative Covariate Shift	https://doi.org/10.18653/v1/d15-1282
+Socially-Informed Timeline Generation for Complex Events	http://arxiv.org/abs/1606.05699
+Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor	http://proceedings.mlr.press/v80/haarnoja18b.html
+Soft-DTW: a Differentiable Loss Function for Time-Series	http://proceedings.mlr.press/v70/cuturi17a.html
+Solving General Arithmetic Word Problems	http://arxiv.org/abs/1608.01413
+Solving Geometry Problems: Combining Text and Diagram Interpretation	https://doi.org/10.18653/v1/d15-1171
+Solving Partial Assignment Problems using Random Clique Complexes	http://arxiv.org/abs/1907.01739
+Source-Target Similarity Modelings for Multi-Source Transfer Gaussian Process Regression	http://proceedings.mlr.press/v70/wei17a.html
+Span-Based Constituency Parsing with a Structure-Label System and Provably Optimal Dynamic Oracles	https://doi.org/10.18653/v1/d16-1001
+Sparse + Group-Sparse Dirty Models: Statistical Guarantees without Unreasonable Conditions and a Case for Non-Convexity	http://proceedings.mlr.press/v70/yang17g.html
+Sparse Coding of Neural Word Embeddings for Multilingual Sequence Labeling	https://transacl.org/ojs/index.php/tacl/article/view/1063
+Sparse Non-negative Matrix Language Modeling	http://www.isca-speech.org/archive/Interspeech_2017/abstracts/0493.html
+Sparse and Constrained Attention for Neural Machine Translation	https://www.aclweb.org/anthology/P18-2059/
+SparseMAP: Differentiable Sparse Structured Inference	http://proceedings.mlr.press/v80/niculae18a.html
+Spatio-temporal Bayesian On-line Changepoint Detection with Model Selection	http://proceedings.mlr.press/v80/knoblauch18a.html
+Speaking, Seeing, Understanding: Correlating semantic models with conceptual representation in the brain	https://doi.org/10.18653/v1/d17-1113
+Specialising Word Vectors for Lexical Entailment	https://doi.org/10.18653/v1/n18-1103
+Specializing Word Embeddings for Similarity or Relatedness	https://doi.org/10.18653/v1/d15-1242
+Spectral Analysis of Information Density in Dialogue Predicts Collaborative Task Performance	https://doi.org/10.18653/v1/P17-1058
+Spectral Learning from a Single Trajectory under Finite-State Policies	http://proceedings.mlr.press/v70/balle17a.html
+Spectrally Approximating Large Graphs with Smaller Graphs	http://proceedings.mlr.press/v80/loukas18a.html
+Speech segmentation with a neural encoder model of working memory	https://doi.org/10.18653/v1/d17-1112
+Speeding Up Neural Machine Translation Decoding by Cube Pruning	https://www.aclweb.org/anthology/D18-1460/
+Spherical Structured Feature Maps for Kernel Approximation	http://proceedings.mlr.press/v70/lyu17a.html
+Spinning Straw into Gold: Using Free Text to Train Monolingual Alignment Models for Non-factoid Question Answering	https://doi.org/10.3115/v1/n15-1025
+Split and Rephrase: Better Evaluation and a Stronger Baseline	https://www.aclweb.org/anthology/P18-2114/
+Spurious Local Minima are Common in Two-Layer ReLU Neural Networks	http://proceedings.mlr.press/v80/safran18a.html
+Stabilising Experience Replay for Deep Multi-Agent Reinforcement Learning	http://proceedings.mlr.press/v70/foerster17b.html
+Stability and Generalization of Learning Algorithms that Converge to Global Optima	http://proceedings.mlr.press/v80/charles18a.html
+Stack-Pointer Networks for Dependency Parsing	https://www.aclweb.org/anthology/P18-1130/
+Statistical Inference for Incomplete Ranking Data: The Case of Rank-Dependent Coarsening	http://proceedings.mlr.press/v70/fahandar17a.html
+Stein Variational Message Passing for Continuous Graphical Models	http://proceedings.mlr.press/v80/wang18l.html
+StingyCD: Safely Avoiding Wasteful Updates in Coordinate Descent	http://proceedings.mlr.press/v70/johnson17a.html
+Stochastic Adaptive Quasi-Newton Methods for Minimizing Expected Values	http://proceedings.mlr.press/v70/zhou17a.html
+Stochastic Bouncy Particle Sampler	http://proceedings.mlr.press/v70/pakman17a.html
+Stochastic Convex Optimization: Faster Local Growth Implies Faster Global Convergence	http://proceedings.mlr.press/v70/xu17a.html
+Stochastic DCA for the Large-sum of Non-convex Functions Problem and its Application to Group Variable Selection in Classification	http://proceedings.mlr.press/v70/thi17a.html
+Stochastic Generative Hashing	http://proceedings.mlr.press/v70/dai17a.html
+Stochastic Gradient MCMC Methods for Hidden Markov Models	http://proceedings.mlr.press/v70/ma17a.html
+Stochastic Gradient Monomial Gamma Sampler	http://proceedings.mlr.press/v70/zhang17a.html
+Stochastic Language Generation in Dialogue using Recurrent Neural Networks with Convolutional Sentence Reranking	https://doi.org/10.18653/v1/w15-4639
+Stochastic Modified Equations  and Adaptive Stochastic Gradient Algorithms	http://proceedings.mlr.press/v70/li17f.html
+Stochastic PCA with `2 and `1 Regularization	http://proceedings.mlr.press/v80/mianjy18a.html
+Stochastic Proximal Algorithms for AUC Maximization	http://proceedings.mlr.press/v80/natole18a.html
+Stochastic Top-k ListNet	https://doi.org/10.18653/v1/d15-1079
+Stochastic Training of Graph Convolutional Networks with Variance Reduction	http://proceedings.mlr.press/v80/chen18p.html
+Stochastic Variance Reduction Methods for Policy Evaluation	http://proceedings.mlr.press/v70/du17a.html
+Stochastic Variance-Reduced Hamilton Monte Carlo Methods	http://proceedings.mlr.press/v80/zou18a.html
+Stochastic Video Generation with a Learned Prior	http://proceedings.mlr.press/v80/denton18a.html
+Stock Movement Prediction from Tweets and Historical Prices	https://www.aclweb.org/anthology/P18-1183/
+Story Comprehension for Predicting What Happens Next	https://doi.org/10.18653/v1/d17-1168
+Straight to the Tree: Constituency Parsing with Neural Syntactic Distance	https://www.aclweb.org/anthology/P18-1108/
+Streaming Principal Component Analysis in Noisy Settings	http://proceedings.mlr.press/v80/marinov18a.html
+Strong Baselines for Neural Semi-Supervised Learning under Domain Shift	https://www.aclweb.org/anthology/P18-1096/
+Strong Baselines for Simple Question Answering over Knowledge Graphs with and without Neural Networks	https://doi.org/10.18653/v1/n18-2047
+Strong NP-Hardness for Sparse Optimization with Concave Penalty Functions	http://proceedings.mlr.press/v70/chen17d.html
+Stronger Generalization Bounds for Deep Nets via a Compression Approach	http://proceedings.mlr.press/v80/arora18b.html
+Strongly-Typed Agents are Guaranteed to Interact Safely	http://proceedings.mlr.press/v70/balduzzi17a.html
+Structured Multi-Label Biomedical Text Tagging via Attentive Neural Tree Decoding	https://doi.org/10.18653/v1/d18-1308
+Structured Output Learning with Abstention: Application to Accurate Opinion Prediction	http://proceedings.mlr.press/v80/garcia18a.html
+Structured Variational Learning of Bayesian Neural Networks with Horseshoe Priors	http://proceedings.mlr.press/v80/ghosh18a.html
+Structured Variationally Auto-encoded Optimization	http://proceedings.mlr.press/v80/lu18c.html
+Style Tokens: Unsupervised Style Modeling, Control and Transfer in End-to-End Speech Synthesis	http://proceedings.mlr.press/v80/wang18h.html
+Style Transfer Through Back-Translation	https://www.aclweb.org/anthology/P18-1080/
+Sub-sampled Cubic Regularization for Non-convex Optimization	http://proceedings.mlr.press/v70/kohler17a.html
+Subgoal Discovery for Hierarchical Dialogue Policy Learning	https://doi.org/10.18653/v1/d18-1253
+Submodular Hypergraphs: p-Laplacians, Cheeger Inequalities  and Spectral Clustering	http://proceedings.mlr.press/v80/li18e.html
+Subspace Embedding and Linear Regression with Orlicz Norm	http://proceedings.mlr.press/v80/andoni18a.html
+Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates	https://www.aclweb.org/anthology/P18-1007/
+Summarizing Opinions: Aspect Extraction Meets Sentiment Prediction and They Are Both Weakly Supervised	https://doi.org/10.18653/v1/d18-1403
+Supersense Tagging for Arabic: the MT-in-the-Middle Attack	https://www.aclweb.org/anthology/N13-1076/
+Supervised All-Words Lexical Substitution using Delexicalized Features	https://www.aclweb.org/anthology/N13-1133/
+Supervised Attentions for Neural Machine Translation	https://doi.org/10.18653/v1/d16-1249
+Supervised Clustering of Questions into Intents for Dialog System Applications	https://doi.org/10.18653/v1/d18-1254
+Supervised Domain Enablement Attention for Personalized Domain Classification	https://doi.org/10.18653/v1/d18-1106
+Supervised Learning of Automatic Pyramid for Optimization-Based Multi-Document Summarization	https://doi.org/10.18653/v1/P17-1100
+Supervised Learning of Universal Sentence Representations from Natural Language Inference Data	https://doi.org/10.18653/v1/d17-1070
+Supporting Spoken Assistant Systems with a Graphical User Interface that Signals Incremental Understanding and Prediction State	https://doi.org/10.18653/v1/w16-3631
+Surprisingly Easy Hard-Attention for Sequence to Sequence Learning	https://doi.org/10.18653/v1/d18-1065
+Swag: A Large-Scale Adversarial Dataset for Grounded Commonsense Inference	https://doi.org/10.18653/v1/d18-1009
+SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation	https://doi.org/10.18653/v1/d18-1100
+Syntactic Scaffolds for Semantic Structures	https://doi.org/10.18653/v1/d18-1412
+Syntax for Semantic Role Labeling, To Be, Or Not To Be	https://www.aclweb.org/anthology/P18-1192/
+Syntax-based Rewriting for Simultaneous Machine Translation	https://doi.org/10.18653/v1/d15-1006
+Synthetic Data Made to Order: The Case of Parsing	https://doi.org/10.18653/v1/d18-1163
+TAPAS: Tricks to Accelerate (encrypted) Prediction As a Service	http://proceedings.mlr.press/v80/sanyal18a.html
+TDNN: A Two-stage Deep Neural Network for Prompt-independent Automated Essay Scoring	https://www.aclweb.org/anthology/P18-1100/
+THE REAL CHALLENGE 2014: PROGRESS AND PROSPECTS	https://doi.org/10.18653/v1/w15-4630
+TVQA: Localized, Compositional Video Question Answering	https://doi.org/10.18653/v1/d18-1167
+TWOWINGOS: A Two-Wing Optimization Strategy for Evidential Claim Verification	https://doi.org/10.18653/v1/d18-1010
+Tackling the Story Ending Biases in The Story Cloze Test	https://www.aclweb.org/anthology/P18-2119/
+Talking to the crowd: What do people react to in online discussions?	https://doi.org/10.18653/v1/d15-1239
+Tandem Anchoring: a Multiword Anchor Approach for Interactive Topic Modeling	https://doi.org/10.18653/v1/P17-1083
+Target-Sensitive Memory Networks for Aspect Sentiment Classification	https://www.aclweb.org/anthology/P18-1088/
+Targeted Syntactic Evaluation of Language Models	https://doi.org/10.18653/v1/d18-1151
+Task-Oriented Query Reformulation with Reinforcement Learning	https://doi.org/10.18653/v1/d17-1061
+Temporal Information Extraction by Predicting Relative Time-lines	https://doi.org/10.18653/v1/d18-1155
+Temporally Grounding Natural Sentence in Video	https://doi.org/10.18653/v1/p19-1183
+Tense Manages to Predict Implicative Behavior in Verbs	https://doi.org/10.18653/v1/d16-1240
+Tensor Balancing on Statistical Manifold	http://proceedings.mlr.press/v70/sugiyama17a.html
+Tensor Belief Propagation	http://proceedings.mlr.press/v70/wrigley17a.html
+Tensor Decomposition via Simultaneous Power Iteration	http://proceedings.mlr.press/v70/wang17i.html
+Tensor Fusion Network for Multimodal Sentiment Analysis	https://doi.org/10.18653/v1/d17-1115
+Tensor-Train Recurrent Neural Networks for Video Classification	http://proceedings.mlr.press/v70/yang17e.html
+Testing Sparsity over Known and Unknown Bases	http://proceedings.mlr.press/v80/barman18a.html
+Text Alignment for Real-Time Crowd Captioning	https://www.aclweb.org/anthology/N13-1020/
+TextFlow: A Text Similarity Measure based on Continuous Sequences	https://doi.org/10.18653/v1/P17-1071
+The Alexa Meaning Representation Language	https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17326
+The Argument Reasoning Comprehension Task: Identification and Reconstruction of Implicit Warrants	https://doi.org/10.18653/v1/n18-1175
+The Best of Both Worlds: Combining Recent Advances in Neural Machine Translation	https://www.aclweb.org/anthology/P18-1008/
+The Dynamics of Learning: A Random Matrix Approach	http://proceedings.mlr.press/v80/liao18b.html
+The Galactic Dependencies Treebanks: Getting More Data by Synthesizing New Languages	http://arxiv.org/abs/1710.03838
+The Generalization Error of Dictionary Learning with Moreau Envelopes	http://proceedings.mlr.press/v80/georgogiannis18a.html
+The Impact of Modeling Overall Argumentation with Tree Kernels	https://doi.org/10.18653/v1/d17-1253
+The Importance of Being Recurrent for Modeling Hierarchical Structure	https://www.aclweb.org/anthology/D18-1503/
+The Influence of Context on Sentence Acceptability Judgements	https://www.aclweb.org/anthology/P18-2073/
+The Lazy Encoder: A Fine-Grained Analysis of the Role of Morphology in Neural Machine Translation	https://doi.org/10.18653/v1/d18-1313
+The Limits of Maxing, Ranking, and Preference Learning	http://proceedings.mlr.press/v80/falahatgar18a.html
+The Loss Surface of Deep and Wide Neural Networks	http://proceedings.mlr.press/v70/nguyen17a.html
+The Multilinear Structure of ReLU Networks	http://proceedings.mlr.press/v80/laurent18b.html
+The NarrativeQA Reading Comprehension Challenge	https://transacl.org/ojs/index.php/tacl/article/view/1197
+The Predictron: End-To-End Learning and Planning	http://proceedings.mlr.press/v70/silver17a.html
+The Price of Differential Privacy for Online Learning	http://proceedings.mlr.press/v70/agarwal17a.html
+The Role of Conversation Context for Sarcasm Detection in Online Interactions	https://doi.org/10.18653/v1/w17-5523
+The Role of Prosody and Speech Register in Word Segmentation: A Computational Modelling Perspective	https://doi.org/10.18653/v1/P17-2028
+The SENSEI Annotated Corpus: Human Summaries of Reader Comment Conversations in On-line News	https://doi.org/10.18653/v1/w16-3605
+The Shattered Gradients Problem: If resnets are the answer, then what is the question?	http://proceedings.mlr.press/v70/balduzzi17b.html
+The State of the Art in Semantic Representation	https://doi.org/10.18653/v1/P17-1008
+The Statistical Recurrent Unit	http://proceedings.mlr.press/v70/oliva17a.html
+The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems	https://doi.org/10.18653/v1/w15-4640
+The University of Alicante at MultiLing 2015: approach, results and further insights	https://doi.org/10.18653/v1/w15-4636
+The Web as a Knowledge-base for Answering Complex Questions	https://doi.org/10.18653/v1/n18-1059
+The Weighted Kendall and High-order Kernels for Permutations	http://proceedings.mlr.press/v80/jiao18a.html
+The Well-Tempered Lasso	http://proceedings.mlr.press/v80/li18f.html
+The glass ceiling in NLP	https://doi.org/10.18653/v1/d18-1301
+The strange geometry of skip-gram with negative sampling	https://doi.org/10.18653/v1/d17-1308
+Theoretical Analysis of Sparse Subspace Clustering with Missing Entries	http://proceedings.mlr.press/v80/tsakiris18a.html
+Theoretical Properties for Neural Networks with Weight Matrices of Low Displacement Rank	http://proceedings.mlr.press/v70/zhao17b.html
+Thompson Sampling for Combinatorial Semi-Bandits	http://proceedings.mlr.press/v80/wang18a.html
+Tied Multitask Learning for Neural Speech Translation	https://doi.org/10.18653/v1/n18-1008
+Tight Regret Bounds for Bayesian Optimization in One Dimension	http://proceedings.mlr.press/v80/scarlett18a.html
+Tighter Variational Bounds are Not Necessarily Better	http://proceedings.mlr.press/v80/rainforth18b.html
+To Attend or not to Attend: A Case Study on Syntactic Structures for Semantic Relatedness	https://www.aclweb.org/anthology/P18-1197/
+To Link or Not to Link? A Study on End-to-End Tweet Entity Linking	https://www.aclweb.org/anthology/N13-1122/
+To Understand Deep Learning We Need to Understand Kernel Learning	http://proceedings.mlr.press/v80/belkin18a.html
+Token-level and sequence-level loss smoothing for RNN language models	https://www.aclweb.org/anthology/P18-1195/
+Topic Identification and Discovery on Text and Speech	https://doi.org/10.18653/v1/d15-1285
+Topic Memory Networks for Short Text Classification	https://doi.org/10.18653/v1/d18-1351
+Topic-Based Agreement and Disagreement in US Electoral Manifestos	https://doi.org/10.18653/v1/d17-1318
+Topically Driven Neural Language Model	https://doi.org/10.18653/v1/P17-1033
+Topological Mixture Estimation	http://proceedings.mlr.press/v80/huntsman18a.html
+Toward Controlled Generation of Text	http://proceedings.mlr.press/v70/hu17e.html
+Toward Efficient and Accurate Covariance Matrix  Estimation on Compressed Data	http://proceedings.mlr.press/v70/chen17g.html
+Toward Fast and Accurate Neural Discourse Segmentation	https://doi.org/10.18653/v1/d18-1116
+Toward Zero-shot Entity Recognition in Task-oriented Conversational Agents	https://doi.org/10.18653/v1/w18-5036
+Toward incremental dialogue act segmentation in fast-paced interactive dialogue systems	https://doi.org/10.18653/v1/w16-3632
+Towards Binary-Valued Gates for Robust LSTM Training	http://proceedings.mlr.press/v80/li18c.html
+Towards Black-box Iterative Machine Teaching	http://proceedings.mlr.press/v80/liu18b.html
+Towards Debate Automation: a Recurrent Model for Predicting Debate Winners	https://doi.org/10.18653/v1/d17-1261
+Towards Decoding as Continuous Optimisation in Neural Machine Translation	https://doi.org/10.18653/v1/d17-1014
+Towards Dynamic Computation Graphs via Sparse Latent Structure	https://doi.org/10.18653/v1/d18-1108
+Towards End-to-End Learning for Dialog State Tracking and Management using Deep Reinforcement Learning	https://doi.org/10.18653/v1/w16-3601
+Towards End-to-End Prosody Transfer  for Expressive Speech Synthesis with Tacotron	http://proceedings.mlr.press/v80/skerry-ryan18a.html
+Towards End-to-End Reinforcement Learning of Dialogue Agents for Information Access	https://doi.org/10.18653/v1/P17-1045
+Towards Evaluating Narrative Quality In Student Writing	https://transacl.org/ojs/index.php/tacl/article/view/1237
+Towards Exploiting Background Knowledge for Building Conversation Systems	https://doi.org/10.18653/v1/d18-1255
+Towards Full Text Shallow Discourse Relation Annotation: Experiments with Cross-Paragraph Implicit Relations in the PDTB	https://doi.org/10.18653/v1/w17-5502
+Towards Less Generic Responses in Neural Conversation Models: A Statistical Re-weighting Method	https://doi.org/10.18653/v1/d18-1297
+Towards String-to-Tree Neural Machine Translation	https://doi.org/10.18653/v1/P17-2021
+Towards Understanding the Geometry of Knowledge Graph Embeddings	https://www.aclweb.org/anthology/P18-1012/
+Towards Universal Dialogue State Tracking	https://doi.org/10.18653/v1/d18-1299
+Towards a Discourse Relation-aware Approach for Chinese-English Machine Translation	https://doi.org/10.3115/v1/p14-3003
+Towards a General, Continuous Model of Turn-taking in Spoken Dialogue using LSTM Recurrent Neural Networks	https://doi.org/10.18653/v1/w17-5527
+Towards an Automatic Turing Test: Learning to Evaluate Dialogue Responses	https://doi.org/10.18653/v1/P17-1103
+Train-O-Matic: Large-Scale Supervised Word Sense Disambiguation in Multiple Languages without Manual Training Data	https://doi.org/10.18653/v1/d17-1008
+Trainable Calibration Measures For Neural Networks From Kernel Mean Embeddings	http://proceedings.mlr.press/v80/kumar18a.html
+Trainable Greedy Decoding for Neural Machine Translation	https://doi.org/10.18653/v1/d17-1210
+Training Classifiers with Natural Language Explanations	https://www.aclweb.org/anthology/P18-1175/
+Training Millions of Personalized Dialogue Agents	https://doi.org/10.18653/v1/d18-1298
+Training Structured Prediction Energy Networks with Indirect Supervision	https://doi.org/10.18653/v1/n18-2021
+Transfer Learning via Learning to Transfer	http://proceedings.mlr.press/v80/wei18a.html
+Transformation Networks for Target-Oriented Sentiment Classification	https://www.aclweb.org/anthology/P18-1087/
+Transition-Based Dependency Parsing with Heuristic Backtracking	https://doi.org/10.18653/v1/d16-1254
+Translating Neuralese	https://doi.org/10.18653/v1/P17-1022
+Triangular Architecture for Rare Language Translation	https://www.aclweb.org/anthology/P18-1006/
+Tropical Geometry of Deep Neural Networks	https://arxiv.org/abs/2002.08838
+Truth of Varying Shades: Analyzing Language in Fake News and Political Fact-Checking	https://doi.org/10.18653/v1/d17-1317
+Tunable Efficient Unitary Neural Networks (EUNN) and their application to RNNs	http://proceedings.mlr.press/v70/jing17a.html
+Twitter Universal Dependency Parsing for African-American and Mainstream American English	https://www.aclweb.org/anthology/P18-1131/
+Two Methods for Domain Adaptation of Bilingual Tasks: Delightfully Simple and Broadly Applicable	https://www.aclweb.org/anthology/P18-1075/
+Ultra-Fine Entity Typing	https://www.aclweb.org/anthology/P18-1009/
+Unbiased Objective Estimation in Predictive Optimization	http://proceedings.mlr.press/v80/ito18a.html
+Uncertainty Assessment and False Discovery Rate Control in High-Dimensional Granger Causal Inference	http://proceedings.mlr.press/v70/chaudhry17a.html
+Uncorrelation and Evenness: a New Diversity-Promoting Regularizer	http://proceedings.mlr.press/v70/xie17b.html
+Uncovering Causality from Multivariate Hawkes Integrated Cumulants	http://jmlr.org/papers/v18/17-284.html
+Understanding Black-box Predictions via Influence Functions	http://proceedings.mlr.press/v70/koh17a.html
+Understanding Deep Learning Performance through an Examination of Test Set Difficulty: A Psychometric Case Study	https://doi.org/10.18653/v1/d18-1500
+Understanding Generalization and Optimization Performance of Deep CNNs	http://proceedings.mlr.press/v80/zhou18a.html
+Understanding Language Preference for Expression of Opinion and Sentiment: What do Hindi-English Speakers do on Twitter?	https://doi.org/10.18653/v1/d16-1121
+Understanding Negation in Positive Terms Using Syntactic Dependencies	https://doi.org/10.18653/v1/d16-1119
+Understanding Satirical Articles Using Common-Sense	https://transacl.org/ojs/index.php/tacl/article/view/871
+Understanding Synthetic Gradients and Decoupled Neural Interfaces	http://proceedings.mlr.press/v70/czarnecki17a.html
+Understanding Task Design Trade-offs in Crowdsourced Paraphrase Collection	https://doi.org/10.18653/v1/P17-2017
+Understanding and Detecting Supporting Arguments of Diverse Types	http://arxiv.org/abs/1705.00045
+Understanding the Loss Surface of Neural Networks for Binary Classification	https://openreview.net/forum?id=BJ_UWIJwM
+Unfolding and Shrinking Neural Machine Translation Ensembles	https://doi.org/10.18653/v1/d17-1208
+Unified Pragmatic Models for Generating and Following Instructions	https://doi.org/10.18653/v1/n18-1177
+Uniform Convergence Rates for Kernel Density Estimation	http://proceedings.mlr.press/v70/jiang17b.html
+Uniform Deviation Bounds for k-Means Clustering	http://proceedings.mlr.press/v70/bachem17a.html
+Unifying Task Specification in Reinforcement Learning	http://proceedings.mlr.press/v70/white17a.html
+Unifying Text, Metadata, and User Network Representations with a Neural Network for Geolocation Prediction	https://doi.org/10.18653/v1/P17-1116
+Unimodal Probability Distributions for Deep Ordinal Classification	http://proceedings.mlr.press/v70/beckham17a.html
+Universal Neural Machine Translation for Extremely Low Resource Languages	https://doi.org/10.18653/v1/n18-1032
+Unpaired Sentiment-to-Sentiment Translation: A Cycled Reinforcement Learning Approach	https://www.aclweb.org/anthology/P18-1090/
+Unsupervised Acquisition of Comprehensive Multiword Lexicons using Competition in an n-gram Lattice	https://transacl.org/ojs/index.php/tacl/article/view/1186
+Unsupervised Bilingual Lexicon Induction via Latent Variable Models	https://doi.org/10.18653/v1/d18-1062
+Unsupervised Counselor Dialogue Clustering for Positive Emotion Elicitation in Neural Dialogue System	https://doi.org/10.18653/v1/w18-5017
+Unsupervised Cross-lingual Transfer of Word Embedding Spaces	https://doi.org/10.18653/v1/d18-1268
+Unsupervised Discrete Sentence Representation Learning for Interpretable Neural Dialog Generation	https://www.aclweb.org/anthology/P18-1101/
+Unsupervised Grammar Induction with Depth-bounded PCFG	https://transacl.org/ojs/index.php/tacl/article/view/1290
+Unsupervised Identification of Translationese	http://arxiv.org/abs/1609.03205
+Unsupervised Induction of Semantic Roles within a Reconstruction-Error Minimization Framework	https://doi.org/10.3115/v1/n15-1001
+Unsupervised Learning of Distributional Relation Vectors	https://www.aclweb.org/anthology/P18-1003/
+Unsupervised Learning of Morphological Forests	https://transacl.org/ojs/index.php/tacl/article/view/1039
+Unsupervised Learning of Syntactic Structure with Invertible Neural Projections	https://doi.org/10.18653/v1/d18-1160
+Unsupervised Neural Machine Translation with Weight Sharing	https://www.aclweb.org/anthology/P18-1005/
+Unsupervised Statistical Machine Translation	http://arxiv.org/abs/1810.12703
+Unsupervised Timeline Generation for Wikipedia History Articles	https://doi.org/10.18653/v1/d16-1259
+Using Automated Metaphor Identification to Aid in Detection and Prediction of First-Episode Schizophrenia	https://doi.org/10.18653/v1/d17-1316
+Using Left-corner Parsing to Encode Universal Structural Constraints in Grammar Induction	https://doi.org/10.18653/v1/d16-1004
+Using Lexical Alignment and Referring Ability to Address Data Sparsity in Situated Dialog Reference Resolution	https://doi.org/10.18653/v1/d18-1252
+Using Linguistic Features to Improve the Generalization Capability of Neural Coreference Resolvers	https://doi.org/10.18653/v1/d18-1018
+Using Out-of-Domain Data for Lexical Addressee Detection in Human-Human-Computer Dialog	https://www.aclweb.org/anthology/N13-1022/
+Using Personal Traits For Brand Preference Prediction	https://doi.org/10.18653/v1/d15-1009
+Using Reinforcement Learning to Model Incrementality in a Fast-Paced Dialogue Game	https://doi.org/10.18653/v1/w17-5539
+Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm	https://doi.org/10.18653/v1/d17-1169
+Using pseudo-senses for improving the extraction of synonyms from word embeddings	https://www.aclweb.org/anthology/P18-2056/
+VERB PHYSICS: Relative Physical Knowledge of Actions and Objects	https://doi.org/10.18653/v1/P17-1025
+Valency-Augmented Dependency Parsing	https://doi.org/10.18653/v1/d18-1159
+Vancouver Welcomes You! Minimalist Location Metonymy Resolution	https://doi.org/10.18653/v1/P17-1115
+Variable Typing: Assigning Meaning to Variables in Mathematical Text	https://doi.org/10.18653/v1/n18-1028
+Variable-Length Word Encodings for Neural Translation Models	https://doi.org/10.18653/v1/d15-1249
+Variational Autoregressive Decoder for Neural Response Generation	https://doi.org/10.18653/v1/d18-1354
+Variational Bayesian dropout: pitfalls and fixes	http://proceedings.mlr.press/v80/hron18a.html
+Variational Boosting: Iteratively Refining Posterior Approximations	http://proceedings.mlr.press/v70/miller17a.html
+Variational Dropout Sparsifies Deep Neural Networks	http://proceedings.mlr.press/v70/molchanov17a.html
+Variational Inference and Model Selection  with Generalized Evidence Bounds	http://proceedings.mlr.press/v80/chen18k.html
+Variational Inference for Sparse and Undirected Models	http://proceedings.mlr.press/v70/ingraham17a.html
+Variational Knowledge Graph Reasoning	https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16983
+Variational Network Inference: Strong and Stable with Concrete Support	http://proceedings.mlr.press/v80/dezfouli18a.html
+Variational Policy for Guiding Point Processes	http://proceedings.mlr.press/v70/wang17k.html
+Variational Sequential Labelers for Semi-Supervised Learning	http://arxiv.org/abs/1906.09535
+Verbal and Nonverbal Clues for Real-life Deception Detection	https://doi.org/10.18653/v1/d15-1281
+Video Prediction with Appearance and Motion Conditions	http://proceedings.mlr.press/v80/jang18a.html
+Visual Attention Model for Name Tagging in Multimodal Social Media	https://www.aclweb.org/anthology/P18-1185/
+Visualizing and Understanding Neural Machine Translation	https://doi.org/10.18653/v1/P17-1106
+Visually Grounded and Textual Semantic Models Differentially Decode Brain Activity Associated with Concrete and Abstract Nouns	https://transacl.org/ojs/index.php/tacl/article/view/879
+WHInter: A Working set algorithm for High-dimensional sparse second order Interaction models	http://proceedings.mlr.press/v80/morvan18a.html
+WIKIQA: A Challenge Dataset for Open-Domain Question Answering	https://doi.org/10.18653/v1/d15-1237
+Weakly Consistent Optimal Pricing Algorithms in Repeated Posted-Price Auctions with Strategic Buyer	http://proceedings.mlr.press/v80/drutsa18a.html
+Weakly Submodular Maximization Beyond Cardinality Constraints: Does Randomization Help Greedy?	http://proceedings.mlr.press/v80/chen18b.html
+Weakly Supervised Semantic Parsing with Abstract Examples	https://www.aclweb.org/anthology/P18-1168/
+What Action Causes This? Towards Naive Physical Action-Effect Prediction	https://www.aclweb.org/anthology/P18-1086/
+What Makes Reading Comprehension Questions Easier?	https://doi.org/10.18653/v1/d18-1453
+What Your Username Says About You	https://doi.org/10.18653/v1/d15-1240
+What do Neural Machine Translation Models Learn about Morphology?	https://doi.org/10.18653/v1/P17-1080
+What makes a convincing argument? Empirical analysis and detecting attributes of convincingness in Web argumentation	https://doi.org/10.18653/v1/d16-1129
+What we need to learn if we want to do and not just talk	https://doi.org/10.18653/v1/n18-3004
+What you can cram into a single $&!#* vector: Probing sentence embeddings for linguistic properties	https://www.aclweb.org/anthology/P18-1198/
+When Are Tree Structures Necessary for Deep Learning of Representations?	https://doi.org/10.18653/v1/d15-1278
+When can Multi-Site Datasets be Pooled for Regression? Hypothesis Tests, 2-consistency and Neuroscience Applications	http://proceedings.mlr.press/v70/zhou17c.html
+When do we laugh?	https://doi.org/10.18653/v1/w16-3645
+Where is Misty? Interpreting Spatial Descriptors by Modeling Regions in Space	https://doi.org/10.18653/v1/d17-1015
+Which Melbourne? Augmenting Geocoding with Maps	https://www.aclweb.org/anthology/P18-1119/
+Which Step Do I Take First? Troubleshooting with Bayesian Models	https://tacl2013.cs.columbia.edu/ojs/index.php/tacl/article/view/440
+Who did What: A Large-Scale Person-Centered Cloze Dataset	https://doi.org/10.18653/v1/d16-1241
+Whodunnit? Crime Drama as a Case for Natural Language Understanding	https://transacl.org/ojs/index.php/tacl/article/view/1282
+Why Neural Translations are the Right Length	https://doi.org/10.18653/v1/d16-1248
+Why Self-Attention? A Targeted Evaluation of Neural Machine Translation Architectures	https://doi.org/10.18653/v1/d18-1458
+Why Swear? Analyzing and Inferring the Intentions of Vulgar Expressions	https://www.aclweb.org/anthology/D18-1471/
+Why is unsupervised alignment of English embeddings from different algorithms so hard?	https://doi.org/10.18653/v1/d18-1056
+WikiConv: A Corpus of the Complete Conversational History of a Large Online Collaborative Community	https://doi.org/10.18653/v1/d18-1305
+Winning on the Merits: The Joint Effects of Content and Style on Debate Outcomes	https://transacl.org/ojs/index.php/tacl/article/view/1009
+Word Embedding and WordNet Based Metaphor Identification and Interpretation	https://www.aclweb.org/anthology/P18-1113/
+Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem	https://doi.org/10.18653/v1/n18-1173
+Word Ordering Without Syntax	https://doi.org/10.18653/v1/d16-1255
+Working Memory Networks: Augmenting Memory Networks with a Relational Reasoning Module	https://www.aclweb.org/anthology/P18-1092/
+World of Bits: An Open-Domain Platform for Web-Based Agents	http://proceedings.mlr.press/v70/shi17a.html
+XNLI: Evaluating Cross-lingual Sentence Representations	https://doi.org/10.18653/v1/d18-1269
+Yes, but Did It Work?: Evaluating Variational Inference	http://proceedings.mlr.press/v80/yao18a.html
+Zero-Shot Dialog Generation with Cross-Domain Latent Actions	https://doi.org/10.18653/v1/w18-5001
+Zero-Shot Task Generalization with Multi-Task Deep Reinforcement Learning	http://proceedings.mlr.press/v70/oh17a.html
+Zero-Shot Transfer Learning for Event Extraction	https://www.aclweb.org/anthology/P18-1201/
+Zero-shot User Intent Detection via Capsule Neural Networks	https://doi.org/10.18653/v1/d18-1348
+Zeroshot Multimodal Named Entity Disambiguation for Noisy Social Media Posts	https://www.aclweb.org/anthology/P18-1186/
+ZipML: Training Linear Models with End-to-End Low Precision, and a Little Bit of Deep Learning	http://proceedings.mlr.press/v70/zhang17e.html
+Zipporah: a Fast and Scalable Data Cleaning System for Noisy Web-Crawled Parallel Corpora	https://doi.org/10.18653/v1/d17-1319
+Zonotope Hit-and-run for Efficient Sampling from Projection DPPs	http://proceedings.mlr.press/v70/gautier17a.html
+diaNED: Time-Aware Named Entity Disambiguation for Diachronic Corpora	https://www.aclweb.org/anthology/P18-2109/
+emrQA: A Large Corpus for Question Answering on Electronic Medical Records	https://doi.org/10.18653/v1/d18-1258
+iSurvive: An Interpretable, Event-time Prediction Model for mHealth	http://proceedings.mlr.press/v70/dempsey17a.html
+meProp: Sparsified Back Propagation for Accelerated Deep Learning with Reduced Overfitting	http://proceedings.mlr.press/v70/sun17c.html
+oi-VAE: Output Interpretable VAEs for Nonlinear Group Factor Analysis	http://proceedings.mlr.press/v80/ainsworth18a.html
+simNet: Stepwise Image-Topic Merging Network for Generating Detailed and Comprehensive Image Captions	https://doi.org/10.18653/v1/d18-1013
