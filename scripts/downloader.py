@@ -13,6 +13,7 @@ OUTPUT_DIR = '/path/to/out/folder'
 
 def url_response(url):
     name, url = url
+    name = str(name)
     if not os.path.isfile(os.path.join(OUTPUT_DIR, name + ".pdf")):
         try:
             r = requests.get(url, stream = True)
