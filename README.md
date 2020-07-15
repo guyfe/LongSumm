@@ -1,13 +1,13 @@
 # LongSumm
-A Shared Task at [EMNLP 2020](https://2020.emnlp.org) that focuses on generating long summaries for scientific documents. LongSumm is one of three shared tasks conducted as part of: [1st Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/)
+A Shared Task at [EMNLP 2020](https://2020.emnlp.org) that focuses on generation of long summaries for scientific documents. LongSumm is one of three shared tasks conducted as part of: [1st Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/)
 
 # LongSumm - Overview
 
-Most of the work on scientific document summarization focuses on generating relatively short summaries (abstract like). While such a length constraint can be sufficient for summarizing news articles, it is far from sufficient for summarizing scientific work. In fact, such a short summary resembles more to an abstract than to a summary that aims to cover all the salient information conveyed in a given text. Writing such summaries requires expertise and a deep understanding in a scientific domain, as can be found in some researchers blogs.
+Most of the work on scientific document summarization focuses on generating relatively short summaries. Such a length constraint might be appropriate when summarizing news articles but it is less adequate for scientific work. In fact, such a short summary resembles an abstract and cannot cover all the salient information conveyed in a given scientific text. Writing longer summaries requires expertise and a deep understanding in a scientific domain, as can be found in some researchers blogs.
 
-The LongSumm task opted to leverage blogs created by researchers in the NLP and Machine learning communities and use these summaries as reference summaries to compare the submissions against.  
+To address this point, the LongSumm task opted to leverage blog posts created by researchers in the NLP and Machine learning communities that summarize scientific articles and use these posts as reference summaries.  
 
-The corpus for this task includes a training set that consists of 1705 extractive summaries, and 531 abstractive summaries of NLP and Machine Learning scientific papers. These are drawn from papers based on video talks from associated conferences (Lev et al. 2019 TalkSumm) and from blogs created by NLP and ML researchers. In addition, we create a test set of abstractive summaries. Each submission is judged against one reference summary (gold summary) on ROUGE and should not exceed 600 words.
+The corpus for this task includes a training set that consists of 1705 extractive summaries, and 531 abstractive summaries of NLP and Machine Learning scientific papers. The extractive summaries are based on video talks from associated conferences (Lev et al. 2019 TalkSumm) while the abstractive summaries are blog posts created by NLP and ML researchers. In addition, we created a test set of abstractive summaries for testing submissions. Each submission is judged against one reference summary (gold summary) using ROUGE and should not exceed 600 words.
 
 The [1st Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/) will include two additional shared tasks: 
 -  [Scisumm](https://github.com/WING-NUS/scisumm-corpus) - focuses on automatic paper summarization on a new corpus of research papers in Computational Linguistics (CL) domain
@@ -16,16 +16,16 @@ The [1st Workshop on Scholarly Document Processing](https://ornlcda.github.io/SD
 
 
 # LongSumm - Data and Instructions
-You are invited to participate in the LongSumm Shared Task at [SDP@EMNLP 2020](https://2020.emnlp.org). This repository contains a dataset and instructions how to participate in the task.
+You are invited to participate in the LongSumm Shared Task at [SDP@EMNLP 2020](https://2020.emnlp.org). This repository contains the dataset and instructions on how to participate in the task.
 
 ## Training Data
 The training data is composed of abstractive and extractive summaries.
 
 
 ### Abstractive Summaries:
-The abstractive summaries are of different domains of CS including ML, NLP, AI, vision, storage, etc.
+The abstractive summaries are from different domains of CS including ML, NLP, AI, vision, storage, etc.
 
-The training data contains around 700 abstractive summaries that can be found at data/abstractive/cluster. The folder contains clusters of summaries with length varied between 100-1500 words. Each sub-folder clusters into bins of size 100 words.  (i.e., summary of 541 words will appear in the corresponding cluster of 500-600). We used the Python [NLTK](https://www.nltk.org) library to count number of words and to segment summary text into sentences.  
+The training data contains around 700 abstractive summaries that can be found at data/abstractive/cluster. The folder contains clusters of summaries with length varying between 100-1500 words. Each sub-folder clusters into bins of size 100 words.  (i.e., summary of 541 words will appear in the corresponding cluster of 500-600). We used the Python [NLTK](https://www.nltk.org) library to count the number of words and to segment summary text into sentences.  
 
 <!--***We release the data in three cycles, today ~~(Feb 15, 2020)~~ (Feb 25, 2020) we release the first ~~249~~ 516 summaries*** -->
 
@@ -62,7 +62,7 @@ Example: 
 ```
 
 
-Each papers' summary should be linked the corresponding text of the original paper. Due to copyright will not publish the original papers, here are the suggested steps to fully construct the dataset:
+Each papers' summary should be linked the corresponding text of the original paper. Due to copyright restrictions will not publish the original papers, here are the suggested steps to fully construct the dataset:
 
 * Extract PDF - to download the PDF of each paper, one can use the following script : [downloader.py](https://github.com/guyfe/LongSumm/blob/master/scripts/downloader.py). The output of this scripts is the papers PDFs by their IDs, under the out_folder.
    
@@ -98,17 +98,79 @@ If you wish to create extractive summaries of a paper that doesn't not exist in 
 
 
 ## Test Data (Blind)
-To be released on July 1, 2020
+
+There are 22 papers for the test set, as listed below.
+
+| Paper id   | Paper title                                                                                                      | Paper link                                                                                                                           |
+|------|------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| 1000 | Unsupervised Part-of-Speech Tagging with Bilingual Graph-Based Projections               | https://www.aclweb.org/anthology/P11-1061.pdf                                                                                          |
+| 1001 | RNN Fisher Vectors for Action Recognition and Image Annotation              | https://arxiv.org/pdf/1512.03958.pdf                                                                                        |
+| 1002 | TALK SUMM: A Dataset and Scalable Annotation Method for Scientific Paper Summarization Based on Conference Talks | https://arxiv.org/pdf/1906.01351.pdf                                                                                           |
+| 1003 | Emotion Detection from Text via Ensemble Classification Using Word Embeddings                                    | https://dl.acm.org/doi/pdf/10.1145/3121050.3121093                                                                             |
+| 1004 | Classifying Emotions in Customer Support Dialogues in Social Media                                               | https://www.aclweb.org/anthology/W16-3609.pdf                                                                                  |
+| 1005 | MetAdapt: Meta-Learned Task-Adaptive Architecture for Few-Shot Classification                                    | https://arxiv.org/pdf/1912.00412.pdf                                                                                           |
+| 1006 | Detecting Egregious Conversations between Customers and Virtual Agents                                           | https://www.aclweb.org/anthology/N18-1163.pdf                                                                                  |
+| 1007 | Understanding Convolutional Neural Networks for Text Classification                                              | https://www.aclweb.org/anthology/W18-5408.pdf                                                                                  |
+| 1008 | An Editorial Network for Enhanced Document Summarization | https://www.aclweb.org/anthology/D19-5407.pdf
+| 1009 | DIMSIM: An Accurate Chinese Phonetic Similarity Algorithm Based on Learned High Dimensional Encoding             | https://www.aclweb.org/anthology/K18-1043.pdf                                                                                  |
+| 1010 | Improved Neural Relation Detection for Knowledge Base Question Answering                                         | https://www.aclweb.org/anthology/P17-1053.pdf                                                                                  |
+| 1011 | Interactive Dictionary Expansion using Neural Language Models                                                    | http://ceur-ws.org/Vol-2169/paper-02.pdf                                                                                       |
+| 1012 | Interpretable and Globally Optimal Prediction for Textual Grounding using Image Concepts                         | https://papers.nips.cc/paper/6787-interpretable-and-globally-optimal-prediction-for-textual-grounding-using-image-concepts.pdf |
+| 1013 | Learning Implicit Generative Models by Matching Perceptual Features                                              | https://arxiv.org/pdf/1904.02762.pdf                                                                                           |
+| 1014 | Scalable Demand-Aware Recommendation                                                                             | http://papers.nips.cc/paper/6835-scalable-demand-aware-recommendation.pdf                                                      |
+| 1015 | Neural Response Generation for Customer Service based on Personality Traits                                      | https://www.aclweb.org/anthology/W17-3541.pdf
+| 1016 | A Low Power, High Throughput, Fully Event-Based Stereo System | https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3791.pdf
+| 1017 | Characterization and Learning of Causal Graphs with Latent Variables from Soft Interventions | https://papers.nips.cc/paper/9581-characterization-and-learning-of-causal-graphs-with-latent-variables-from-soft-interventions.pdf
+| 1018 | Complex Program Induction for Querying Knowledge Bases in the Absence of Gold Programs | https://www.aclweb.org/anthology/Q19-1012.pdf
+| 1019 | Unsupervised Dual-Cascade Learning with Pseudo-Feedback Distillation for Query-based Extractive Summarization | https://arxiv.org/pdf/1811.00436
+| 1020 | High quality, lightweight and adaptable TTS using LPCNet | https://arxiv.org/pdf/1905.00590
+| 1021 | Sobolev Independence Criterion | https://arxiv.org/pdf/1910.14212.pdf
+
+
 
 
 ## Evaluation
-The intrinsic evaluation will be done by ROUGE, using ROUGE-1, -2, -L and Skipgram metrics. In addition, a randomly selected subset of the summaries will undergo human evaluation.
+The intrinsic evaluation will be done by ROUGE, using ROUGE-1, -2, -L metrics. In addition, a randomly selected subset of the summaries will undergo human evaluation.
 
 ## Submission
-To be announced soon
+
+### Format
+The submission should be **a single json file** containing all summaries, following the format:
+
+```json
+{
+"paper_id_1":"summary of paper 1",
+"paper_id_2":"summary of the paper 2"
+}
+```
+
+### Leaderboard
+In order to submit you will need to follow these steps:
+1. Create an IBM account at ibm.com (https://tinyurl.com/ydcd6hjg). Please use the email account that you registered to the task.
+2. Login to the AI Leaderboard (https://aieval.draco.res.ibm.com/) with your IBM account
+
+AI Leaderboard instructions:
+1. Choose "Participate"
+2. Choose "Participant Teams" and create a new participant team - use a meaningful name for your group as this is the name that will appear in the leaderboard. 
+3. Go to "All Challenges" and find our task "Long Scientific Document Summarization" , and click on "View Details"
+4. To submit go the the "Participate" tab, select a team, click on "Next" and accept the Terms & Condisiton. (this step is done only once). In case that you are not able to click on "Next" please press refresh that page (Ctrl+Shift+R or Cmnd+Shift+r)
+5. Go to the "Submit" tab, there you can upload the json file, describe the submission, and press "Submit". 
+5. To view your submission(s) go to the "My Submissions". There you can see all your submissions, their status (Finished/Failed), links to some logs, and results. Finally in case that you want your submission to appear in the leaderboard you will need to check "Show on leaderboard".
+6. Finally, in order to see the leaderboard go to the "Leaderboard" tab.
+
+* Firefox and Chrome browsers are supported
+* In any case that you seems not to see submission/results on leaderboard press refresh that page (Ctrl+Shift+R or Cmnd+Shift+r)
+
+
+### Rules
+- You can submit up to 25 runs.
+
+### Submission Disclaimer
+You should only submit summaries that are part of the test data. Please do not submit any confidential or personal information.
+Please see the IBM Terms of use  (https://www.ibm.com/legal)
 
 ## Credits
-We would like to thank the following blog authors and to [ShortScience.org](https://www.shortscience.org) who generosity allowed us to share the content as part of this dataset.  
+We would like to thank the following blog authors and to [ShortScience.org](https://www.shortscience.org) who genereously allowed us to share the content as part of this dataset.  
 
 * Shagun Sodhani  [https://github.com/shagunsodhani/papers-I-read](https://github.com/shagunsodhani/papers-I-read)
 * Patrick Emami   [https://pemami4911.github.io/index.html](https://pemami4911.github.io/index.html)
