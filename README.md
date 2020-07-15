@@ -144,6 +144,9 @@ The submission should be **a single json file** containing all summaries, follow
 }
 ```
 
+### Evaluation Script
+https://github.com/guyfe/LongSumm/blob/master/scripts/evaluation_script.py
+
 ### Leaderboard
 In order to submit you will need to follow these steps:
 1. Create an IBM account at ibm.com (https://tinyurl.com/ydcd6hjg). Please use the email account that you registered to the task.
