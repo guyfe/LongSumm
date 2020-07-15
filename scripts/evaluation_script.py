@@ -21,7 +21,6 @@ def impose_max_length(summary_text, max_tokens=600):
     tokens = tokens[0:min(max_tokens, len(tokens))]
     return " ".join(tokens)
 
-
 def evaluate_rouge(test_annotation_file, user_submission_file):
     metrics = ['rouge1', 'rouge2', 'rougeL']
     with open(test_annotation_file) as f1:
@@ -40,12 +39,12 @@ def evaluate_rouge(test_annotation_file, user_submission_file):
             for article_id, ground_truth_summary in ground_truth_data.items():
                 submission_summary = submission_data.get(article_id)
 
-                submission_summary = impose_max_length(submission_summary)
-                ground_truth_summary = impose_max_length(ground_truth_summary)
-
                 if not submission_summary:
                     print("paper with id '" + str(article_id) + "' wasn't found in submission", file=sys.stderr)
                     raise Exception("article with id '" + str(article_id) + "' wasn't found in submission")
+
+                submission_summary = impose_max_length(submission_summary)
+                ground_truth_summary = impose_max_length(ground_truth_summary)
 
                 print("evaluating summary for article with id `"+article_id+"'")
                 scores = scorer.score(ground_truth_summary.strip(), submission_summary.strip())
@@ -78,4 +77,4 @@ def evaluate(test_annotation_file, user_submission_file, phase_codename, **kwarg
 
 if __name__ == "__main__":
     # execute only if run as a script
-    #evaluate('../annotations/test_annotations_testsplit.json', '../annotations/test_submission_testsplit.json')
+    evaluate('../annotations/test_annotations_testsplit.json', '../annotations/test_submission_testsplit.json')
