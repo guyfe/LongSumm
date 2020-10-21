@@ -164,6 +164,10 @@ AI Leaderboard instructions:
 * Firefox and Chrome browsers are supported
 * In any case that you seems not to see submission/results on leaderboard press refresh that page (Ctrl+Shift+R or Cmnd+Shift+r)
 
+### LongSumm 2020 Results
+
+https://aieval.draco.res.ibm.com/challenge/39/leaderboard/39
+
 
 ### Rules
 - You can submit up to 25 runs.
