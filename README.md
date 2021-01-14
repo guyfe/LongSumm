@@ -1,5 +1,5 @@
 # LongSumm
-A Shared Task at [EMNLP 2020](https://2020.emnlp.org) that focuses on generation of long summaries for scientific documents. LongSumm is one of three shared tasks conducted as part of: [1st Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/)
+A Shared Task at [NAACL 2021](https://2021.naacl.org/) that focuses on generation of long summaries for scientific documents. LongSumm is one of three shared tasks conducted as part of: [2nd Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/)
 
 # LongSumm - Overview
 
@@ -16,7 +16,7 @@ The [1st Workshop on Scholarly Document Processing](https://ornlcda.github.io/SD
 
 
 # LongSumm - Data and Instructions
-You are invited to participate in the LongSumm Shared Task at [SDP@EMNLP 2020](https://2020.emnlp.org). This repository contains the dataset and instructions on how to participate in the task.
+You are invited to participate in the LongSumm Shared Task at [SDP@NAACL 2021](https://2021.naacl.org/). This repository contains the dataset and instructions on how to participate in the task.
 
 ## Training Data
 The training data is composed of abstractive and extractive summaries.
