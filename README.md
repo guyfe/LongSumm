@@ -173,6 +173,16 @@ https://aieval.draco.res.ibm.com/challenge/39/leaderboard/39
 ### Rules
 - You can submit up to 25 runs.
 
+### Timeline
+- Train & public test set release – December 14, 2020 (registration opens)
+- Blind test set release – February 19, 2021
+- Blind test set runs due – February 26, 2021 (registration closes)
+- Final evaluation results published – March 1, 2021
+- All paper submissions due – March 15, 2021
+- Notification of acceptance – April 15, 2021
+- Camera-ready papers due – April 26, 2021
+- Workshop – June 10, 2020
+
 ### Submission Disclaimer
 You should only submit summaries that are part of the test data. Please do not submit any confidential or personal information.
 Please see the IBM Terms of use  (https://www.ibm.com/legal)
