@@ -9,9 +9,10 @@ To address this point, the LongSumm task opted to leverage blog posts created by
 
 The corpus for this task includes a training set that consists of 1705 extractive summaries, and 531 abstractive summaries of NLP and Machine Learning scientific papers. The extractive summaries are based on video talks from associated conferences (Lev et al. 2019 TalkSumm) while the abstractive summaries are blog posts created by NLP and ML researchers. In addition, we created a test set of abstractive summaries for testing submissions. Each submission is judged against one reference summary (gold summary) using ROUGE and should not exceed 600 words.
 
-The [1st Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/) will include two additional shared tasks: 
--  [Scisumm](https://github.com/WING-NUS/scisumm-corpus) - focuses on automatic paper summarization on a new corpus of research papers in Computational Linguistics (CL) domain
-- LaySumm - focuses on enabling systems to automatically generate lay summaries. A lay summary explains, succinctly and without using technical jargon, what the overall scope, goal and potential impact of a scientific paper is.
+<!--The [1st Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/) will include two additional shared tasks: 
+-  [Scisumm](https://github.com/WING-NUS/scisumm-corpus) - focuses on automatic paper summarization on a new corpus of research papers in Computational Linguistics (CL) domain -->
+<!--
+- LaySumm - focuses on enabling systems to automatically generate lay summaries. A lay summary explains, succinctly and without using technical jargon, what the overall scope, goal and potential impact of a scientific paper is.-->
 
 
 
