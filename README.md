@@ -1,6 +1,13 @@
 # LongSumm
 A Shared Task at [NAACL 2021](https://2021.naacl.org/) that focuses on generation of long summaries for scientific documents. LongSumm is one of three shared tasks conducted as part of: [2nd Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/)
 
+### Important accountments : 
+
+- <font color="red"> Based on request form several teams the blind test set runs are now due by March 1, 2021 (AoE): see https://github.com/guyfe/LongSumm#timeline </font>
+- Please do not forget to select one of your submissions to appear in the leaderboard. 
+- Participant teams are asked to send us an email with the team name and contact details of at least one corresponding author. 
+
+
 # LongSumm - Overview
 
 Most of the work on scientific document summarization focuses on generating relatively short summaries. Such a length constraint might be appropriate when summarizing news articles but it is less adequate for scientific work. In fact, such a short summary resembles an abstract and cannot cover all the salient information conveyed in a given scientific text. Writing longer summaries requires expertise and a deep understanding in a scientific domain, as can be found in some researchers blogs.
@@ -176,7 +183,8 @@ https://aieval.draco.res.ibm.com/challenge/39/leaderboard/39
 ### Timeline
 - Train & public test set release – December 14, 2020 (registration opens)
 - Blind test set release – February 19, 2021
-- Blind test set runs due – February 26, 2021 (registration closes)
+<del> - Blind test set runs due – February 26, 2021 (registration closes)</del>
+- Blind test set runs due – March 1, 2021 (registration closes)
 - Final evaluation results published – March 1, 2021
 - All paper submissions due – March 15, 2021
 - Notification of acceptance – April 15, 2021
