@@ -1,9 +1,9 @@
 # LongSumm
 A Shared Task at [NAACL 2021](https://2021.naacl.org/) that focuses on generation of long summaries for scientific documents. LongSumm is one of three shared tasks conducted as part of: [2nd Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/)
 
-### Important accountments : 
+### Important announcements (February 25, 2021) : 
 
-- <font color="red"> Based on request form several teams the blind test set runs are now due by March 1, 2021 (AoE): see https://github.com/guyfe/LongSumm#timeline </font>
+-  Based on request form several teams the blind test set runs are now due by March 1, 2021 (AoE): see https://github.com/guyfe/LongSumm#timeline </font>
 - Please do not forget to select one of your submissions to appear in the leaderboard. 
 - Participant teams are asked to send us an email with the team name and contact details of at least one corresponding author. 
 
