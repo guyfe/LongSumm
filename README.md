@@ -183,7 +183,7 @@ https://aieval.draco.res.ibm.com/challenge/39/leaderboard/39
 ### Timeline
 - Train & public test set release – December 14, 2020 (registration opens)
 - Blind test set release – February 19, 2021
-<del> - Blind test set runs due – February 26, 2021 (registration closes)</del>
+~~- Blind test set runs due – February 26, 2021 (registration closes)~~
 - Blind test set runs due – March 1, 2021 (registration closes)
 - Final evaluation results published – March 1, 2021
 - All paper submissions due – March 15, 2021
