@@ -1,6 +1,22 @@
 # LongSumm
 A Shared Task at [NAACL 2021](https://2021.naacl.org/) that focuses on generation of long summaries for scientific documents. LongSumm is one of three shared tasks conducted as part of: [2nd Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/)
 
+
+### Important announcements (February 25, 2021) : 
+
+-  Based on request form several teams the blind test set runs are now due by March 1, 2021 (AoE): see https://github.com/guyfe/LongSumm#timeline </font>
+- Please do not forget to select one of your submissions to appear in the leaderboard. 
+- Participant teams are asked to send us an email with the team name and contact details of at least one corresponding author. 
+
+
+# LongSumm - Overview
+
+Most of the work on scientific document summarization focuses on generating relatively short summaries. Such a length constraint might be appropriate when summarizing news articles but it is less adequate for scientific work. In fact, such a short summary resembles an abstract and cannot cover all the salient information conveyed in a given scientific text. Writing longer summaries requires expertise and a deep understanding in a scientific domain, as can be found in some researchers blogs.
+
+To address this point, the LongSumm task opted to leverage blog posts created by researchers in the NLP and Machine learning communities that summarize scientific articles and use these posts as reference summaries.  
+
+The corpus for this task includes a training set that consists of 1705 extractive summaries, and 531 abstractive summaries of NLP and Machine Learning scientific papers. The extractive summaries are based on video talks from associated conferences (Lev et al. 2019 TalkSumm) while the abstractive summaries are blog posts created by NLP and ML researchers. In addition, we created a test set of abstractive summaries for testing submissions. Each submission is judged against one reference summary (gold summary) using ROUGE and should not exceed 600 words.
+
 If you use this dataset in your work, please cite our paper:
 ```
 @inproceedings{chandrasekaran-etal-2020-overview-insights,
@@ -22,20 +38,6 @@ If you use this dataset in your work, please cite our paper:
 }
 ```
 
-### Important announcements (February 25, 2021) : 
-
--  Based on request form several teams the blind test set runs are now due by March 1, 2021 (AoE): see https://github.com/guyfe/LongSumm#timeline </font>
-- Please do not forget to select one of your submissions to appear in the leaderboard. 
-- Participant teams are asked to send us an email with the team name and contact details of at least one corresponding author. 
-
-
-# LongSumm - Overview
-
-Most of the work on scientific document summarization focuses on generating relatively short summaries. Such a length constraint might be appropriate when summarizing news articles but it is less adequate for scientific work. In fact, such a short summary resembles an abstract and cannot cover all the salient information conveyed in a given scientific text. Writing longer summaries requires expertise and a deep understanding in a scientific domain, as can be found in some researchers blogs.
-
-To address this point, the LongSumm task opted to leverage blog posts created by researchers in the NLP and Machine learning communities that summarize scientific articles and use these posts as reference summaries.  
-
-The corpus for this task includes a training set that consists of 1705 extractive summaries, and 531 abstractive summaries of NLP and Machine Learning scientific papers. The extractive summaries are based on video talks from associated conferences (Lev et al. 2019 TalkSumm) while the abstractive summaries are blog posts created by NLP and ML researchers. In addition, we created a test set of abstractive summaries for testing submissions. Each submission is judged against one reference summary (gold summary) using ROUGE and should not exceed 600 words.
 
 <!--The [1st Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/) will include two additional shared tasks: 
 -  [Scisumm](https://github.com/WING-NUS/scisumm-corpus) - focuses on automatic paper summarization on a new corpus of research papers in Computational Linguistics (CL) domain -->
