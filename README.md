@@ -1,6 +1,27 @@
 # LongSumm
 A Shared Task at [NAACL 2021](https://2021.naacl.org/) that focuses on generation of long summaries for scientific documents. LongSumm is one of three shared tasks conducted as part of: [2nd Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/)
 
+If you use this dataset in your work, please cite our paper:
+```
+@inproceedings{chandrasekaran-etal-2020-overview-insights,
+    title = "Overview and Insights from the Shared Tasks at Scholarly Document Processing 2020: {CL}-{S}ci{S}umm, {L}ay{S}umm and {L}ong{S}umm",
+    author = "Chandrasekaran, Muthu Kumar  and
+      Feigenblat, Guy  and
+      Hovy, Eduard  and
+      Ravichander, Abhilasha  and
+      Shmueli-Scheuer, Michal  and
+      de Waard, Anita",
+    booktitle = "Proceedings of the First Workshop on Scholarly Document Processing",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.sdp-1.24",
+    doi = "10.18653/v1/2020.sdp-1.24",
+    pages = "214--224",
+}
+```
+
 ### Important announcements (February 25, 2021) : 
 
 -  Based on request form several teams the blind test set runs are now due by March 1, 2021 (AoE): see https://github.com/guyfe/LongSumm#timeline </font>
@@ -20,7 +41,6 @@ The corpus for this task includes a training set that consists of 1705 extractiv
 -  [Scisumm](https://github.com/WING-NUS/scisumm-corpus) - focuses on automatic paper summarization on a new corpus of research papers in Computational Linguistics (CL) domain -->
 <!--
 - LaySumm - focuses on enabling systems to automatically generate lay summaries. A lay summary explains, succinctly and without using technical jargon, what the overall scope, goal and potential impact of a scientific paper is.-->
-
 
 
 # LongSumm - Data and Instructions
