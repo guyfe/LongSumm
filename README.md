@@ -1,13 +1,20 @@
 # LongSumm
-A Shared Task at [NAACL 2021](https://2021.naacl.org/) that focuses on generation of long summaries for scientific documents. LongSumm is one of three shared tasks conducted as part of: [2nd Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/)
+A Shared Task at [COLINNG 2022](https://coling2022.org/) that focuses on generation of long summaries for scientific documents. LongSumm shared task conducted as part of: [3rd Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/).
+
+This is the thrid year of this task, previous reports can be found in [2020](https://aclanthology.org/2020.sdp-1.24/) and [2021](https://aclanthology.org/2021.sdp-1.22/).
 
 
-### Important announcements (February 25, 2021) : 
+### Important announcements (May 4, 2022) :
+- See below the timeline for the task.
+- \** Check our new shared task [Multi Perspective Scientific Document Summarization- MuP](https://github.com/allenai/mup).
+
+
+<!-- ### Important announcements (February 25, 2021) : 
 
 -  Based on request form several teams the blind test set runs are now due by March 1, 2021 (AoE): see https://github.com/guyfe/LongSumm#timeline </font>
 - Please do not forget to select one of your submissions to appear in the leaderboard. 
 - Participant teams are asked to send us an email with the team name and contact details of at least one corresponding author. 
-
+ -->
 
 # LongSumm - Overview
 
@@ -46,7 +53,7 @@ If you use this dataset in your work, please cite our paper:
 
 
 # LongSumm - Data and Instructions
-You are invited to participate in the LongSumm Shared Task at [SDP@NAACL 2021](https://2021.naacl.org/). This repository contains the dataset and instructions on how to participate in the task.
+You are invited to participate in the LongSumm Shared Task at [SDP@COLINNG 2022](https://coling2022.org/). This repository contains the dataset and instructions on how to participate in the task.
 
 ## Training Data
 The training data is composed of abstractive and extractive summaries.
@@ -178,7 +185,9 @@ The submission should be **a single json file** containing all summaries, follow
 https://github.com/guyfe/LongSumm/blob/master/scripts/evaluation_script.py
 
 ### Leaderboard
-In order to submit you will need to follow these steps:
+
+TBD
+<!-- In order to submit you will need to follow these steps:
 1. Create an IBM account at ibm.com (https://tinyurl.com/ydcd6hjg). Please use the email account that you registered to the task.
 2. Login to the AI Leaderboard (https://aieval.draco.res.ibm.com/) with your IBM account
 
@@ -193,24 +202,24 @@ AI Leaderboard instructions:
 
 * Firefox and Chrome browsers are supported
 * In any case that you seems not to see submission/results on leaderboard press refresh that page (Ctrl+Shift+R or Cmnd+Shift+r)
+ -->
+### LongSumm 2022 Results
 
-### LongSumm 2020 Results
-
-https://aieval.draco.res.ibm.com/challenge/39/leaderboard/39
+TBD
 
 
 ### Rules
 - You can submit up to 25 runs.
 
 ### Timeline
-- Train & public test set release – December 14, 2020 (registration opens)
-- Blind test set release – February 19, 2021
-- Blind test set runs due – March 1, 2021 ~~February 26, 2021~~ (registration closes)
-- Final evaluation results published – March 1, 2021
-- All paper submissions due – March 15, 2021
-- Notification of acceptance – April 15, 2021
-- Camera-ready papers due – April 26, 2021
-- Workshop – June 10, 2020
+- Train & public test set release – May 10, 2022 (registration opens)
+- Blind test set release – June 30, 2022
+- Blind test set runs due – July 15, 2022 (registration closes)
+<!-- - Final evaluation results published – August 15, 2022 -->
+- All paper submissions due – August 1, 2022
+- Notification of acceptance – August 15, 2022
+- Camera-ready papers due – September 5, 2022
+- Workshop – October 16/17, 2022
 
 ### Submission Disclaimer
 You should only submit summaries that are part of the test data. Please do not submit any confidential or personal information.
