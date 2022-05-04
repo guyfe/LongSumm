@@ -253,3 +253,10 @@ For further information about this dataset please contact the organizers of the 
 * [Michal Shmueli-Scheuer - IBM Research AI](https://researcher.watson.ibm.com/researcher/view.php?person=il-SHMUELI)
 * [Guy Feigenblat - Piiano](https://Piiano.com)
 
+<br><br>
+<p style="display:inline">
+
+<img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/22341564?s=200&amp;v=4" width="100" height="100" alt="IBMResearch"> &nbsp; &nbsp; &nbsp; 
+<img width="241" height="76" src="https://piiano.com/wp-content/uploads/2021/09/Piiano-logo.svg" class="attachment-full size-full entered lazyloaded" alt="Piiano logo" data-lazy-src="https://piiano.com/wp-content/uploads/2021/09/Piiano-logo.svg" data-ll-status="loaded" alt="Piiano">
+ </p>
+ 
