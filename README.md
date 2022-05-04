@@ -213,7 +213,6 @@ TBD
 
 ### Timeline
 - Train & public test set release – May 10, 2022 (registration opens)
-- Blind test set release – June 30, 2022
 - Blind test set runs due – July 15, 2022 (registration closes)
 <!-- - Final evaluation results published – August 15, 2022 -->
 - All paper submissions due – August 1, 2022
@@ -252,5 +251,5 @@ The data was copied from the above mentioned blogs as-is. IBM is not responsible
 For further information about this dataset please contact the organizers of the shared task:
 
 * [Michal Shmueli-Scheuer - IBM Research AI](https://researcher.watson.ibm.com/researcher/view.php?person=il-SHMUELI)
-* [Guy Feigenblat - IBM Research AI](https://researcher.watson.ibm.com/researcher/view.php?person=il-GUYF)
+* [Guy Feigenblat - Piiano](https://Piiano.com)
 
