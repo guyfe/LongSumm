@@ -1,7 +1,7 @@
 # LongSumm
 A Shared Task at [COLINNG 2022](https://coling2022.org/) that focuses on generation of long summaries for scientific documents. LongSumm shared task conducted as part of: [3rd Workshop on Scholarly Document Processing](https://ornlcda.github.io/SDProc/).
 
-This is the thrid year of this task, previous reports can be found in [2020](https://aclanthology.org/2020.sdp-1.24/) and [2021](https://aclanthology.org/2021.sdp-1.22/).
+This is the thrid year of this task, previous reports can be found at [2020](https://aclanthology.org/2020.sdp-1.24/) and [2021](https://aclanthology.org/2021.sdp-1.22/).
 
 
 ### Important announcements (May 4, 2022) :
