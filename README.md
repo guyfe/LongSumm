@@ -212,7 +212,7 @@ TBD
 - You can submit up to 25 runs.
 
 ### Timeline
-- Train & public test set release – May 10, 2022 (registration opens)
+- Train & validation set release – May 10, 2022 (registration opens)
 - Blind test set runs due – July 15, 2022 (registration closes)
 <!-- - Final evaluation results published – August 15, 2022 -->
 - All paper submissions due – August 1, 2022
