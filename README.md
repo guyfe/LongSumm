@@ -213,6 +213,7 @@ TBD
 
 ### Timeline
 - Train & validation set release – May 10, 2022 (registration opens)
+- Test set release – July 1, 2022 (registration closes)
 - Blind test set runs due – July 15, 2022 (registration closes)
 <!-- - Final evaluation results published – August 15, 2022 -->
 - All paper submissions due – August 1, 2022
