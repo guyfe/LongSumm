@@ -185,8 +185,10 @@ The submission should be **a single json file** containing all summaries, follow
 https://github.com/guyfe/LongSumm/blob/master/scripts/evaluation_script.py
 
 ### Leaderboard
+We will use [Codalab](https://codalab.org/) leaderboard to evaluate the quality of the submissions. We will use the following evaluation script:   https://github.com/guyfe/LongSumm/blob/master/scripts/evaluation_script.py
 
-TBD
+Submission instructions will be updated soon. 
+
 <!-- In order to submit you will need to follow these steps:
 1. Create an IBM account at ibm.com (https://tinyurl.com/ydcd6hjg). Please use the email account that you registered to the task.
 2. Login to the AI Leaderboard (https://aieval.draco.res.ibm.com/) with your IBM account
@@ -203,8 +205,7 @@ AI Leaderboard instructions:
 * Firefox and Chrome browsers are supported
 * In any case that you seems not to see submission/results on leaderboard press refresh that page (Ctrl+Shift+R or Cmnd+Shift+r)
  -->
-### LongSumm 2022 Results
-
+### LongSumm Active Leaderboard from previous years 
 TBD
 
 
