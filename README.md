@@ -6,7 +6,7 @@ This is the thrid year of this task, previous reports can be found at [2020](htt
 
 ### Important announcements (May 4, 2022) :
 - See below the timeline for the task.
-- If you would like to participate please send us an email to longsumm.shared.task@gmail.com with your team name and affiliation
+- If you would like to participate please fill up this [form](https://forms.gle/NBigWpjnJZrPagPJ9)
 - \** Check our new shared task [Multi Perspective Scientific Document Summarization- MuP](https://github.com/allenai/mup).
 
 
