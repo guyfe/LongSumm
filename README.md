@@ -208,7 +208,7 @@ AI Leaderboard instructions:
  -->
 ### LongSumm Active Leaderboard from previous years 
 TBD
-
+![Previous years leaderboard](https://github.com/guyfe/LongSumm/blob/master/leaderboard-2021.pdf?raw=true)
 
 ### Rules
 - You can submit up to 25 runs.
