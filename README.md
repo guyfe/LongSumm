@@ -186,7 +186,7 @@ The submission should be **a single json file** containing all summaries, follow
 [https://github.com/guyfe/LongSumm/blob/master/scripts/evaluation_script.py](https://github.com/guyfe/LongSumm/blob/master/scripts/evaluate_codalab.py)
 
 ### Leaderboard
-We will use [Codalab](https://codalab.org/) leaderboard to evaluate the quality of the submissions. We will use the following evaluation script:   https://github.com/guyfe/LongSumm/blob/master/scripts/evaluation_script.py
+We will use [Codalab](https://codalab.org/) leaderboard to evaluate the quality of the submissions. We will use the following evaluation script:   [https://github.com/guyfe/LongSumm/blob/master/scripts/evaluation_script.py](https://github.com/guyfe/LongSumm/blob/master/scripts/evaluation_script.py)
 
 Submission instructions will be updated soon. 
 
