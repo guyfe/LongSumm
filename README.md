@@ -219,8 +219,7 @@ AI Leaderboard instructions:
 * In any case that you seems not to see submission/results on leaderboard press refresh that page (Ctrl+Shift+R or Cmnd+Shift+r)
  -->
 ### LongSumm Active Leaderboard from previous years 
-TBD
-![Previous years leaderboard](https://github.com/guyfe/LongSumm/blob/master/leaderboard-2021.pdf?raw=true)
+[Previous years leaderboard](https://github.com/guyfe/LongSumm/blob/master/leaderboard-2021.pdf?raw=true)
 
 ### Rules
 - You can submit up to 25 runs.
