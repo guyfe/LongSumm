@@ -168,9 +168,24 @@ There are 22 papers for the test set, as listed below.
 
 
 ## Evaluation
-The intrinsic evaluation will be done by ROUGE, using ROUGE-1, -2, -L metrics. In addition, a randomly selected subset of the summaries will undergo human evaluation.
+The intrinsic evaluation will be done by ROUGE, using ROUGE-1, -2, -L metrics. The average of the ROUGE-F scores obtained against the multiple summaries would be used for final ranking. In addition, a randomly selected subset of the summaries will undergo human evaluation.
 
-## Submission
+
+## Submission Instructions
+We will use [Codalab](https://codalab.lisn.upsaclay.fr/) to evaluate submissions against the hidden test set.
+
+Please follow the below instructions to evaluate and report your team results: 
+1. Create a [Codalab](https://codalab.lisn.upsaclay.fr/) account 
+2. Create a `.json` file with your system generated summaries on the test set. The submission should be **a single json file** containing **all generated test set summaries**. The `.json` file should have the following format: 
+```csv
+paper_id,summary
+```
+3. Compress the `.csv` file into a `.zip` file
+4. Login to Codalab, select the competition: [https://codalab.lisn.upsaclay.fr/competitions/____](https://codalab.lisn.upsaclay.fr/competitions/____)
+5. Select the Participate tab--> [Submit / View Results](https://codalab.lisn.upsaclay.fr/competitions/____#participate-submit_results). Select the Submit button and choose your local `.zip` file (from step 3). The table below the Submit button will show the status of your submission.
+6. Once the submission is uploaded and evaluated against the hidden test set the status will change to Finished. You can choose to report your results to the leaderboard or to download the scores to a text file by selecting the `Download output from scoring step` option. 
+
+**Make sure to report the highest obtained score to the leaderboard before the evaluation period ends**
 
 ### Format
 The submission should be **a single json file** containing all summaries, following the format:
