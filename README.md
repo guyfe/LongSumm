@@ -176,7 +176,7 @@ We will use [Codalab](https://codalab.lisn.upsaclay.fr/) to evaluate submissions
 
 Please follow the below instructions to evaluate and report your team results: 
 1. Create a [Codalab](https://codalab.lisn.upsaclay.fr/) account 
-2. Create a `.json` file with your system generated summaries on the test set. The submission should be **a single json file** containing **all generated test set summaries**. The `.json` file should have the following format: (submission format)[https://github.com/guyfe/LongSumm/blob/master/README.md#format]
+2. Create a `.json` file with your system generated summaries on the test set. The submission should be **a single json file** containing **all generated test set summaries**. The `.json` file should have the following format: [Submission Format](#submission-format)
 4. Compress the `.json` file into a `.zip` file
 5. Login to Codalab, select the competition: [https://codalab.lisn.upsaclay.fr/competitions/____](https://codalab.lisn.upsaclay.fr/competitions/____)
 6. Select the Participate tab--> [Submit / View Results](https://codalab.lisn.upsaclay.fr/competitions/____#participate-submit_results). Select the Submit button and choose your local `.zip` file (from step 3). The table below the Submit button will show the status of your submission.
