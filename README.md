@@ -4,6 +4,9 @@ A Shared Task at [COLINNG 2022](https://coling2022.org/) that focuses on generat
 This is the thrid year of this task, previous reports can be found at [2020](https://aclanthology.org/2020.sdp-1.24/) and [2021](https://aclanthology.org/2021.sdp-1.22/).
 
 
+### Important announcement (June 30, 2022) :
+Evaluation period has started, see [Submission Instructions](#submission-instructions).
+
 ### Important announcements (May 4, 2022) :
 - See below the timeline for the task.
 - If you would like to participate please fill up this [form](https://forms.gle/NBigWpjnJZrPagPJ9)
