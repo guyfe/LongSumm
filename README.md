@@ -172,10 +172,10 @@ The intrinsic evaluation will be done by ROUGE, using ROUGE-1, -2, -L metrics. T
 
 
 ## Submission Instructions
-We will use [Codalab](https://codalab.lisn.upsaclay.fr/5693) to evaluate submissions against the hidden test set.
+We will use [Codalab](https://codalab.lisn.upsaclay.fr/) to evaluate submissions against the hidden test set.
 
 Please follow the below instructions to evaluate and report your team results: 
-1. Create a [Codalab](https://codalab.lisn.upsaclay.fr/5693) account 
+1. Create a [Codalab](https://codalab.lisn.upsaclay.fr/) account 
 2. In the "Settings" pane, and under "Competition settings", set "Team name" to the name you are using for the shared task (this name will appear in the leaderboard)
 3. Create a `.json` file with your system generated summaries on the test set. The submission should be **a single json file** containing **all generated test set summaries**. The `.json` file should have the following format: [Submission Format](#submission-format)
 4. Compress the `.json` file into a `.zip` file
