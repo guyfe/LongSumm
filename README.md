@@ -219,8 +219,13 @@ AI Leaderboard instructions:
 * Firefox and Chrome browsers are supported
 * In any case that you seems not to see submission/results on leaderboard press refresh that page (Ctrl+Shift+R or Cmnd+Shift+r)
  -->
-### LongSumm Active Leaderboard from previous years 
+### LongSumm Leaderboard from previous years 
 [Previous years leaderboard](https://github.com/guyfe/LongSumm/blob/master/leaderboard-2021.pdf?raw=true)
+
+### Previous Years system Reports  
+LongSumm 2021 - [https://aclanthology.org/volumes/2021.sdp-1/](https://aclanthology.org/volumes/2021.sdp-1/)
+LongSumm 2020 - [https://aclanthology.org/volumes/2020.sdp-1/](https://aclanthology.org/volumes/2020.sdp-1/)
+
 
 ### Rules
 - You can submit up to 25 runs.
